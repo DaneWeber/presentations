@@ -17,9 +17,14 @@
 			var link = document.createElement( 'link' );
 			link.rel = 'stylesheet';
 			link.type = 'text/css';
-			link.href = window.location.search.match( /print-pdf/gi ) ? '../reveal.js/css/print/pdf.css' : '../reveal.js/css/print/paper.css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? '../../reveal.js/css/print/pdf.css' : '../../reveal.js/css/print/paper.css';
 			document.getElementsByTagName( 'head' )[0].appendChild( link );
 		</script>
+		
+		<style>
+		.ready i#done { visibility: visible }
+		i#done { color: #33dd66; visibility: hidden }
+		</style>
 	</head>
 	<body>
 		<div class="reveal">
@@ -27,6 +32,7 @@
 				<section>
 						<section>Starting point</section>
 						<section>Secondary slide found below starting slide</section>
+						<section>Ready? <i id="done">Yes</i></section>
 					</section>
 				<section>Second main slide</section>
 				<section>Last slide</section>
@@ -42,10 +48,10 @@
 			// - https://github.com/hakimel/reveal.js#dependencies
 			Reveal.initialize({
 				dependencies: [
-					{ src: '../reveal.js/plugin/markdown/marked.js' },
-					{ src: '../reveal.js/plugin/markdown/markdown.js' },
-					{ src: '../reveal.js/plugin/notes/notes.js', async: true },
-					{ src: '../reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+					{ src: '../../reveal.js/plugin/markdown/marked.js' },
+					{ src: '../../reveal.js/plugin/markdown/markdown.js' },
+					{ src: '../../reveal.js/plugin/notes/notes.js', async: true },
+					{ src: '../../reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
 				]
 			});
 		</script>

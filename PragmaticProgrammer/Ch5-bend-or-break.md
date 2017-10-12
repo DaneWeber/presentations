@@ -10,7 +10,7 @@ Chapter 5 of _The Pragmatic Programmer_
  - Does it really make a difference?
 
 
-# Law of Demeter
+### Law of Demeter
 
 Kind of like _DRY (Don't Repeat Yourself)_ for object attributes and method calls.
 
@@ -21,7 +21,7 @@ Kind of like _DRY (Don't Repeat Yourself)_ for object attributes and method call
 <span class="footnote">Code examples copied from https://www.dan-manges.com/blog/37</span>
 
 
-Bad:
+#### Bad:
 
 ```Ruby
 class Wallet
@@ -43,7 +43,7 @@ end
 ```
 
 
-Hmm:
+#### Hmm:
 
 ```Ruby
 class Wallet
@@ -71,7 +71,7 @@ end
 ```
 
 
-Better:
+#### Better:
 
 ```Ruby
 class Wallet

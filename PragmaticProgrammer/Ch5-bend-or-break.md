@@ -176,6 +176,16 @@ My take-aways:
  - Application example
 
 
-### ???
+### Example blackboard architecture
 
- - Dependency injection?
+<span class="footnote">Cyberspace situational awareness system high-level architecture slides from Tim Bass<br /> https://www.slideshare.net/TimBassCEP/a-high-level-blackboard-architecture-for-cyber-sa</span>
+
+
+![Blackboard, controller, agents, and humans](https://image.slidesharecdn.com/blackboardprototypebass02-170507140432/95/a-high-level-blackboard-architecture-for-cyber-sa-9-638.jpg?cb=1494165908)
+
+
+![Technology stack](https://image.slidesharecdn.com/blackboardprototypebass02-170507140432/95/a-high-level-blackboard-architecture-for-cyber-sa-10-638.jpg?cb=1494165908)
+
+
+
+![That's all folks!](https://media.giphy.com/media/mR3dXKpI6P8CA/giphy.gif)

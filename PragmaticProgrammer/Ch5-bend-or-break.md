@@ -119,11 +119,15 @@ end
  - Provide easy work-arounds for critical bugs.
  - Express details in a manner closer to the domain (DSL?)
  - Reusable code.
+ 
+Note: Flexible, easy-to-change code is important. We do a lot of metadata-driven work with our flags.
 
 
 #### Code vs. configuration
 
 ![Electro-magnetic spectrum](https://ka-perseus-images.s3.amazonaws.com/1f69f2373d9136ed9a061a3a1b64cbffe3abc9b2.png)
+
+Note: both code and configuration are human-readable computer instructions, so I see them on a continuum.
 
 
 #### YAGNI
@@ -154,6 +158,8 @@ end
 
 ![A typical microservie architecture on AWS](https://image.slidesharecdn.com/microservicesarchitecturesonawsfinal-161012055233/95/microservices-architectures-on-amazon-web-services-13-638.jpg?cb=1476251613)
 
+Note: Microservices are real!
+
 
 
 ## 29. It's just a view
@@ -168,6 +174,8 @@ My take-aways:
  - Decouple in a way that makes sense.
  - Abstract and encapsulate especially where the purpose is different (e.g. a model, controller, view, view-model, presenter, view-of-a-view)
  - Make future changes easier.
+
+Note: See page 163 for the view-of-a-view graph.
 
 
 

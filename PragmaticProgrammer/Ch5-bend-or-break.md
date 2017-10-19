@@ -183,6 +183,8 @@ My take-aways:
 
 ![Blackboard, controller, agents, and humans](https://image.slidesharecdn.com/blackboardprototypebass02-170507140432/95/a-high-level-blackboard-architecture-for-cyber-sa-9-638.jpg?cb=1494165908)
 
+Note: BlackBoard, Knowledge Source {Sensors, Knowledge Processors, Actuators}, blackboard Controller
+
 
 ![Technology stack](https://image.slidesharecdn.com/blackboardprototypebass02-170507140432/95/a-high-level-blackboard-architecture-for-cyber-sa-10-638.jpg?cb=1494165908)
 

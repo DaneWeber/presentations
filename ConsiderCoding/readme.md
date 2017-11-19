@@ -1,1 +1,1 @@
-[Consider Coding](https://daneweber.github.io/presentations/DataMigration/considerCoding.html)
+[Consider Coding](https://daneweber.github.io/presentations/ConsiderCoding/considerCoding.html)

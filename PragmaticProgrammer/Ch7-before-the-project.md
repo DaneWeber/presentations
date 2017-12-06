@@ -18,10 +18,30 @@ _Perfection is achieved, not when there is nothing left to add, but when there i
 - See from the user's point of view
 
 
+### Caveats
+
+- Don't over-specify: _requirements_ are _needs_, not architecture, design, or UI documentation.
+- Use abstractions in code--don't blindly encode the details.
+- Feature growth must be weighed against lengthening the schedule.
+
+
+### Non-Functional Requirements
+
+![Structure with functionality as the cap, usability/accessibility/credibility/discoverability as columns, and confidentiality/integrity/availability as the foundation](assets\requirements_structure.png)
+
+
+### Documentation
+
+- Project glossary
+- Easy access to documentation
+- Hyperlinks
+- _Requirements_, not implementation details
+
+
 ### Use Cases
 
 - Let's go through everything in [Cockburn's template](http://alistair.cockburn.us/Basic+use+case+template)
-
+- Maybe we shouldn't be so allergic to written requirements
 
 Use Case: (number) (the name should be the goal as a short active verb phrase)
 
@@ -91,10 +111,55 @@ Use Case: (number) (the name should be the goal as a short active verb phrase)
 ## 37. Solving Impossible Puzzles
 
 
+### Inside-the-box thinking
+
+Don't think outside the box--_find_ the box.
+
+
+### Is there an easier way?
+
+- Are you trying to solve the right problem?
+- Why is this thing a problem?
+- What is it that's making it so hard to solve?
+- Does it have to be done this way?
+- Does it have to be done at all?
+
+
+
 ## 38. Not Until You're Ready
+
+- Listen to your instincts.
+- Wait.
+- Prototype?
+- Start.
+
 
 
 ## 39. The Specifications Trap
 
+Requirements gathering, design, and implementation are facets of the same process: delivering a quality system.
+
+
+### ...the Handling Non-Landing Pilot continues handling...
+
+- Doing may be better than telling
+- No straightjackets--needs and problem statements
+- Seamlessly move from specification to implementation
+
+
 
 ## 40. Circles and Arrows
+
+Watch out for attempts to make programming more like engineering
+
+
+### Formal methods have problems
+
+- Better to give users a prototype than a requirements doc
+- Cross-functional views of the whole system, not requirement-gathering and modeling experts
+- Dynamic systems are frequently better where formal specs imply static relationships
+
+
+### Work constantly to refine and improve your processes
+
+Discuss: formal methods of the past

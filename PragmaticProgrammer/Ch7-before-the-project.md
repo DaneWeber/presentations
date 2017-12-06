@@ -110,9 +110,6 @@ Use Case: (number) (the name should be the goal as a short active verb phrase)
 
 ## 37. Solving Impossible Puzzles
 
-
-### Inside-the-box thinking
-
 Don't think outside the box--_find_ the box.
 
 

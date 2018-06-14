@@ -8,4 +8,4 @@
 
 [Consider Coding](https://daneweber.github.io/presentations/ConsiderCoding/considerCoding.html)
 
-[Under-cover Scrum Master](https://daneweber.github.io/presentations/UndercoverScrumMaster/UndercoverScrumMaster.html)
+[Undercover Scrum Master](https://daneweber.github.io/presentations/UndercoverScrumMaster/UndercoverScrumMaster.html)

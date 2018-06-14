@@ -7,3 +7,5 @@
 [Data Migration - The Smart Way](https://daneweber.github.io/presentations/DataMigration/dataMigration.html)
 
 [Consider Coding](https://daneweber.github.io/presentations/ConsiderCoding/considerCoding.html)
+
+[Under-cover Scrum Master](https://daneweber.github.io/presentations/UndercoverScrumMaster/UndercoverScrumMaster.html)

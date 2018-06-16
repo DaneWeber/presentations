@@ -4,7 +4,13 @@
 
 ## Writing code = fun
 
-feedback loops!
+feedback loops are gratifying
+
+* seeing someone use the software
+* demoing to a stakeholder
+* tester approval
+* seeing the software work
+* getting automated tests to pass
 
 
 

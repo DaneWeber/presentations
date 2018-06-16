@@ -102,7 +102,7 @@ we get tired
 
 ## Bonus: the CSD
 
-* three days
+* CSM + three days of Agile engineering
 * hands-on TDD
 * all about automated tests
 * SOLID design principles

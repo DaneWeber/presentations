@@ -1,7 +1,7 @@
 # Undercover Scrum Master
 
 
-* Software development support since 2009 (PO, BA, AO, etc.).
+* Software development since 2009 (PO, BA, AO, etc.).
 * Part-time Scrum Master starting in 2013.
 * Full-time Scrum Master/Agile Coach from January 2016 until...
 * Ruby developer on Scrum team starting August 2017.

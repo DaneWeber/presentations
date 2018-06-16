@@ -41,9 +41,9 @@ feels really good, when it flows
 
 ### Messy tests
 
-* mocking helps run tests more quickly (good) and with a narrower focus (also good)
-* mocking requires knowing about how remote parts of the application work
-* figuring out the required mocks for poorly tested existing code is a royal pain
+* test doubles (mocks) helps run tests more quickly (good) and with a narrower focus (also good)
+* test doubles requires knowing about how remote parts of the application work
+* figuring out the required test doubles for poorly-tested existing code is a royal pain
 * poorly tested code discourages new tests
 
 ---
@@ -97,3 +97,13 @@ we get tired
 
 * full pairing takes infrastructure and courage
 * not intuitive and probably not comfortable
+
+---
+
+## Bonus: the CSD
+
+* three days
+* hands-on TDD
+* all about automated tests
+* SOLID design principles
+* a little about pairing

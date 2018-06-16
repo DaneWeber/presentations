@@ -106,4 +106,5 @@ we get tired
 * hands-on TDD
 * all about automated tests
 * SOLID design principles
+* Clean code
 * a little about pairing

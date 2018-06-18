@@ -80,6 +80,7 @@ we get tired
 
 * so many tools, languages, & responsibilities
 * need to know business, technology, and process
+* this load gets even worse in a "scaled" scenario
 
 ---
 
@@ -89,14 +90,16 @@ we get tired
 * need the big picture for executive decision-making
 * want early input to avoid bad path dependency
 * also want to focus on the work-at-hand (fun feedback loops)
+* and want to reduce cognitive load
 
 ---
 
 ## "Pairing," pairing, and Pairing
 
 
-* full pairing takes infrastructure and courage
-* not intuitive and probably not comfortable
+* full pairing takes infrastructure (hardware/screeshare) and courage
+* not intuitive and generally not comfortable
+* even close collaboration is a skill and not guaranteed to succeed
 
 ---
 

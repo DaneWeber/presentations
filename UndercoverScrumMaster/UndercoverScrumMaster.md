@@ -28,10 +28,10 @@ feels really good, when it flows
 
 ---
 
-## Testing infrastructure <br/> != <br/> fun
+## Test infrastructure <br/> != <br/> fun
 
 
-### Infrastructure is a necessary chore
+### Creating & maintaining test infrastructure is a necessary chore
 
 * it's easier when it grows with the product
 * testing a simple function is simple
@@ -41,7 +41,7 @@ feels really good, when it flows
 
 ### Messy tests
 
-* test doubles (mocks) helps run tests more quickly (good) and with a narrower focus (also good)
+* test doubles (mocks) help run tests more quickly (good) and with a narrower focus (also good)
 * test doubles requires knowing about how remote parts of the application work
 * figuring out the required test doubles for poorly-tested existing code is a royal pain
 * poorly tested code discourages new tests

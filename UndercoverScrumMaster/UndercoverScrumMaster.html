@@ -27,6 +27,7 @@
 	<div class="reveal">
 		<div class="slides">
 
+			<!-- <section data-background-image="noun_Detective_1098021.svg" data-background-size="150%" data-background-position="50% 30%" -->
 			<section data-markdown="UndercoverScrumMaster.md" data-separator="^---" data-separator-vertical="^\r?\n\r?\n" data-separator-notes="^Note:">
 			</section>
 
@@ -46,7 +47,18 @@
 				{ src: '../../reveal.js/plugin/markdown/markdown.js' },
 				{ src: '../../reveal.js/plugin/notes/notes.js', async: true },
 				{ src: '../../reveal.js/plugin/highlight/highlight.js', async: true, callback: function () { hljs.initHighlightingOnLoad(); } }
-			]
+			],
+			// Parallax background image
+			parallaxBackgroundImage: 'dark-undercover-cap.jpg', // e.g. "https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg"
+
+			// Parallax background size
+			parallaxBackgroundSize: '2736px 1132px', // CSS syntax, e.g. "2100px 900px" - currently only pixels are supported (don't use % or auto)
+
+			// Number of pixels to move the parallax background per slide
+			// - Calculated automatically unless specified
+			// - Set to 0 to disable movement along an axis
+			parallaxBackgroundHorizontal: 180,
+			parallaxBackgroundVertical: 45
 		});
 	</script>
 </body>

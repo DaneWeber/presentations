@@ -141,7 +141,7 @@ Note:
 
 ### So much to think about
 
-•&nbsp;HTML •&nbsp;CSS •&nbsp;Javascript •&nbsp;React •&nbsp;Redux •&nbsp;Ruby •&nbsp;Rails •&nbsp;Redis •&nbsp;SQL •&nbsp;Postgres •&nbsp;ESLint •&nbsp;Jest •&nbsp;Codecept •&nbsp;Cucumber •&nbsp;JMeter •&nbsp;RSwag •&nbsp;RSpec •&nbsp;Rubocop •&nbsp;VS Code •&nbsp;DataGrip •&nbsp;Bash •&nbsp;SSH •&nbsp;Oracle •&nbsp;OAuth2 •&nbsp;Swagger •&nbsp;Insomnia •&nbsp;Nginx •&nbsp;Regex •&nbsp;Slack •&nbsp;Outlook •&nbsp;SNow •&nbsp;Zoom •&nbsp;Git •&nbsp;GitHub •&nbsp;Jenkins •&nbsp;Docker •&nbsp;AWS •&nbsp;Splunk •&nbsp;New Relic •&nbsp;Toggles •&nbsp;Cloudwatch •&nbsp;JIRA •&nbsp;Trello •&nbsp;Graphviz •&nbsp;Markdown •&nbsp;Kibana •&nbsp;Sidekiq •&nbsp;Elasticsearch
+•&nbsp;HTML •&nbsp;CSS •&nbsp;Javascript •&nbsp;React •&nbsp;Redux •&nbsp;Ruby •&nbsp;Rails •&nbsp;Redis •&nbsp;SQL •&nbsp;Sequel •&nbsp;Postgres •&nbsp;ESLint •&nbsp;Jest •&nbsp;Codecept •&nbsp;Cucumber •&nbsp;JMeter •&nbsp;RSwag •&nbsp;RSpec •&nbsp;Rubocop •&nbsp;VS&nbsp;Code •&nbsp;DataGrip •&nbsp;Bash •&nbsp;SSH •&nbsp;Oracle •&nbsp;OAuth2 •&nbsp;Swagger •&nbsp;Insomnia •&nbsp;Nginx •&nbsp;Regex •&nbsp;Slack •&nbsp;Outlook •&nbsp;SNow •&nbsp;Zoom •&nbsp;Git •&nbsp;GitHub •&nbsp;Jenkins •&nbsp;Docker •&nbsp;ECS •&nbsp;SQS •&nbsp;S3 •&nbsp;CI/CD&nbsp;Automation •&nbsp;Splunk •&nbsp;New&nbsp;Relic •&nbsp;Toggles •&nbsp;Cloudwatch •&nbsp;JIRA •&nbsp;Trello •&nbsp;Graphviz •&nbsp;Markdown •&nbsp;Kibana •&nbsp;Sidekiq •&nbsp;Elasticsearch
 
 
 ### Plus Plus!

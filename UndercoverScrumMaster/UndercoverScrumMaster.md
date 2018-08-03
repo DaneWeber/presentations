@@ -219,6 +219,13 @@ Note:
 
 ## Conclusion
 
+Note:
+* What would I do differently if I went back to being a Scrum Master tomorrow?
+* What one take-away do I want folks to take away?
+* How to sell developers on Pair Programming?
+* Explain what Pair Programming is (Extreme Code Reviews)
+* Business Value as developer. (Conflated with demo-able, UI, PO-testable)
+
 
 <img src="noun_Detective_1098021.svg" alt="more info" class="plain" style="background: none" width="40%" />
 

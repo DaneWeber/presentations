@@ -9,3 +9,6 @@
 [Consider Coding](https://daneweber.github.io/presentations/ConsiderCoding/considerCoding.html)
 
 [Undercover Scrum Master](https://daneweber.github.io/presentations/UndercoverScrumMaster/UndercoverScrumMaster.html)
+
+[Feedback Loop Engineering](https://daneweber.github.io/presentations/FeedbackLoopEngineering/FeedbackLoopEngineering.html)
+

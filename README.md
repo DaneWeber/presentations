@@ -12,3 +12,6 @@
 
 [Feedback Loop Engineering](https://daneweber.github.io/presentations/FeedbackLoopEngineering/FeedbackLoopEngineering.html)
 
+
+[Please Stop Modernizing](https://daneweber.github.io/presentations/PleaseStopModernizing/PleaseStopModernizing.html)
+

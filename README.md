@@ -15,3 +15,9 @@
 
 [Please Stop Modernizing](https://daneweber.github.io/presentations/PleaseStopModernizing/PleaseStopModernizing.html)
 
+
+[Finding Purpose in Coaching](https://daneweber.github.io/presentations/FindingPurposeInCoaching/FindingPurposeInCoaching.html)
+
+
+[Right Proper VCR](https://daneweber.github.io/presentations/RightProperVcr/RightProperVcr.html)
+

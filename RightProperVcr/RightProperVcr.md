@@ -131,4 +131,4 @@ end
 Let's fix up our tests so that they can be re-recorded with `make update_specs`
 
 
-![VHS Laptop](https://bigmemes.funnyjunk.com/pictures/Vhs+laptop+never+seen+one+of+these+in+real+life_5b3846_6907550.jpg)
+![VHS Laptop](https://pics.me.me/a-laptop-but-w-a-vhs-player-shoujocowboy-oor-winvhs-37526951.png)

@@ -71,7 +71,7 @@ let(:example_case) {
                status: :CONFIRM_DETAILS)
 }
 
-let(:case_number) { example.case_number }
+let(:case_number) { example_case.case_number }
 ```
 
 <p class="fragment">Let's create a helper class that authenticates 🔑🔓, creates cases 🏭, and moves them 🚚 through the process so that we can easily specify what we need for a test to pass.</p>

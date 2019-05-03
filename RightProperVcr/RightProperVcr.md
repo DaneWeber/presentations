@@ -71,7 +71,64 @@ let(:example_case) {
                status: :CONFIRM_DETAILS)
 }
 
-let(:case_number) { example.case_number }
+let(:case_number) { example_case.case_number }
 ```
 
 <p class="fragment">Let's create a helper class that authenticates 🔑🔓, creates cases 🏭, and moves them 🚚 through the process so that we can easily specify what we need for a test to pass.</p>
+
+
+
+## Refresher
+
+
+eve-cases-v30 VCR config
+
+```Ruby
+VCR.configure do |config|
+  config.cassette_library_dir = 'spec/vcr'
+  config.hook_into :webmock
+  config.configure_rspec_metadata!
+  config.debug_logger = File.open(Rails.root.join('tmp', 'debug.rb'), 'w')
+end
+```
+
+
+How we use it
+
+```Ruby
+describe 'Cases API' do
+  # ...
+  path '/cases/alert_counts' do
+    get 'Case Alert Counts' do
+      # ...
+      context 'Success Scenario', vcr: { cassette_name: 'cases/count' } do
+        response '200', 'Success' do
+          # ...
+          run_test!
+        end
+      end
+    end
+  end
+end
+```
+
+
+But we have `config.configure_rspec_metadata!` in the config, so we don't need to explicitly name our 📼, assuming we can just automatically record.
+
+
+We could just use
+
+```Ruby
+describe 'Cases API', :vcr do
+  # ...
+end
+```
+
+
+
+## But again
+
+Let's fix up our tests so that they can be re-recorded with `make update_specs`
+
+
+<img width="50%" height="50%" src="https://pics.me.me/a-laptop-but-w-a-vhs-player-shoujocowboy-oor-winvhs-37526951.png"></img>

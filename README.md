@@ -24,3 +24,6 @@
 
 [DevOps Fundamentals](https://daneweber.github.io/presentations/DevopsFundamentals/DevopsFundamentals.html)
 
+
+[Team Structure Trade-Offs](https://daneweber.github.io/presentations/TeamStructureTrade-offs/TeamStructureTrade-offs.html)
+

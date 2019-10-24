@@ -28,6 +28,11 @@ html.sub!(%r{data-markdown="[^"]+"}, %Q{data-markdown="#{name}.md"})
 
 files["#{name}.html"] = html
 
+serve = File.read(File.join('Template', 'serve.ps1'))
+serve.sub!('/name/name.html', "/#{name}/#{name}.html")
+
+files["serve.ps1"] = serve
+
 Dir.mkdir(name)
 Dir.chdir(name) do
   files.each{ |fname, content| File.write(fname, content) }

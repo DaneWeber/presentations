@@ -93,3 +93,14 @@ Related to team specialization, responsibility for various chores can be handled
 The larger a group, the harder it is to have a conversation, make joint decisions, and try new ideas.
 
 Smaller groups can take risks with less effect on the entire product.
+
+
+
+## Trade-offs
+
+- Work Group vs. Team
+- Communication channels within a team vs. communication channels between teams
+- Team specialization vs. product agility
+- Bulkheads against disruptions
+- Load-balancing
+- Autonomy & experimentation vs. conformity

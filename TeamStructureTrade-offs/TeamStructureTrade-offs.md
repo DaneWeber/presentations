@@ -9,7 +9,7 @@
 
 - Work groups can be collaborative and supportive, achieving a shared mission.
 - Individuals are primarily responsible for their contributions.
-- Sales folk working for commission are a clear example of a work group, because they contribute to the groups success by maximizing their own success.
+- Sales folk working for commission are a clear example of a work group, because they contribute to the group's success by maximizing their own success.
 
 
 
@@ -93,6 +93,32 @@ Related to team specialization, responsibility for various chores can be handled
 The larger a group, the harder it is to have a conversation, make joint decisions, and try new ideas.
 
 Smaller groups can take risks with less effect on the entire product.
+
+
+
+## Example Structures
+
+- Scrum team of 3-9 people for one product.
+- LeSS - multiple interchangeable Scrum teams for one product.
+- Kanban - structure agnostic. Organize teams as customers of other teams.
+- Crystal - functional teams when 21-40 people.
+- FAST - create new teams every (short) iteration based on the work.
+
+
+
+## Extra Credit
+
+
+## Scaling Manifesto
+
+https://scalingmanifesto.org/
+
+- **Shared vision** over aligned processes
+- **Organic growth** over pre-defined structure
+- **High performing organization** over high performing teams
+- **Team-empowered responsibility** over organizational policies
+
+Ten supporting principles.
 
 
 

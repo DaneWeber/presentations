@@ -30,3 +30,6 @@
 
 [Agile Coaching Approach](https://daneweber.github.io/presentations/AgileCoachingApproach/AgileCoachingApproach.html)
 
+
+[Scaling Manifesto](https://daneweber.github.io/presentations/ScalingManifesto/ScalingManifesto.html)
+

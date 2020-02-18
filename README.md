@@ -33,3 +33,6 @@
 
 [Scaling Manifesto](https://daneweber.github.io/presentations/ScalingManifesto/ScalingManifesto.html)
 
+
+[Smooth Flow of Value](https://daneweber.github.io/presentations/SmoothFlowOfValue/SmoothFlowOfValue.html)
+

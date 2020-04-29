@@ -95,3 +95,54 @@ Focus on identifying the contributing causes of the incident without indicting a
 
 
 Blame also short-circuits the investigation. If Cloudflare blamed the engineer for the highly-backtracking regex, they might have ended without any further actions than "don't write bad regex."
+
+
+
+## PIR Format
+
+
+**Open:** review purpose of the Post-Incident Review.
+
+**Data:** construct and inspect the timeline of events.
+
+**Insights:** identify the contributing factors.
+
+**Decide:** change the human/machine system for the better.
+
+**Close:** reflect on the Post-Incident Review.
+
+
+### Open
+
+- The purpose is to inspect, learn, and adapt.
+- Outcomes should be the changes to be made.
+- Reminder against blaming.
+
+
+### Data
+
+- Review the timeline of events.
+- Add important events.
+- Ask about events for understanding.
+
+
+### Insights
+
+- What factors contributed to the incident occuring?
+- What factors contributed to the time it took to discover the incident?
+- What factors contributed to the time it took to remedy the incident?
+- Explore both the triggers and the pre-conditions within these factors.
+
+
+## Decide
+
+- How can we know more quickly? (incident detection)
+- How do we recover more quickly? (incident response and resolution)
+- What did we learn about our system as a whole? (people, process, and technology)
+- How can we improve?
+
+
+## Close
+
+- Was this Post-Incident Review (PIR) effective?
+- How can future PIRs be more effective?

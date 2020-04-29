@@ -83,3 +83,15 @@ Although the regular expression itself is of interest to many people (and is dis
 6) Putting in place an emergency ability to take the Cloudflare Dashboard and API off Cloudflare's edge.
 
 7) Automating update of the Cloudflare Status page.
+
+
+
+## Blameless
+
+
+Focus on identifying the contributing causes of the incident without indicting any individual or team for bad or inappropriate behavior. A blamelessly written [PIR] assumes that everyone involved in an incident had good intentions and did the right thing with the information they had. If a culture of finger pointing and shaming individuals or teams for doing the "wrong" thing prevails, people will not bring issues to light for fear of punishment.
+
+-- [Google SRE book](https://landing.google.com/sre/sre-book/chapters/postmortem-culture/)
+
+
+Blame also short-circuits the investigation. If Cloudflare blamed the engineer for the highly-backtracking regex, they might have ended without any further actions than "don't write bad regex."

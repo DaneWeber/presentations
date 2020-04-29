@@ -94,7 +94,9 @@ Focus on identifying the contributing causes of the incident without indicting a
 -- [Google SRE book](https://landing.google.com/sre/sre-book/chapters/postmortem-culture/)
 
 
-Blame also short-circuits the investigation. If Cloudflare blamed the engineer for the highly-backtracking regex, they might have ended without any further actions than "don't write bad regex."
+Blame also short-circuits the investigation.
+
+If Cloudflare blamed the engineer for the highly-backtracking regex, they might have ended without any further actions than "don't write bad regex."
 
 
 
@@ -134,7 +136,7 @@ Blame also short-circuits the investigation. If Cloudflare blamed the engineer f
 - Explore both the triggers and the pre-conditions within these factors.
 
 
-## Decide
+### Decide
 
 - How can we know more quickly? (incident detection)
 - How do we recover more quickly? (incident response and resolution)
@@ -142,7 +144,7 @@ Blame also short-circuits the investigation. If Cloudflare blamed the engineer f
 - How can we improve?
 
 
-## Close
+### Close
 
 - Was this Post-Incident Review (PIR) effective?
 - How can future PIRs be more effective?

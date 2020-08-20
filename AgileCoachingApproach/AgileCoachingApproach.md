@@ -1,6 +1,4 @@
-# Agile Coaching
-
-Dane Weber
+# Dane's Agile Coaching
 
 
 

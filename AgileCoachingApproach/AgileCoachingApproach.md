@@ -10,7 +10,7 @@ There are many expectations for "Scrum Master" and "Agile Coach."
 <p class="fragment">What do you expect of a coach?</p>
 
 
-"A good Scrum Master is always on the verge of being fired." --Ken Schwaber
+"A good Scrum Master is always on the verge of being fired." —Ken Schwaber
 
 
 My responsibility is to help improve:

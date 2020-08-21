@@ -36,10 +36,10 @@ Think of a 🏈 football or ⚽ soccer coach: I'm not on the field. I'm observin
 
 I don't have 🐺 silver bullets, I have feedback loops:
 
-- transparency -> inspection -> adaptation
-<p class="fragment">- reduce latency, reduce noise, increase frequency, increase signal</p>
-<p class="fragment">- building the right thing & building the thing right & how</p>
-<p class="fragment">- code, tests, logging, monitoring, alerting, resilience, plans, business value, stakeholder satisfaction, user behavior, team collaboration, etc.</p>
+<ul><li>transparency -> inspection -> adaptation</li>
+<li class="fragment">reduce latency, reduce noise, increase frequency, increase signal</li>
+<li class="fragment">building the right thing & building the thing right & how</li>
+<li class="fragment">code, tests, logging, monitoring, alerting, resilience, plans, business value, stakeholder satisfaction, user behavior, team collaboration, etc.</li></ul>
 
 
 

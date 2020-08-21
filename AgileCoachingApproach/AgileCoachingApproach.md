@@ -289,6 +289,6 @@ Docker, New Relic, Splunk, feature toggles, Jenkins, Swagger, Cypress, JMeter, R
 
 **Some organization/systems background:**
 
-Agile/Lean, DevOps, CI/CD, Extreme Programming, Large Scale Scrum (LeSS), Kanban, queuing theory, systems thinking, Fluid Scaling Technology (FaST)
+Agile/Lean, DevOps, CI/CD, Extreme Programming, Large Scale Scrum (LeSS), Kanban, queuing theory, systems thinking, Fluid Scaling Technology (FaST), production support, incident management
 
 Co-author of <https://scalingmanifesto.org/> about Scaling Agility

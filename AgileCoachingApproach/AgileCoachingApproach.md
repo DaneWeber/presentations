@@ -30,7 +30,7 @@ I should not be essential to the value stream's operation.
 <p class="fragment">My focus is improving how the work is done</p>
 
 
-Think of a football or soccer coach: I'm not on the field. I'm observing and advising.
+Think of a 🏈 football or ⚽ soccer coach: I'm not on the field. I'm observing and advising.
 
 ![Coach at whiteboard](https://static.growthofagame.com/uploads/2017/04/Football-Coach-Whiteboard-3.jpg)
 
@@ -161,10 +161,10 @@ Keeping the shop floor and operating room clean and organized is just part of th
 
 
 
-I want to make things better and better
+## I want to make things better and better
 
 
-Five Ideals:
+### Five Ideals:
 
 1. Locality and Simplicity
 2. Focus, Flow, and Joy
@@ -173,7 +173,7 @@ Five Ideals:
 5. Customer Focus
 
 
-1) Locality and Simplicity
+#### 1) Locality and Simplicity
 
 - Does it take 50 teams across five continents and 15 systems to coordinate to make a small change?
 - Congruent architecture and organization that minimizes hand-offs, bottlenecks, and coordination.
@@ -181,7 +181,7 @@ Five Ideals:
 - Reduce complexity to reduce risk and waste.
 
 
-2) Focus, Flow, and Joy
+#### 2) Focus, Flow, and Joy
 
 - Work within the problem-space, rather than with tangential matters that get in the way.
 - Rapidly go from idea to a change in production.
@@ -189,7 +189,7 @@ Five Ideals:
 - It helps to automate routine activities and get rapid feedback on work.
 
 
-3) Improvement of Daily Work
+#### 3) Improvement of Daily Work
 
 - Stop the production line and make things better.
 - It is more important to improve how we work now than just get work done.
@@ -197,7 +197,7 @@ Five Ideals:
 - Pay down technical debt by investing in technical excellence.
 
 
-4) Psychological Safety
+#### 4) Psychological Safety
 
 - Take risks without feeling insecure or embarrassed.
 - Say, “I don’t know.” -- Continuously learning.
@@ -206,48 +206,77 @@ Five Ideals:
 - This is the biggest predictor of a team’s success.
 
 
-5) Customer Focus
+#### 5) Customer Focus
 
 - Go learn what real users/customers/stakeholders need.
 - Prioritize core over context, which means doing the things that provide the real value.
 - This isn’t just one specialist’s job: we each need to understand the “why” of what we are doing so that we can make good trade-offs.
 
 
-What else should we improve?
+### What else should we improve?
 
 
 
-What to expect
+## What to expect
 
 
-- One-on-ones
-- Pair-programming and mob-programming
-- Tools and automation
-- Learning sessions
-- Retrospectives
-- Questions, advice, proposals
-- Meeting facilitation
+- 🗣👤 One-on-ones
+- 👨‍🤝‍👨🏾👩🏽‍🤝‍👩🏻 Pair-programming and mob-programming
+- 🤖 Tools and automation
+- 👩‍🏫 Learning sessions
+- 🔎 Retrospectives
+- 🙋‍♂️ Questions, advice, proposals
+- 👨‍🎨 Meeting facilitation
 
-Are these okay with you?
-
-
-
-What I bring
+<p class="fragment">Are these okay with you?</p>
 
 
-Background: Childhood; Philosophy; Psychology
+
+## What I bring
 
 
-Interests: Family; Games; Puzzles; Sci-Fi
+**Background:**
+
+- 🏡 Homeschooled
+- ✈ Air Force brat (Ohio, Virginia, Alabama, South Dakota, North Dakota)
+- 🤔 Philosophy in college
+- 🛋 Clinical Psychology doctoral program, abandoned
 
 
-Career: Analysis, PO, SM, Dev
+**Interests:**
+
+- 👨‍👦‍👦👩‍👦‍👦 Four sons
+- 🌄 Front Royal, VA (used to be a long commute)
+- 🎲🕹 Games: DnD, XCOM, Worms, 7 Wonders, ...
+- 🔓 Iron tavern puzzles & more
+- 🚀🦸‍♀️ Firefly, MCU, and other sci-fi/supers
+- ✝ Catholic
 
 
-Role: Technical Agile Coaching, Software Development Xpert
+**Tech Career:**
+
+Tech Support ➡&nbsp;Analysis ➡&nbsp;Product&nbsp;Owner ➡&nbsp;Scrum&nbsp;Master ➡&nbsp;Agile&nbsp;Coach ➡&nbsp;Developer
+
+➡&nbsp;Technical Agile Coaching
+
+<p style="font-size: 50%" class="fragment">Collecting certifications: CLP, CSD, CSM, ICP-ACC, ICP-ATA, ICP-ATF, ICP-TST, PMI-ACP, PMP, SA</p>
 
 
-Recent: myUSCIS, E-Verify, RFAD/ATA
+**Recent:**
+
+- 🔴 myUSCIS (2016)
+- ⚪️ E-Verify (2017)
+- 🔵 RFAD/ATA (2019)
+- 🏘 Homebase (2018 pro-bono)
 
 
-Some recent tech: Docker, New Relic, Splunk, feature toggles, Cypress, JMeter, SQL, regex, Ruby, Akamai, nginx
+**Some tech I've worked with recently or enjoy:**
+
+Docker, New Relic, Splunk, feature toggles, Jenkins, Swagger, Cypress, JMeter, Ruby, Akamai, nginx, SQL, regex, CSS, J (array language), AHK, Excel
+
+
+**Some organization/systems background:**
+
+Agile/Lean, DevOps, CI/CD, Extreme Programming, Large Scale Scrum (LeSS), Kanban, queuing theory, systems thinking, Fluid Scaling Technology (FaST)
+
+Co-author of <https://scalingmanifesto.org/> about Scaling Agility

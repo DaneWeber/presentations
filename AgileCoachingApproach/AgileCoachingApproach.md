@@ -2,12 +2,12 @@
 
 
 
-I'm here to coach.
+## I'm here to coach
 
 
-There are many expectations for "Scrum Master" and "Agile Coach."
+There are many expectations for 🏉 "Scrum Master" and 🚤 "Agile Coach."
 <p class="fragment">There are also many ways of _being_ those things.</p>
-<p class="fragment">What do you expect of a coach?</p>
+<p class="fragment">**What do _you_ expect of a coach?**</p>
 
 
 "A good Scrum Master is always on the verge of being fired." —Ken Schwaber
@@ -25,9 +25,9 @@ My responsibility is to help improve:
 
 
 
-I should not be essential to the value stream's operation.
+I should _not_ be essential to the value stream's operation (getting from idea to working-in-production).
 
-<p class="fragment">My focus is improving how the work is done</p>
+<p class="fragment">My focus is improving how the work is done.</p>
 
 
 Think of a 🏈 football or ⚽ soccer coach: I'm not on the field. I'm observing and advising.
@@ -36,12 +36,12 @@ Think of a 🏈 football or ⚽ soccer coach: I'm not on the field. I'm observin
 
 
 
-I don't have silver bullets, I have feedback loops:
+I don't have 🐺 silver bullets, I have feedback loops:
 
 - transparency -> inspection -> adaptation
-- reduce latency, reduce noise, increase frequency, increase signal
-- building the right thing & building the thing right & how
-- code, tests, logging, monitoring, alerting, resilience, plans, business value, stakeholder satisfaction, user behavior, team collaboration, etc. 
+<p class="fragment">- reduce latency, reduce noise, increase frequency, increase signal</p>
+<p class="fragment">- building the right thing & building the thing right & how</p>
+<p class="fragment">- code, tests, logging, monitoring, alerting, resilience, plans, business value, stakeholder satisfaction, user behavior, team collaboration, etc.</p>
 
 
 

@@ -157,7 +157,7 @@ Doing a bad job is not an option.*
 
 🛢 Should a mechanic give you the option of driving away without oil?
 
-<p class="fragment">🩺 Should a doctor ask whether you want hands to be washed and all surgical tools removed after the surgery?</p>
+<p class="fragment">🧤 Should a doctor ask whether you want hands to be washed and all surgical tools removed after the surgery?</p>
 
 
 🔩 Mechanics replacing all of the nuts and bolts, putting protective floormats in, and using funnels is just part of the deal.
@@ -180,8 +180,8 @@ Doing a bad job is not an option.*
 
 1. 🦠 Locality and Simplicity
 2. 🎯 Focus, Flow, and Joy
-3. 🪓 Improvement of Daily Work
-4. 🦺 Psychological Safety
+3. 🔪 Improvement of Daily Work
+4. ⛑ Psychological Safety
 5. 🔮 Customer Focus
 
 
@@ -201,7 +201,7 @@ Doing a bad job is not an option.*
 - It helps to automate routine activities and get rapid feedback on work.
 
 
-#### 3) 🪓 Improvement of Daily Work
+#### 3) 🔪 Improvement of Daily Work
 
 - Stop the production line and make things better.
 - It is more important to improve how we work now than just get work done.
@@ -209,7 +209,7 @@ Doing a bad job is not an option.*
 - Pay down technical debt by investing in technical excellence.
 
 
-#### 4) 🦺 Psychological Safety
+#### 4) ⛑ Psychological Safety
 
 - Take risks without feeling insecure or embarrassed.
 - Say, “I don’t know.” -- Continuously learning.

@@ -240,7 +240,7 @@ Doing a bad job is not an option.*
 - 🙋‍♂️ Questions, advice, proposals
 - 👨‍🎨 Meeting facilitation
 
-<p class="fragment">Are these okay with you?</p>
+<p class="fragment">**Are these okay with you?**</p>
 
 
 

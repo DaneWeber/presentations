@@ -45,11 +45,10 @@ I don't have silver bullets, I have feedback loops:
 
 
 
-I expect the team to be responsible, motivated, and disciplined
+## I expect the team to be responsible, motivated, and disciplined
 
 
-
-Freedom and Responsibility
+### Freedom and Responsibility
 
 
 The Rare Responsible Person
@@ -64,8 +63,10 @@ The Rare Responsible Person
 - Doesn't wait to be told what to do
 - Picks up the trash lying on the floor
 
+🚮
 
-Catch the ball
+
+🧢 Catch the ball ⚾
 
 
 ![Ball dropped between outfielders from https://www.nytimes.com/2019/10/03/sports/braves-cardinals-baseball-playoff.html](https://static01.nyt.com/images/2019/10/03/sports/03infieldflyweb-1/merlin_61795829_f1f51a73-f8c3-4e75-a135-f1bcf2ba7153-superJumbo.jpg?quality=90&auto=webp)
@@ -82,8 +83,7 @@ Catch the ball
 Responsible People **Thrive** on Freedom, and are **Worthy** of Freedom
 
 
-
-Motivated
+### Motivated
 
 
 I'm hoping for intrinsic motivation
@@ -91,27 +91,31 @@ I'm hoping for intrinsic motivation
 See [Dan Pink's "Drive"](https://www.youtube.com/watch?v=u6XAPnuFjJc)
 
 
-Autonomy - self-direction and having a say
+![Autonomy - self-directed; Mastery - better skills; Purpose - meaning & contribution from https://corporate-rebels.com/dan-pink/](https://corporate-rebels.com/CDN/549-1140x0.jpg)
 
-Mastery - working on things that push you to grow
 
-Purpose - contribute to something meaningful
+![AMP jobs you love vs hate from https://www.wrike.com/blog/leadership-instilling-autonomy-mastery-purpose-in-your-team/](https://d3tvpxjako9ywy.cloudfront.net/blog/content/uploads/2017/02/autonomy-mastery-purpose.jpg?av=2cc31f0a65dceaad2e165f80d6c20a71)
 
 
 Want to
+
 - learn
 - get better
 - work together
 - try new things
 
 
+🛑 Let me know if there's something getting in the way of your intrinsic motivation.
 
-Disciplined Professionalism
+🚧 I want to remove that impediment.
 
 
-You are trusted to act in the best interests of our clients.
+### Disciplined Professionalism
 
-Do it the right way. Do it well.
+
+You are trusted<br />to act in the best interests of our clients.
+
+<p class="fragment">Do it the right way. Do it well.</p>
 
 
 There are often options, and we should present those with trade-offs everyone can understand.
@@ -131,7 +135,7 @@ grid-row-gap: 0px;">
 </div>
 
 
-Arrhythmia can be treated with a pacemaker, ICD, medication, or catheter ablation
+Arrhythmia can be treated with a pacemaker, ICD, medication, or catheter ablation.
 
 
 <div style="display: grid;
@@ -153,11 +157,21 @@ grid-row-gap: 0px;">
 Doing a bad job is not an option.*
 
 
-Should a mechanic give you the option of driving away without oil?
+🛢 Should a mechanic give you the option of driving away without oil?
 
-Should a doctor ask whether you want hands to be washed and all surgical tools  removed after the surgery?
+<p class="fragment">🩺 Should a doctor ask whether you want hands to be washed and all surgical tools removed after the surgery?</p>
 
-Keeping the shop floor and operating room clean and organized is just part of the deal.
+
+🔩 Mechanics replacing all of the nuts and bolts, putting protective floormats in, and using funnels is just part of the deal.
+
+<p class="fragment">🧰 As is keeping the shop floor clean, tools organized, and lift in working order.</p>
+
+<p class="fragment">🧼 Surgeons washing their hands, retrieving all of their tools, and keeping the operating room clean is just part of the deal.</p>
+
+
+👩‍💻 Writing DRY, easily understood, well-tested code is just part of the deal.
+
+<p class="fragment">🧪 Updating dependencies, pair-programming, code reviews, refactoring, and automated tests are just part of the deal.</p>
 
 
 

@@ -24,7 +24,6 @@ My responsibility is to help improve:
 ![Scrum Master focus over time from LeSS](https://less.works/img/structure/scrum-master-focus-over-time.png)
 
 
-
 I should _not_ be essential to the value stream's operation (getting from idea to working-in-production).
 
 <p class="fragment">My focus is improving how the work is done.</p>
@@ -33,7 +32,6 @@ I should _not_ be essential to the value stream's operation (getting from idea t
 Think of a 🏈 football or ⚽ soccer coach: I'm not on the field. I'm observing and advising.
 
 ![Coach at whiteboard](https://static.growthofagame.com/uploads/2017/04/Football-Coach-Whiteboard-3.jpg)
-
 
 
 I don't have 🐺 silver bullets, I have feedback loops:

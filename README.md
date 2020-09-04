@@ -31,3 +31,6 @@
 [Team Structure Trade-Offs](https://daneweber.github.io/presentations/TeamStructureTrade-offs/TeamStructureTrade-offs.html)
 
 [Undercover Scrum Master](https://daneweber.github.io/presentations/UndercoverScrumMaster/UndercoverScrumMaster.html)
+
+[Psychological Safety](https://daneweber.github.io/presentations/PsychologicalSafety/PsychologicalSafety.html)
+

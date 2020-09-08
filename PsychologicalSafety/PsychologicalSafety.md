@@ -213,13 +213,28 @@ The survey is based on [Amy Edmondson's](https://www.ted.com/speakers/amy_edmond
 
 
 
-## Niko Niko
+## Metrics
+
+
+Metrics draw attention to something that matters.
+
+They also put pressure on people to improve the thing measured.
+
+I want to balance the delivery metrics—such as velocity, cycle time, and so forth.
+
+
+Value Delivery — Technical Excellence
+<p style="font-size: 400%">🔻</p>
+People Flourishing
+
+
+### Niko Niko
 
 ![niko niko calendar from https://www.agilealliance.org/glossary/nikoniko/](https://www.agilealliance.org/wp-content/uploads/2015/12/Niko-NikoCalendar.png)
 
 
 Hypothesized benefits:
 
-- Spark conversations about why someone is down: human interaction.
+- Spark conversations about why someone is down: increase human interaction.
 - Notice poor morale earlier and do something to improve.
 - Spot trends or patterns that may inspire changes.

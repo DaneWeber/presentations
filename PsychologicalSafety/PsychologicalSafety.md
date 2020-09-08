@@ -170,7 +170,7 @@ You can still help ⛏ dig a ditch while you're zoned out and letting your mind 
 <i>[eustress](https://www.merriam-webster.com/dictionary/eustress)</i> : a positive form of stress having a beneficial effect on health, motivation, performance, and emotional well-being.
 
 
-🥅 You perform better at a competition when you care about succeeding.<br />😤 Eustress instead of no stress 🥱.
+🥅 You perform better at a competition when you care about succeeding.<br />😤 Eustress instead of no stress 😌.
 
 <p class="fragment">😩 Anxiety and too much pressure to win can lead to choking and panic (distress). 😨</p>
 

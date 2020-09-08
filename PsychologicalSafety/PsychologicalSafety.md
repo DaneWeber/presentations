@@ -76,7 +76,7 @@ This comes from safety-critical work:
 - The first officer had the ability to take over the controls and abort the landing, but allowed the captain to continue flying, even during the final six seconds.
 
 
-### Safety Culture
+### ⛑ Safety Culture ⛑
 
 Don't be afraid to: 
 
@@ -86,7 +86,7 @@ Don't be afraid to:
 
 
 
-## Safe to Innovate
+## Safe to Innovate 💡
 
 
 Google studied their teams to find what ingredients led to effectiveness and high-performing teams. They found five main factors, one of which was psychological safety.
@@ -113,10 +113,11 @@ Google studied their teams to find what ingredients led to effectiveness and hig
 
 What psychological safety looks like:
 
-- Take risks without feeling insecure or embarrassed.
+- Be vulnerable.
 - Say, “I don’t know.”
 - Everyone is learning.
 - New ideas are welcomed.
+- Take risks without feeling insecure or embarrassed.
 - Failure is done in the open, examined blamelessly, and leads to growth.
 
 
@@ -129,6 +130,11 @@ Advice from Google for achieving psychological safety:
 
 
 ## Fully Engaged Brains
+
+
+Team: a stable bounded group of individuals who are interdependent in achieving a shared goal.
+
+We win and lose together.
 
 
 We will succeed by accomplishing the mission through operating a well-made software system.
@@ -145,7 +151,7 @@ We will succeed by accomplishing the mission through operating a well-made softw
 </ul>
 
 
-In software development, what do we do if we have to do the same thing again?
+In software development, what if we have to do the same thing again?
 
 <p class="fragment">Copy Paste 📋</p>
 <p class="fragment">⚙ We automate routine work.</p>
@@ -161,6 +167,11 @@ You can still help ⛏ dig a ditch while you're zoned out and letting your mind 
 <p class="fragment">You might be able to continue ⌨ data entry while thinking about other things. 🚀</p>
 
 <p class="fragment">👩‍💻 Writing user stories, coding a solution, reading error logs, and helping with nearly any system development activity requires engaging your brain. 🧐</p>
+
+
+Adding people to our team has a cost (communication and coordination overhead).
+
+Additional people are only beneficial to our success if they are mentally engaged, motivated, and safe to provide their insights, suggestions, and ideas.
 
 
 
@@ -188,12 +199,27 @@ We want individuals to enjoy their work and find it motivating.
 
 Software development is a team activity. Our teammates matter.
 
-How we communicate and work together matters.
+How we communicate and learn together matters.
 
 We need to enable every team member to fully engage without fear.
+
+
+
+### Survey
+
+Let's take an anonymous survey to gather some data on where we are now with psychological safety.
+
+The survey is based on [Amy Edmondson's](https://www.ted.com/speakers/amy_edmondson) research.
 
 
 
 ## Niko Niko
 
 ![niko niko calendar from https://www.agilealliance.org/glossary/nikoniko/](https://www.agilealliance.org/wp-content/uploads/2015/12/Niko-NikoCalendar.png)
+
+
+Hypothesized benefits:
+
+- Spark conversations about why someone is down: human interaction.
+- Notice poor morale earlier and do something to improve.
+- Spot trends or patterns that may inspire changes.

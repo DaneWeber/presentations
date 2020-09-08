@@ -190,7 +190,7 @@ Software development is a team activity. Our teammates matter.
 
 How we communicate and work together matters.
 
-We need to enable every team member to fully engage.
+We need to enable every team member to fully engage without fear.
 
 
 

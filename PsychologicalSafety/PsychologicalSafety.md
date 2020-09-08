@@ -40,22 +40,6 @@ This comes from safety-critical work:
 - The control room had serious design flaws and deficiencies. After an April 1978 incident, a control room operator complained to his superiors about problems with the control room. No corrective action was taken by the utility.
 
 
-### Korean Air Flight 801<br />(Airplane Crash)
-
-![Korean Air Flight 801 crash in Guam from https://en.wikipedia.org/wiki/Korean_Air_Flight_801](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Korean_Airlines_flight_801_crash_site.jpg/640px-Korean_Airlines_flight_801_crash_site.jpg)
-
-
-- 6 August 1997
-- 229 deaths
-- As always, there are many factors, including fatigue, training, outdated maps, and more.
-
-
-- The flight crew suggested to the captain that he was making a mistake with his approach. They did not directly warn him.
-- The first officer and flight engineer were required to challenge the captain if concerned, but did not, even though they were concerned.
-- The crew finally objected six seconds before the crash.
-- The first officer had the ability to take over the controls and abort the landing, but allowed the captain to continue flying, even during the final six seconds.
-
-
 ### Torrey Canyon<br />(Oil Tanker Spill)
 
 ![Torrey Canyon spilling oil from https://www.bbc.co.uk/programmes/articles/3zG3syYgyXJD1Pl8KdM2tQB/i-was-there-torrey-canyon-spill-1967](https://ichef.bbci.co.uk/images/ic/1008xn/p02mdjsz.jpg)
@@ -74,6 +58,22 @@ This comes from safety-critical work:
 
 - The captain didn't slow down and nobody spoke up until they were almost to the rocks.
 - The junior officer didn't feel safe to admit his mistake, the first officer didn't feel safe to correct his mistake, and the captain didn't feel safe to take a safe time and route to the port, or object to being over-loaded.
+
+
+### Korean Air Flight 801<br />(Airplane Crash)
+
+![Korean Air Flight 801 crash in Guam from https://en.wikipedia.org/wiki/Korean_Air_Flight_801](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Korean_Airlines_flight_801_crash_site.jpg/640px-Korean_Airlines_flight_801_crash_site.jpg)
+
+
+- 6 August 1997
+- 229 deaths
+- As always, there are many factors, including fatigue, training, outdated maps, and more.
+
+
+- The flight crew suggested to the captain that he was making a mistake with his approach. They did not directly warn him.
+- The first officer and flight engineer were required to challenge the captain if concerned, but did not, even though they were concerned.
+- The crew finally objected six seconds before the crash.
+- The first officer had the ability to take over the controls and abort the landing, but allowed the captain to continue flying, even during the final six seconds.
 
 
 ### Safety Culture

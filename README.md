@@ -43,3 +43,6 @@
 
 [Focus Flow and Joy](https://daneweber.github.io/presentations/FocusFlowAndJoy/FocusFlowAndJoy.html)
 
+
+[Improvement of Daily Work](https://daneweber.github.io/presentations/ImprovementOfDailyWork/ImprovementOfDailyWork.html)
+

@@ -37,3 +37,6 @@
 
 [Customer Focus](https://daneweber.github.io/presentations/CustomerFocus/CustomerFocus.html)
 
+
+[Locality and Simplicity](https://daneweber.github.io/presentations/LocalityAndSimplicity/LocalityAndSimplicity.html)
+

@@ -1,5 +1,13 @@
 # [Dane Weber's Presentations](https://daneweber.github.io/presentations/)
 
+[Unicorn Project Five Ideals](https://daneweber.github.io/presentations/UnicornProjectFiveIdeals/UnicornProjectFiveIdeals.html):
+
+1. [Locality and Simplicity](https://daneweber.github.io/presentations/LocalityAndSimplicity/LocalityAndSimplicity.html)
+2. [Focus Flow and Joy](https://daneweber.github.io/presentations/FocusFlowAndJoy/FocusFlowAndJoy.html)
+3. [Improvement of Daily Work](https://daneweber.github.io/presentations/ImprovementOfDailyWork/ImprovementOfDailyWork.html)
+4. [Psychological Safety](https://daneweber.github.io/presentations/PsychologicalSafety/PsychologicalSafety.html)
+5. [Customer Focus](https://daneweber.github.io/presentations/CustomerFocus/CustomerFocus.html)
+
 [Agile Coaching Approach](https://daneweber.github.io/presentations/AgileCoachingApproach/AgileCoachingApproach.html)
 
 [Agile Engineering](https://daneweber.github.io/presentations/AgileEngineering/AgileEngineering.html)
@@ -31,21 +39,3 @@
 [Team Structure Trade-Offs](https://daneweber.github.io/presentations/TeamStructureTrade-offs/TeamStructureTrade-offs.html)
 
 [Undercover Scrum Master](https://daneweber.github.io/presentations/UndercoverScrumMaster/UndercoverScrumMaster.html)
-
-[Psychological Safety](https://daneweber.github.io/presentations/PsychologicalSafety/PsychologicalSafety.html)
-
-
-[Customer Focus](https://daneweber.github.io/presentations/CustomerFocus/CustomerFocus.html)
-
-
-[Locality and Simplicity](https://daneweber.github.io/presentations/LocalityAndSimplicity/LocalityAndSimplicity.html)
-
-
-[Focus Flow and Joy](https://daneweber.github.io/presentations/FocusFlowAndJoy/FocusFlowAndJoy.html)
-
-
-[Improvement of Daily Work](https://daneweber.github.io/presentations/ImprovementOfDailyWork/ImprovementOfDailyWork.html)
-
-
-[Unicorn Project Five Ideals](https://daneweber.github.io/presentations/UnicornProjectFiveIdeals/UnicornProjectFiveIdeals.html)
-

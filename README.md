@@ -40,3 +40,6 @@
 
 [Locality and Simplicity](https://daneweber.github.io/presentations/LocalityAndSimplicity/LocalityAndSimplicity.html)
 
+
+[Focus Flow and Joy](https://daneweber.github.io/presentations/FocusFlowAndJoy/FocusFlowAndJoy.html)
+

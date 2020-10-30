@@ -10,3 +10,14 @@
 4. ⛑ Psychological Safety
 5. 🔮 Customer Focus
 
+
+
+#### 3) 🔪 Improvement of Daily Work
+
+- Stop the production line and make things better.
+- It is more important to improve how we work now than just get work done.
+- Improve as individual people; improve relationships; improve processes; improve tools; improve technology.
+- Pay down technical debt by investing in technical excellence.
+
+
+

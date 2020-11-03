@@ -20,4 +20,11 @@
 - It helps to automate routine activities and get rapid feedback on work.
 
 
+- Lead Time
+- Cycle time of
+  - Design
+  - Development
+  - Deployment
 
+
+Delivery focus not resource utilization

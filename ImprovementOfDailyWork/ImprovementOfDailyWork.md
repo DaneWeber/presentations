@@ -21,3 +21,16 @@
 
 
 
+Four types of work
+
+
+Andon cord
+
+
+Process improvements pay off going forward. Errors/miscommunication/etc. compounds going forward.
+
+
+Technical debt
+
+
+Experimentation

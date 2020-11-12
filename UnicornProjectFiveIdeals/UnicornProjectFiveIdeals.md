@@ -28,6 +28,8 @@ DevOps is
 - Also applies to code organization and data movement.
 - Reduce complexity to reduce risk and waste.
 
+[…](../LocalityAndSimplicity/LocalityAndSimplicity.html#/2)
+
 
 
 #### 2) 🎯 Focus, Flow, and Joy
@@ -37,6 +39,8 @@ DevOps is
 - Have a great time doing so.
 - It helps to automate routine activities and get rapid feedback on work.
 
+[…](../FocusFlowAndJoy/FocusFlowAndJoy.html#/2)
+
 
 
 #### 3) 🔪 Improvement of Daily Work
@@ -45,6 +49,8 @@ DevOps is
 - It is more important to improve how we work now than just get work done.
 - Improve as individual people; improve relationships; improve processes; improve tools; improve technology.
 - Pay down technical debt by investing in technical excellence.
+
+[…](../ImprovementOfDailyWork/ImprovementOfDailyWork.html#/2)
 
 
 
@@ -56,6 +62,8 @@ DevOps is
 - Failure is done in the open, examined blamelessly, and leads to growth.
 - This is the biggest predictor of a team’s success.
 
+[…](../PsychologicalSafety/PsychologicalSafety.html#/2)
+
 
 
 #### 5) 🔮 Customer Focus
@@ -63,3 +71,6 @@ DevOps is
 - Go learn what real users/customers/stakeholders need.
 - Prioritize core over context, which means doing the things that provide the real value.
 - This isn’t just one specialist’s job: we each need to understand the “why” of what we are doing so that we can make good trade-offs.
+
+[…](../CustomerFocus/CustomerFocus.html#/2)
+

@@ -54,3 +54,12 @@ https://en.wikipedia.org/wiki/Goodhart%27s_law
 
 When a measure becomes a target, it ceases to be a good measure.
 -- Marilyn Strathern (https://archive.org/details/ImprovingRatingsAuditInTheBritishUniversitySystem)
+
+1. Metric on number of nails produced.
+2. Metric on pounds of nails produced.
+
+Note: Or real example.
+
+
+
+[More about the Five Ideals](../UnicornProjectFiveIdeals/UnicornProjectFiveIdeals.html#/5)

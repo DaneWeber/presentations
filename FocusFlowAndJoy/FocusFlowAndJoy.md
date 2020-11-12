@@ -28,3 +28,16 @@
 
 
 Delivery focus not resource utilization
+
+
+Lead Time
+
+Cycle time of
+- Design/definition
+- Development
+- Build/Test/Deploy
+- Observability
+
+
+
+[More about the Five Ideals](../UnicornProjectFiveIdeals/UnicornProjectFiveIdeals.html#/2)

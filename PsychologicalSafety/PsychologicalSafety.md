@@ -238,3 +238,7 @@ Hypothesized benefits:
 - Spark conversations about why someone is down: increase human interaction.
 - Notice poor morale earlier and do something to improve.
 - Spot trends or patterns that may inspire changes.
+
+
+
+[More about the Five Ideals](../UnicornProjectFiveIdeals/UnicornProjectFiveIdeals.html#/4)

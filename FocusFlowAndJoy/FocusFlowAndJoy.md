@@ -30,7 +30,15 @@
 Delivery focus not resource utilization
 
 
-Lead Time
+<p style="border: 1em DarkGray; background-color: SteelBlue; width: 80%">Lead Time</p>
+
+<p style="border: 1em DarkGray; background-color: SteelBlue; width: 80%">
+<span style="border 1em DarkGray; background-color: DodgerBlue; width 20%">Design & Definition</span>
+<span style="border 1em DarkGray; background-color: DeepSkyBlue; width 20%">Development</span>
+<span style="border 1em DarkGray; background-color: DarkTurquoise; width 20%">Build, Test, and Deploy</span>
+<span style="border 1em DarkGray; background-color: PaleTurquoise; width 20%">Observed in Production</span>
+</p>
+
 
 Cycle time of
 - Design/definition

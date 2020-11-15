@@ -20,6 +20,11 @@ DevOps is
 5. 🔮 Customer Focus
 
 
+Lenses for focusing on different aspects of the work system.
+
+They apply to various levels: micro to macro.
+
+
 
 #### 1) 🦠 Locality and Simplicity
 

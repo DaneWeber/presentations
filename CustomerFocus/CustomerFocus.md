@@ -20,10 +20,10 @@
 
 
 - Accomplish the mission
-  - By doing X
-    - By doing Y
-      - By doing Z
-        - By writing this line of code
+  - ↖By doing X
+    - ↖By doing Y
+      - ↖By doing Z
+        - ↖By writing this line of code
 
 
 Acceptance Criteria:
@@ -37,7 +37,7 @@ Acceptance Criteria:
 - Each step is 36 inches wide.
 
 
-![ramp and stairs](https://www.thesun.co.uk/wp-content/uploads/2018/08/NINTCHDBPICT000429853769.jpg)
+<img src="https://www.thesun.co.uk/wp-content/uploads/2018/08/NINTCHDBPICT000429853769.jpg" alt="ramp and stairs" style="height: 80%" />
 
 
 As a [stakeholder]<br />
@@ -55,10 +55,8 @@ https://en.wikipedia.org/wiki/Goodhart%27s_law
 When a measure becomes a target, it ceases to be a good measure.
 -- Marilyn Strathern (https://archive.org/details/ImprovingRatingsAuditInTheBritishUniversitySystem)
 
-1. Metric on number of nails produced.
-2. Metric on pounds of nails produced.
 
-Note: Or real example.
+<a href="https://sketchplanations.com/goodharts-law">![Sketchplanation of Goodhart's Law at https://sketchplanations.com/goodharts-law](https://images.prismic.io/sketchplanations/6336f4c3-4c89-41f6-998f-ac595fb33a66_167369765942.jpg?auto=format&ixlib=react-9.0.2&w=1246)</a>
 
 
 

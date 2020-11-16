@@ -3,6 +3,8 @@
 
 Gene Kim's _Unicorn Project_
 
+![Unicorn Project book cover](https://m.media-amazon.com/images/I/51jkkeU8HvL.jpg)
+
 
 DevOps is
 > Better value.
@@ -20,9 +22,9 @@ DevOps is
 5. 🔮 Customer Focus
 
 
-Lenses for focusing on different aspects of the work system.
+🔬 Lenses for focusing on different aspects of the work system.
 
-They apply to various levels: micro to macro.
+They apply to various levels: micro to macro. 🔭
 
 
 

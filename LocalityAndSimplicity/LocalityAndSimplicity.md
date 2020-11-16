@@ -11,6 +11,7 @@
 5. 🔮 Customer Focus
 
 
+<!-- TODO:
 Note:
 Add story about overly complex structure getting in the way.
 
@@ -21,11 +22,11 @@ Note:
 Add information from _Team of Teams_
 
 ---
----
+-->
 
 
 
-### 1) 🦠 Locality and Simplicity
+## 1) 🦠 Locality and Simplicity
 
 - Does it take 50 teams across five continents and 15 systems to coordinate to make a small change?
 - Congruent architecture and organization that minimizes hand-offs, bottlenecks, and coordination.
@@ -36,6 +37,23 @@ Add information from _Team of Teams_
 - How can we minimize hand-offs?
 - How can we avoid bottlenecks?
 - How can we eliminate dependencies?
+
+
+
+## Locality
+
+
+Can the team doing the work make the decision?
+
+Or do they need permission or approval from their boss's boss or some other team?
+
+
+Can two engineers on different teams talk to each other?
+
+Or do they need to raise an issue several levels up the hierarchy?
+
+
+!(https://medium.com/@beaugordon/key-takeaways-from-team-of-teams-by-general-stanley-mcchrystal-eac0b37520b9)[https://miro.medium.com/max/2100/1*9GrFoVey2ay9xQrNJZmAQw.png]
 
 
 

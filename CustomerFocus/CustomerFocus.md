@@ -37,7 +37,7 @@ Acceptance Criteria:
 - Each step is 36 inches wide.
 
 
-<img src="https://www.thesun.co.uk/wp-content/uploads/2018/08/NINTCHDBPICT000429853769.jpg" alt="ramp and stairs" style="height: 80%" />
+<img src="https://www.thesun.co.uk/wp-content/uploads/2018/08/NINTCHDBPICT000429853769.jpg" alt="ramp and stairs" height="532" />
 
 
 As a [stakeholder]<br />
@@ -48,15 +48,13 @@ So that [the purpose]<br />
 Mis-aligned incentives
 
 
-Goodhart's Law
-
-https://en.wikipedia.org/wiki/Goodhart%27s_law
+[Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
 
 When a measure becomes a target, it ceases to be a good measure.
--- Marilyn Strathern (https://archive.org/details/ImprovingRatingsAuditInTheBritishUniversitySystem)
+-- [Marilyn Strathern](https://archive.org/details/ImprovingRatingsAuditInTheBritishUniversitySystem)
 
 
-<a href="https://sketchplanations.com/goodharts-law">![Sketchplanation of Goodhart's Law at https://sketchplanations.com/goodharts-law](https://images.prismic.io/sketchplanations/6336f4c3-4c89-41f6-998f-ac595fb33a66_167369765942.jpg?auto=format&ixlib=react-9.0.2&w=1246)</a>
+<a href="https://sketchplanations.com/goodharts-law"><img height="528" alt="[Sketchplanation of Goodhart's Law at https://sketchplanations.com/goodharts-law" src="https://images.prismic.io/sketchplanations/6336f4c3-4c89-41f6-998f-ac595fb33a66_167369765942.jpg?auto=format&ixlib=react-9.0.2&w=1246" /></a>
 
 
 

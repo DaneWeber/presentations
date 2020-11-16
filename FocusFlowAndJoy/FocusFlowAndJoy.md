@@ -12,7 +12,7 @@
 
 
 
-#### 2) 🎯 Focus, Flow, and Joy
+## 2) 🎯 Focus, Flow, and Joy
 
 - Work within the problem-space, rather than with tangential matters that get in the way.
 - Rapidly go from idea to a change in production.
@@ -21,6 +21,10 @@
 
 
 Delivery focus not resource utilization
+
+
+
+### Lead Time
 
 
 <p style="border: solid DarkGray; background-color: SteelBlue; width: 100%">Lead Time</p>
@@ -110,6 +114,26 @@ There are many ways to reduce the cycle time for the various steps while maintai
 - Alerting
 - Reporting
 - A/B testing
+
+
+
+### Automation
+
+
+![https://www.rolandberger.com/nl/Point-of-View/Automotive-manufacturing-requires-human-innovation.html](https://img.rolandberger.com/content_assets/content_images/captions/Think_Act_Magazine_On_being_human_5-Humanizing_the_auto_industry_IT1-1_image_caption_w1280.jpg)
+
+
+![https://www.brinknews.com/are-robots-stealing-productivity-from-humans/](https://www.brinknews.com/wp-content/uploads/2017/05/ron_harbour_int-631893050-1025x685.jpg)
+
+
+![automation payoff over time from https://blog.qatestlab.com/2018/06/12/when-automate-testing/](https://blog.qatestlab.com/wp-content/uploads/2018/06/manual-automation-ratio.jpg)
+
+
+
+### Developer Experience
+
+
+Remove hurdles and impediments involved in making and testing the relevant code change.
 
 
 

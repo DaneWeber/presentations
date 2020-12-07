@@ -9,6 +9,21 @@ Working software
 - Easy to maintain
 
 
+### Engineering Culture
+- Disciplined Professionalism
+- Humility and learning technology, tools, and techniques
+- Freedom and Responsibility
+- Precise Language
+
+
+### Five Ideals:
+- 🦠 Locality and Simplicity
+- 🎯 Focus, Flow, and Joy
+- 🔪 Improvement of Daily Work
+- ⛑ Psychological Safety
+- 🔮 Customer Focus
+
+
 
 ## Team Sport
 
@@ -42,36 +57,35 @@ business_days = calendar_days.divmod(CALENDAR_WEEK).reduce { |weeks, days| weeks
 ```
 
 
-
-## x
-
-
-
-## x
+You might even be able to spot deficiencies in the algorithm without having to look at the specs or tests.
 
 
 
 ## XP Practices
 
+
 Frequent fine scale feedback
-Pair programming – one navigator, one driver at a single workstation
-User stories (planning game) – small batches once per iteration, could be weekly
-Test driven development – write unit tests first
-Whole team – includes users
+- Pair programming – one navigator, one driver at a single workstation
+- User stories (planning game) – small batches once per iteration, could be weekly
+- Test driven development – write unit tests first
+- Whole team – includes users
+
 
 Continuous process
-Design improvement – refactor continuously
-Continuous integration – frequent code check-ins, no broken builds
-Small releases – expedite feedback from customers
+- Design improvement – refactor continuously
+- Continuous integration – frequent code check-ins, no broken builds
+- Small releases – expedite feedback from customers
+
 
 Shared understanding
-Coding standards – for consistent style and format of code
-Collective code ownership – everyone is responsible for all of the code
-Simple design – “simpler is better” approach to development
-System metaphors – for useful, meaningful naming conventions
+- Coding standards – for consistent style and format of code
+- Collective code ownership – everyone is responsible for all of the code
+- Simple design – “simpler is better” approach to development
+- System metaphors – for useful, meaningful naming conventions
+
 
 Developer welfare
-Sustainable pace – avoid exceeding the 40+ hour work week and crunch periods
+- Sustainable pace – avoid exceeding the 40+ hour work week and crunch periods
 
 
 ## TDD

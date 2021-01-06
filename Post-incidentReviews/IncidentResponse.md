@@ -39,7 +39,7 @@
 1. Failure Occurs
   - Prevent with high quality code
   - Prevent with good testing
-  - Prevent with resilient systems (load-balancing, failover, failback, graceful handling of unavailable dependencies, stress-test/overload-test)
+  - Prevent with resilient systems (load-balancing, failover, failback, graceful handling of unavailable dependencies, stress-test/overload-test, backup & recovery, redundancy)
   - Prevent with self-healing systems (auto-scaling, limit runaways, IaC)
   - Practice with drills and simulated incidents (including chaos engineering)
 2. Detect (Notification)
@@ -92,3 +92,39 @@
 3. Disaster
 4. Actual Downtime (compared to Recovery Time Objective/RTO goal)
 5. Recovery
+
+
+## Overall Mindset:
+
+1. Prevent Fires and Reduce Damage ("Fire Marshal" mindset)
+  1. Inspect, maintain, and improve:
+    - Architecture and system design
+    - Code quality (pay off "technical debt")
+    - Infrastructure
+    - Test suites (smoke, load, performance, stress, system, acceptance, integration, unit, etc.)
+    - Resilience/self-healing
+    - Redundancy, backup, and recovery
+  2. Exploratory testing
+  3. Investigating and blameless learning from incidents
+2. Improve Fire-Fighting Ability ("Fire Chief" mindset)
+  1. Inspect, maintain, and improve tools/telemetry
+    - Alerts (for detection and notification)
+    - Monitoring and Dashboards (for triage, diagnosis, and assessment)
+    - Logging (for diagnosis and investigation)
+    - Access to prod and/or prod-like systems
+    - Dev/test toolchain
+    - Comms (chat/screenshare/phone/video/etc.)
+  2. Practice and improve incident response
+    - Communications and coordination
+    - Diagnosis and repair
+    - Build/test/deploy and verification
+  3. Training and skills-building
+3. Fight Fires ("Fire Fighter" mindset)
+  1. Commitment to psychological safety
+    - Do not blame individuals
+    - Everyone should feel safe to contribute, question, and challenge
+  2. Commitment to system safety
+    - Preserve data and data integrity
+    - Make reversible changes
+    - Test changes before applying to production
+  3. Commitment to incident resolution

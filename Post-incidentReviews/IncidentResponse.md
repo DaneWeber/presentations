@@ -12,18 +12,20 @@
   - Makes decisions about business trade-offs (such as restoring partial service vs. staying offline until a complete fix is ready). Doesn't have to be the expert, but must communicate with the relevant parties to make this decision responsibly.
   - Shields the Resolution Lead from status requests, etc.
   - Pro-actively publishes regular and timely updates on the incident.
+  - Ensures that the Resolution Lead is getting sufficient assistance and not taking on excess stress or heroics.
   - Assembles the timeline for the Post-Incident Review.
+  - Ensures that a Post-Incident Review takes place as soon as possible after repair and either facilitates or finds a facilitator.
 - Resolution Lead
   - Responsible for resolving the incident and keeping the Incident Commander informed.
   - Responsible for the initial assessment and triage decision.
   - Coordinates the investigation and repair. Can contribute if possible.
   - Pulls in people to join the Resolution Team as needed to rapidly and effectively address the incident.
   - Keeps communications as public as possible (incident chat) to benefit from others and make it easy to bring new people up to speed.
-  - Provides initial set of contributing factors for the Post-Incident Review.
+  - Provides initial set of contributing factors for the Post-Incident Review, participates, and follows up on improvement actions.
 - Resolution Team
-  - Makes the incident their top priority.
+  - Makes the incident their top priority and pro-actively helps diagnose and repair.
   - Keeps the Resolution Lead involved in diagnosis and repair activities.
-  - Keeps communications as public as possible (incident chat).
+  - Keeps communications as public as possible (incident chat), including warning before taking actions and confirming the results of those actions to avoid conflicting actions or wasted diagnosis efforts.
   - Participate in the Post-Incident Review, contributing to the timeline and identifying contributing factors.
 - Goals
   - Minimize the Time to Resolve.
@@ -32,21 +34,22 @@
   - Create a "shared consciousness" during the incident response.
 
 
-## Outline of events and methods of shortening the time:
+## Outline of events and methods of improving response:
 
 1. Failure Occurs
   - Prevent with high quality code
   - Prevent with good testing
   - Prevent with resilient systems (load-balancing, failover, failback, graceful handling of unavailable dependencies, stress-test/overload-test)
   - Prevent with self-healing systems (auto-scaling, limit runaways, IaC)
+  - Practice with drills and simulated incidents (including chaos engineering)
 2. Detect (Notification)
   - Alerts (low noise, low latency, fire vs. smoke vs. prototype)
   - Paging and on-duty personnel for rapid acknowledgement
 3. Triage
-  - Monitoring (assess extent of degradation)
+  - Monitoring and Dashboards (assess extent of degradation; requires effort to create relevant views; goes way beyond resource utilization)
   - Knowledgeable person assesses
 4. Identify (Diagnosis)
-  - Monitoring (locate source of failure)
+  - Monitoring and Dashboards (locate source of failure)
   - Logging (low noise, easy to search, easy to correlate, easy to isolate)
 5. Fix (Repair)
   - DRY, easy to understand code
@@ -54,6 +57,7 @@
   - Continuous Integration
 6. Return to Normal Operations (Recovery)
   - Continuous Deployment pipeline
+  - Monitoring and Dashboards (to confirm)
 7. Resolve (Address contributing factors to prevent repeat failures)
   - Post-Incident Review (retrospective on incident)
   - Prioritize quality and reliability improvements (#bugszero)
@@ -73,6 +77,7 @@
   - Time since detection: Time To Respond (MTTR Respond)
 6. Return to Normal Operations (Recovery)
   - Time since failure: Time To Recover or Time to Restore (MTTR Recover)
+  - Total hours spent on recovery is a metric prone to mis-use, but can make very clear the potential pay-off of preventative measures.
 7. Resolve (Address contributing factors to prevent repeat failures)
   - Time since failure: Time To Resolve (MTTR Resolve)
 8. Next Failure Occurs

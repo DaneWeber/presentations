@@ -25,9 +25,9 @@
 
 **Tech Career:**
 
-Tech Support ➡&nbsp;Analysis ➡&nbsp;Product&nbsp;Owner ➡&nbsp;Scrum&nbsp;Master ➡&nbsp;Agile&nbsp;Coach ➡&nbsp;Developer
+Tech Support ➡&nbsp;Analysis ➡&nbsp;Product&nbsp;Owner ➡&nbsp;Scrum&nbsp;Master ➡&nbsp;Agile&nbsp;Coach ➡&nbsp;Developer ➡&nbsp;Technical Agile Coaching
 
-➡&nbsp;Technical Agile Coaching
+➡&nbsp;Engineering Manager
 
 <p style="font-size: 50%" class="fragment">Collecting certifications: CLP, CSD, CSM, ICP-ACC, ICP-ATA, ICP-ATF, ICP-TST, PMI-ACP, PMP, SA</p>
 

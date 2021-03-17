@@ -88,7 +88,7 @@
 ## RPO & RTO:
 
 1. Data Backup
-2. Actual Data Loss (compaired to Recovery Point Objective/RPO goal)
+2. Actual Data Loss (compared to Recovery Point Objective/RPO goal)
 3. Disaster
 4. Actual Downtime (compared to Recovery Time Objective/RTO goal)
 5. Recovery

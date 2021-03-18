@@ -1,6 +1,9 @@
 # Windows:
 # docker run -it --rm --name new-presentation -v ${PWD}:/usr/src/myapp -w /usr/src/myapp ruby:2.5 ruby new-presentation.rb -v
 
+# If this screws up permissions, you might need to run the following:
+# sudo chown dane:dane -R FolderName
+
 require 'optparse'
 
 options = {}

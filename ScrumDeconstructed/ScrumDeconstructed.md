@@ -25,6 +25,21 @@
 - Ownership, empowerment and self-management enable adaption.
 
 
+Scrum asks for three artifacts for visibility:
+
+<div style="display: grid;
+grid-template-columns: repeat(2, 1fr);
+grid-template-rows: repeat(5, 1fr);
+grid-column-gap: 0px;
+grid-row-gap: 0px;
+text-align: left;">
+<div>**Artifact**</div><div>**Makes Visible**</div>
+<div style="background: gray;">Product Increment</div><div style="background: gray;">📦 the product</div>
+<div>Product Backlog</div><div>📅 the medium-term plan</div>
+<div style="background: gray;">Sprint Backlog</div><div style="background: gray;">🕐 the short-term plan</div>
+</div>
+
+
 💎🔍🦠
 
 "Inspect & Adapt" is the core of Scrum.
@@ -41,21 +56,6 @@ text-align: left;">
 <div>Sprint Planning</div><div>📅 the medium-term plan</div>
 <div style="background: gray;">Daily Scrum</div><div style="background: gray;">🕐 the short-term plan</div>
 <div>Sprint Retrospective</div><div>🌐 any & everything</div>
-</div>
-
-
-Scrum asks for three artifacts for visibility:
-
-<div style="display: grid;
-grid-template-columns: repeat(2, 1fr);
-grid-template-rows: repeat(5, 1fr);
-grid-column-gap: 0px;
-grid-row-gap: 0px;
-text-align: left;">
-<div>**Artifact**</div><div>**Makes Visible**</div>
-<div style="background: gray;">Product Increment</div><div style="background: gray;">📦 the product</div>
-<div>Product Backlog</div><div>📅 the medium-term plan</div>
-<div style="background: gray;">Sprint Backlog</div><div style="background: gray;">🕐 the short-term plan</div>
 </div>
 
 

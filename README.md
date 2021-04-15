@@ -45,3 +45,6 @@
 
 [Scrum Deconstructed](https://daneweber.github.io/presentations/ScrumDeconstructed/ScrumDeconstructed.html)
 
+
+[Engineering Team Vision](https://daneweber.github.io/presentations/EngineeringTeamVision/EngineeringTeamVision.html)
+

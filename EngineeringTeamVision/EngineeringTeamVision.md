@@ -4,6 +4,8 @@
 
 ## Freedom and Responsibility
 
+Ownership
+
 
 The Rare Responsible Person
 
@@ -41,7 +43,7 @@ Responsible People **Thrive** on Freedom, and are **Worthy** of Freedom
 ## Motivated
 
 
-I'm hoping for intrinsic motivation
+I want to enable your intrinsic motivation
 
 See [Dan Pink's "Drive"](https://www.youtube.com/watch?v=u6XAPnuFjJc)
 
@@ -69,7 +71,7 @@ Want to
 ## Disciplined Professionalism
 
 
-You are trusted<br />to act in the best interests of our clients.
+You are trusted<br />to act in the best interests of Anchore.
 
 <p class="fragment">Do it the right way. Do it well.</p>
 
@@ -128,6 +130,13 @@ Doing a bad job is not an option.*
 👩‍💻 Writing DRY, easily understood, well-tested code is just part of the deal.
 
 <p class="fragment">🧪 Updating dependencies, pair-programming, code reviews, refactoring, and automated tests are just part of the deal.</p>
+
+
+There are cases that go beyond this, and that takes good judgment.
+
+<p class="fragment">Purchasing an upgraded lift or trying an experimental surgical technique.</p>
+
+<p class="fragment">Major refactors, switching frameworks, etc.</p>
 
 
 

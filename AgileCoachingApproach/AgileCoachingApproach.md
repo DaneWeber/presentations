@@ -127,7 +127,7 @@ grid-template-rows: 1fr;
 grid-column-gap: 0px;
 grid-row-gap: 0px;">
 
-![washable filter from https://www.hoonigan.com/products/k-n-air-filters-toyota-camry-2-4l-4-cyl-2002-2011](https://cdn.shopify.com/s/files/1/0014/2943/8517/products/k_n_33-2260_e5b3c77a-e94c-4960-9a6f-661fc901d856_600x.jpg?v=1584775454)
+![washable filter from https://www.knfilters.com/air-filters/toyota/camry](https://res-1.cloudinary.com/knfilters-com/image/upload/c_lpad,dpr_2.0,f_auto,h_265,q_auto,w_265/v1/media/catalog/product/3/3/33-2443_2.jpg)
 
 ![disposable filter from https://www.amazon.com/Pentius-PAB4778-UltraFLOW-Air-Filter/dp/B000EQD7GO](https://images-na.ssl-images-amazon.com/images/I/411xyI91dgL._AC_.jpg)
 </div>

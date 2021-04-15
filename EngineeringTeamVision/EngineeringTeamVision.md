@@ -1,26 +1,6 @@
 # Engineering Team Vision
 
 
-<!--
-## Goals
-
-
-1. A kind, open, and owning high-performing engineering organization, especially among my team.
-2. Happy Anchorenauts (especially my team) who are motivated and engaged, growing in their careers, and performing well.
-3. An effective and highly adaptive system (people, process, and technology).
-
-
-## How I intend to manage
-
-1. Build for meaning
-1. Innovate management
-1. Accelerate learning
-1. Run Experiments
-1. Embrace playfulness
-1. Nurture happiness
-1. Manage the system
--->
-
 
 ## Freedom and Responsibility
 

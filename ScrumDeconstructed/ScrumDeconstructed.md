@@ -5,20 +5,20 @@
 ## 💎 Transparency<br />🔍 Inspection<br />🦠 Adaptation
 
 
-### 💎 **Transparency**
+### 💎 Transparency
 
 - Make visible what matters (the work, product, plans, emergent process, etc.) to those doing the work and those receiving it.
 - Requires openness and psychological safety for real transparency.
 
 
-### 🔍 **Inspection**
+### 🔍 Inspection
 
 - Examine work/product/plans/process/etc. in order to understand and inform decisions.
 - Requires transparency.
 - Kindness and blamelessness enable a deeper and truer understanding of contributing factors.
 
 
-### 🦠 **Adaptation**
+### 🦠 Adaptation
 
 - Change the work/product/plans/process/etc. immediately/ASAP to better achieve goals.
 - Must be informed by inspection.
@@ -36,7 +36,7 @@ grid-template-rows: repeat(5, 1fr);
 grid-column-gap: 0px;
 grid-row-gap: 0px;
 text-align: left;">
-<div>**Event**</div><div>**Inspects & Adapts**</div>
+<div><strong>Event</strong></div><div><strong>Inspects & Adapts</strong></div>
 <div style="background: gray;">Sprint Review</div><div style="background: gray;">📦 the product</div>
 <div>Sprint Planning</div><div>📅 the medium-term plan</div>
 <div style="background: gray;">Daily Scrum</div><div style="background: gray;">🕐 the short-term plan</div>
@@ -52,7 +52,7 @@ grid-template-rows: repeat(5, 1fr);
 grid-column-gap: 0px;
 grid-row-gap: 0px;
 text-align: left;">
-<div>**Artifact**</div><div>**Makes Visible**</div>
+<div><strong>Artifact</strong></div><div><strong>Makes Visible</strong></div>
 <div style="background: gray;">Product Increment</div><div style="background: gray;">📦 the product</div>
 <div>Product Backlog</div><div>📅 the medium-term plan</div>
 <div style="background: gray;">Sprint Backlog</div><div style="background: gray;">🕐 the short-term plan</div>
@@ -62,3 +62,8 @@ text-align: left;">
 
 ## Values
 
+Commitment > To the goals and each other. The lynch-pin of Scrum: commitment removes hesitation and propels the team. Is 
+Focus > Align as a team toward the most valuable goal. This focus comes from agreement built upon Open engagement.
+Openness > Make things visible, inspectable, available to all. This requires Courage.
+Courage > Speak truth to power, insist upon fixing problems, propose improvements. This requires Respect.
+Respect > Value the expertise and responsibility of everyone, particularly the self-managing team.

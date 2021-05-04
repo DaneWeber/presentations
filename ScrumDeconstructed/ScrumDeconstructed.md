@@ -1,8 +1,36 @@
 # Scrum Deconstructed
 
 
+We've all had some experience with Scrum
+
+I don't know that I've ever seen a team follow it to the letter.
+
+
+Scrum is a lightweight framework.
+
+The whole thing is short and [available online](https://scrumguides.org/scrum-guide.html).
+
+
+It's not the only way to be Agile and there are many beneficial ways to adapt or modify it.
+
+The majority of the modifications I've seen have been detrimental and have been premature optimizations.
+
+
+What matters the most?
+
+
 
 ## Values
+
+
+Scrum includes a set of roles, artifacts, and events.
+
+You can schedule the events, name some artifacts, and give people titles that match the roles, and still get zero benefit.
+
+
+Scrum requires a self-managing team, defined as:
+
+> The team is responsible for executing the tasks **and** monitoring and managing process and progress.
 
 
 <div style="text-align: left; margin: auto; width: 60%;">
@@ -45,11 +73,6 @@ Courage is cultivated and sustained by Respect.
 ### 🤝 Respect
 
 Value the expertise and responsibility of everyone, particularly the self-managing team.
-
-
-### Why?
-
-Why talk values first?
 
 
 

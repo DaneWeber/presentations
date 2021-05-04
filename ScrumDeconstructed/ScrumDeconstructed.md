@@ -120,7 +120,11 @@ The lack of any of these values can undermine the success of a Scrum team.
 "Inspect & Adapt" is the core of Scrum.
 
 
-Scrum includes three artifacts for visibility:
+
+## Artifacts, Events, and Roles
+
+
+Three artifacts for transparency:
 
 <div style="display: grid;
 grid-template-columns: repeat(2, 1fr);
@@ -135,7 +139,7 @@ text-align: left;">
 </div>
 
 
-Scrum includes four events to inspect & adapt:
+Four events to inspect & adapt:
 
 <div style="display: grid;
 grid-template-columns: repeat(2, 1fr);
@@ -150,3 +154,30 @@ text-align: left;">
 <div>Sprint Retrospective</div><div>🌐 any & everything</div>
 </div>
 
+
+Three roles to accomplish this:
+
+<div style="display: grid;
+grid-template-columns: repeat(2, 1fr);
+grid-template-rows: repeat(4, 1fr);
+grid-column-gap: 0px;
+grid-row-gap: 0px;
+text-align: left;">
+<div><strong>Role</strong></div><div><strong>Focus</strong></div>
+<div style="background: gray;">Product Owner</div><div style="background: gray;">📶 Maximizing Value</div>
+<div>Developers</div><div>🥇 Quality Work</div>
+<div style="background: gray;">Scrum Masters</div><div style="background: gray;">🏉 Team Effectiveness</div>
+</div>
+
+
+
+## Take-Aways
+
+
+1. Values & Self-Management
+2. Transparency, Inspection, and Adaptation
+3. Small Batches (Increment)
+4. Ordered (Sequence)
+5. Learn and Respond (Iterate)
+6. Accelerate and Amplify Feedback Loops
+7. Maintain Stable Intermediary States

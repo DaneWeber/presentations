@@ -120,22 +120,6 @@ The lack of any of these values can undermine the success of a Scrum team.
 "Inspect & Adapt" is the core of Scrum.
 
 
-Scrum includes four events to inspect & adapt:
-
-<div style="display: grid;
-grid-template-columns: repeat(2, 1fr);
-grid-template-rows: repeat(5, 1fr);
-grid-column-gap: 0px;
-grid-row-gap: 0px;
-text-align: left;">
-<div><strong>Event</strong></div><div><strong>Inspects & Adapts</strong></div>
-<div style="background: gray;">Sprint Review</div><div style="background: gray;">📦 the product</div>
-<div>Sprint Planning</div><div>📅 the medium-term plan</div>
-<div style="background: gray;">Daily Scrum</div><div style="background: gray;">🕐 the short-term plan</div>
-<div>Sprint Retrospective</div><div>🌐 any & everything</div>
-</div>
-
-
 Scrum includes three artifacts for visibility:
 
 <div style="display: grid;
@@ -150,4 +134,19 @@ text-align: left;">
 <div style="background: gray;">Sprint Backlog</div><div style="background: gray;">🕐 the short-term plan</div>
 </div>
 
+
+Scrum includes four events to inspect & adapt:
+
+<div style="display: grid;
+grid-template-columns: repeat(2, 1fr);
+grid-template-rows: repeat(5, 1fr);
+grid-column-gap: 0px;
+grid-row-gap: 0px;
+text-align: left;">
+<div><strong>Event</strong></div><div><strong>Inspects & Adapts</strong></div>
+<div style="background: gray;">Sprint Review</div><div style="background: gray;">📦 the product</div>
+<div>Sprint Planning</div><div>📅 the medium-term plan</div>
+<div style="background: gray;">Daily Scrum</div><div style="background: gray;">🕐 the short-term plan</div>
+<div>Sprint Retrospective</div><div>🌐 any & everything</div>
+</div>
 

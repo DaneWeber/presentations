@@ -33,6 +33,11 @@ Scrum requires a self-managing team, defined as:
 > The team is responsible for executing the tasks **and** monitoring and managing process and progress.
 
 
+Self-management entails freedom *and* responsibility.
+
+Self-management requires a certain mindset among the team and the organization around the team.
+
+
 <div style="text-align: left; margin: auto; width: 60%;">
 Commitment<br />
 <span style="margin-left: 1em;">⬆️ Focus</span><br />
@@ -44,9 +49,11 @@ Commitment<br />
 
 ### ✍️ Commitment
 
-To the goals and each other. The lynch-pin of Scrum: commitment removes hesitation and propels the team.
+To self-management. To the goals and each other. The lynch-pin of Scrum: commitment removes hesitation and propels the team.
 
 Builds upon Focus.
+
+Note: It is up to the team to make progress and enforce the process. Relates to Ownership.
 
 
 ### 🔭 Focus
@@ -54,6 +61,8 @@ Builds upon Focus.
 Align as a team to make the best progress toward the most valuable goal.
 
 This focus comes from agreement built upon Open engagement.
+
+Note: The artifacts inform where to focus.
 
 
 ### 🪟 Openness
@@ -69,10 +78,17 @@ Speak truth to power, do the right thing, make improvements, and tackle difficul
 
 Courage is cultivated and sustained by Respect.
 
+Note: Ownership
+
 
 ### 🤝 Respect
 
 Value the expertise and responsibility of everyone, particularly the self-managing team.
+
+Note: Kindness
+
+
+The lack of any of these values can undermine the success of a Scrum team.
 
 
 
@@ -104,6 +120,8 @@ Value the expertise and responsibility of everyone, particularly the self-managi
 "Inspect & Adapt" is the core of Scrum.
 
 
+Scrum includes four events to inspect & adapt:
+
 <div style="display: grid;
 grid-template-columns: repeat(2, 1fr);
 grid-template-rows: repeat(5, 1fr);
@@ -118,7 +136,7 @@ text-align: left;">
 </div>
 
 
-Scrum asks for three artifacts for visibility:
+Scrum includes three artifacts for visibility:
 
 <div style="display: grid;
 grid-template-columns: repeat(2, 1fr);

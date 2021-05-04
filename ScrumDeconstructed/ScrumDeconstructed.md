@@ -2,6 +2,57 @@
 
 
 
+## Values
+
+
+<div style="text-align: left; margin: auto; width: 60%;">
+Commitment<br />
+<span style="margin-left: 1em;">⬆️ Focus</span><br />
+<span style="margin-left: 3em;">⬆️ Openness</span><br />
+<span style="margin-left: 5em;">⬆️ Courage</span><br />
+<span style="margin-left: 7em;">⬆️ Respect</span>
+</div>
+
+
+### ✍️ Commitment
+
+To the goals and each other. The lynch-pin of Scrum: commitment removes hesitation and propels the team.
+
+Builds upon Focus.
+
+
+### 🔭 Focus
+
+Align as a team to make the best progress toward the most valuable goal.
+
+This focus comes from agreement built upon Open engagement.
+
+
+### 🪟 Openness
+
+Make things visible, inspectable, available to all.
+
+This requires Courage.
+
+
+### 🦁 Courage
+
+Speak truth to power, do the right thing, make improvements, and tackle difficult work.
+
+Courage is cultivated and sustained by Respect.
+
+
+### 🤝 Respect
+
+Value the expertise and responsibility of everyone, particularly the self-managing team.
+
+
+### Why?
+
+Why talk values first?
+
+
+
 ## 💎 Transparency<br />🔍 Inspection<br />🦠 Adaptation
 
 
@@ -59,52 +110,3 @@ text-align: left;">
 </div>
 
 
-
-## Values
-
-
-<div style="text-align: left; margin: auto; width: 60%;">
-Commitment<br />
-<span style="margin-left: 1em;">⬆️ Focus</span><br />
-<span style="margin-left: 3em;">⬆️ Openness</span><br />
-<span style="margin-left: 5em;">⬆️ Courage</span><br />
-<span style="margin-left: 7em;">⬆️ Respect</span>
-</div>
-
-
-### ✍️ Commitment
-
-To the goals and each other. The lynch-pin of Scrum: commitment removes hesitation and propels the team.
-
-Builds upon Focus.
-
-
-### 🔭 Focus
-
-Align as a team to make the best progress toward the most valuable goal.
-
-This focus comes from agreement built upon Open engagement.
-
-
-### 🪟 Openness
-
-Make things visible, inspectable, available to all.
-
-This requires Courage.
-
-
-### 🦁 Courage
-
-Speak truth to power, do the right thing, make improvements, and tackle difficult work.
-
-Courage is cultivated and sustained by Respect.
-
-
-### 🤝 Respect
-
-Value the expertise and responsibility of everyone, particularly the self-managing team.
-
-
-### Why?
-
-Why talk values first?

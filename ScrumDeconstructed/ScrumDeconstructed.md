@@ -15,6 +15,11 @@ The whole thing is short and [available online](https://scrumguides.org/scrum-gu
 Note: It's not the only way to be Agile and there are many beneficial ways to adapt or modify it. The majority of the modifications I've seen have been detrimental and have been premature optimizations.
 
 
+Scale matters.
+
+Note: The communication, coordination, and overhead required goes up dramatically as you move from one person to a handful to a big group.
+
+
 What matters the most?
 
 
@@ -390,6 +395,47 @@ text-align: left;">
 
 
 
+## Inspect and Adapt
+
+
+💎🔍🦠
+
+
+The Sprint Retrospective is the most important part of Scrum.
+
+
+Inspect and Adapt *everything*.
+
+
+The self-managing team improves their own way of working.
+
+Note: I've seen some amazing and high-effort retrospective sessions. Facilitation is a skill and can make these better. That said, there are many orgs where inspection happens after-hours over drinks, and simply dedicating time to this is huge.
+
+
+Inspection alone does not make things better.
+
+Adapt
+
+
+The Scrum Master is concerned with team effectiveness and each part of Scrum.
+
+The retrospective is especially important.
+
+
+
+## Deconstruction
+
+
+Trade-offs
+
+
+A single Product Owner avoids the downfalls of design-by-committe.
+
+
+A fully-dedicated Scrum Master can focus on observing and improving the system.
+
+
+
 ## Take-Aways
 
 
@@ -398,5 +444,5 @@ text-align: left;">
 3. Small Batches (Increment)
 4. Ordered (Sequence)
 5. Learn and Respond (Iterate)
-6. Accelerate and Amplify Feedback Loops
-7. Maintain Stable Intermediary States
+
+Note: pollev.com/daneweber066

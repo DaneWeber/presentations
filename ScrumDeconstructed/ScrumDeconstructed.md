@@ -236,6 +236,9 @@ Note: It is human nature to notice the transaction costs because they are immedi
 Small batches of work is one of the key insights of Agile software development and is the result of many scars.
 
 
+The Product Increment is supposed to be inspected at a minimum at the Sprint Review which should generate feedback that informs Sprint Planning.
+
+
 
 ## Product and Sprint Backlogs
 
@@ -243,8 +246,88 @@ Small batches of work is one of the key insights of Agile software development a
 Value flow over individual work.
 
 
+<div style="display: grid;
+grid-template-columns: repeat(2, 1fr);
+grid-template-rows: repeat(4, 1fr);
+grid-column-gap: 0px;
+grid-row-gap: 0px;
+text-align: left;">
+<div><strong>Value</strong></div><div><strong>Work</strong></div>
+<div style="background: gray;">Trimmed lawn</div><div style="background: gray;">Pushing a mower</div>
+<div>Pain-free mobility</div><div>Knee surgery</div>
+<div style="background: gray;">Finding vulnerabilities in Go packages</div><div style="background: gray;">Writing code</div>
+</div>
+Note: When you focus on value, you can start noticing better ways to achieve it. Riding mower? Robo-mower? Naturally short ground-cover?
+
+
+Each person being busy is a very bad proxy for the total delivery of value.
+
+In fact, busy workers can be detrimental to effective value delivery.
+
+
+Taylor's scientific management expected managers to determine how best to deliver value and for workers to follow practices and procedures.
+
+Scrum expects the self-managing team to organize around delivering value.
+
+
+"What should I work on?"
+
+Answer: whatever best contributes to the *team* delivering the most *value*.
+
+
+The Product Backlog is intended to be a force-ranked list of value to deliver.
+
+There can be many factors involved involved in that ranking.
+
+Uncertain and risky items, for example, should move to the top in order to reduce risk early.
+
+
+Kanban focuses on continuous flow and reducing the time required for each item.
+
+Scrum takes on small batches (Sprint Backlog) to be completed in short timeboxes (the Sprint).
+
+Note: These can be mixed and there are other approaches too.
+
+
+The Sprint Backlog should be based on a Sprint Goal
+
+Knowing *why* informs the team and allows them to better determine *how* to do so.
+
+It opens the door for re-negotiating in order to deliver better value.
+
+
+The Sprint Backlog is the *plan* for accomplishing the Sprint Goal.
+
+It is created initially at each Sprint Planning.
+
+The Daily Scrum is for the team to adjust the plan and their activity to better accomplish the Sprint Goal.
+
+
+"What should I work on?"
+
+How do you feed a family? How do you balance buying groceries, cooking, eating, cleaning up, and doing dishes?
+
+The answer is highly dependent on the context and the self-managing team is expected to work together to figure it out.
+
+
 
 ## Agile/Lean Value Delivery
+
+
+> Increment, sequence, and iterate in order to avoid costs, mitigate risks, and accrete value.
+Note: from discussions with and presentations by Ken Furlong
+
+
+<div style="display: grid;
+grid-template-columns: repeat(2, 1fr);
+grid-template-rows: repeat(3, 1fr);
+grid-column-gap: 0px;
+grid-row-gap: 0px;
+text-align: left;">
+<div>Incremental</div><div>Sprints and Increments</div>
+<div style="background: gray;">Sequenced</div><div style="background: gray;">Product Backlog</div>
+<div>Iterative</div><div>Inspect and Adapt</div>
+</div>
 
 
 <!-- .slide: data-transition="slide none" data-background-transition="slide none" data-background-color="white" -->

@@ -127,6 +127,13 @@ The lack of any of these values can undermine the success of a Scrum team.
 ## Artifacts, Events, and Roles
 
 
+The artifacts, events, and roles are designed to create transparency and ensure that inspection and adaptation occur.
+
+
+<!-- .slide: data-background-image="https://www.emergn.com/wp-content/uploads/2012/06/vfqscrumdiagram.png" data-background-size="contain" data-background-color="white" -->
+Note: ![Scrum Diagram](https://www.emergn.com/wp-content/uploads/2012/06/vfqscrumdiagram.png) from [https://www.emergn.com/blog/scrum-the-diagram/]
+
+
 Three artifacts for transparency:
 
 <div style="display: grid;
@@ -169,7 +176,7 @@ text-align: left;">
 <div><strong>Role</strong></div><div><strong>Focus</strong></div>
 <div style="background: gray;">Product Owner</div><div style="background: gray;">📶 Maximizing Value</div>
 <div>Developers</div><div>🥇 Quality Work</div>
-<div style="background: gray;">Scrum Masters</div><div style="background: gray;">🏉 Team Effectiveness</div>
+<div style="background: gray;">Scrum Master</div><div style="background: gray;">🏉 Team Effectiveness</div>
 </div>
 
 
@@ -182,6 +189,13 @@ The sprint is a timebox.
 - **Fixed-length** time period
 - **Arbitrary** relative to the scope of work
 - **Short** for frequent inspection and adaptation (product, plans, process, etc.)
+
+
+Sprints support working at a *sustainable pace*.
+
+- Sprints are small projects.
+- No fixed-scope fixed-deadline planning.
+- No "crunch time" before a release or at the end of a big project.
 
 
 Software is complex: small changes can have huge and hard-to-predict consequences.
@@ -223,7 +237,7 @@ Holding costs:
 - Options are limited between these points given the remaining effort to become shippable.
 
 
-A potentially shippable product increment takes extra effort:
+A potentially shippable product increment takes extra effort.
 
 Transaction costs:
 
@@ -239,7 +253,9 @@ Note: ![transaction and total cost graph](https://i.stack.imgur.com/j5rF8.jpg) I
 Small batches of work is one of the key insights of Agile software development and is the result of many scars.
 
 
-The Product Increment is supposed to be inspected at a minimum at the Sprint Review which should generate feedback that informs Sprint Planning.
+The Product Increment is supposed to be inspected at a minimum at the Sprint Review.
+
+This should generate feedback that informs Sprint Planning.
 
 
 
@@ -282,7 +298,7 @@ The Product Backlog is intended to be a force-ranked list of value to deliver.
 
 There can be many factors involved involved in that ranking.
 
-Uncertain and risky items, for example, should move to the top in order to reduce risk early.
+Note: Uncertain and risky items, for example, should move to the top in order to reduce risk early.
 
 
 Kanban focuses on continuous flow and reducing the time required for each item.
@@ -296,7 +312,7 @@ The Sprint Backlog should be based on a Sprint Goal
 
 Knowing *why* informs the team and allows them to better determine *how* to do so.
 
-It opens the door for re-negotiating in order to deliver better value.
+Note: It opens the door for re-negotiating in order to deliver better value.
 
 
 The Sprint Backlog is the *plan* for accomplishing the Sprint Goal.
@@ -308,9 +324,9 @@ The Daily Scrum is for the team to adjust the plan and their activity to better 
 
 "What should I work on?"
 
-How do you feed a family? How do you balance buying groceries, cooking, eating, cleaning up, and doing dishes?
+How do you feed a family?
 
-The answer is highly dependent on the context and the self-managing team is expected to work together to figure it out.
+Note: How do you balance buying groceries, cooking, eating, cleaning up, and doing dishes? The answer is highly dependent on the context and the self-managing team is expected to work together to figure it out.
 
 
 <div style="display: grid;
@@ -322,6 +338,11 @@ text-align: left;">
 <div><strong>Product Owner</strong></div><div><strong>Developers</strong></div>
 <div>Product Backlog<br />Sprint Goal</div><div>Sprint Backlog<br />Product Increment</div>
 </div>
+
+
+The team should be delivering the most value they can each sprint.
+
+Note: The product increment should be the most valuable version possible given the time and what was known.
 
 
 

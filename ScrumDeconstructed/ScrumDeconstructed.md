@@ -171,6 +171,107 @@ text-align: left;">
 
 
 
+## The Sprint
+
+
+The sprint is a timebox.
+
+- **Fixed-length** time period
+- **Arbitrary** relative to the scope of work
+- **Short** for frequent inspection and adaptation (product, plans, process, etc.)
+
+
+Software is complex: small changes can have huge and hard-to-predict consequences.
+
+Estimating complex work is frequently misleading and dangerous.
+
+Note: Estimating the time required to develop software has an incredibly bad track record and is responsible for many death marches and failed projects.
+
+
+Scrum is founded on empiricism. The guide calls out the limits of forecasting:
+
+> In complex environments, what will happen is unknown. Only what has already happened may be used for forward-looking decision making.
+
+
+<!-- .slide: data-background-image="https://sep.yimg.com/ca/I/tavernpuzzles_2272_7242125" data-background-size="contain" data-background-color="white" -->
+Note: this puzzle is not even complex, but it contains unknowns even though fully inspectible. Your estimate is likely wildly inaccurate until you've actually solved it. I can remove the U-shaped shuttle in a little under a minute, but it took me many hours over several months to solve it the first time.
+
+
+There are useful forecasting techniques that are based in historical data, such as burn-up charts, cumulative flow diagrams, and Monte Carlo simulations.
+
+Fundamentally, however, the only certain thing is the working software.
+
+
+
+## Product Increment
+
+
+"Potentially Shippable Product Increment"
+
+Note: This is used when designing embedded systems and software that will be pressed onto CDs and shipped. This idea comes out of the 90's and is not based in SaaS or DevOps. This doesn't mean that you actually ship, but that you've achieved something of that level of quality and integration that can be inspected.
+
+
+How frequently do you have a fully-functional and fully-tested version that is ready to ship?
+
+Holding costs:
+
+- Risks are hidden in between these points.
+- Waste occurs while people are unaware of the pending differences.
+- Options are limited between these points given the remaining effort to become shippable.
+
+
+A potentially shippable product increment takes extra effort:
+
+Transaction costs:
+
+- Small chunks of work that can be completed within a Sprint.
+- Frequent integration of code.
+- Frequent testing.
+
+
+<!-- .slide: data-background-image="https://i.stack.imgur.com/j5rF8.jpg" data-background-size="contain" data-background-color="white" -->
+Note: It is human nature to notice the transaction costs because they are immediate: we see and feel them in the moment. The holding costs are removed from the event. Lean and just-in-time manufacturing were competitive advantages because they reduced holding costs. Not shown here, holding costs can actually jump at various points as you cross threshholds, such as food spoilage, needing another warehouse, etc.
+
+
+Small batches of work is one of the key insights of Agile software development and is the result of many scars.
+
+
+
+## Product and Sprint Backlogs
+
+
+Value flow over individual work.
+
+
+
+## Agile/Lean Value Delivery
+
+
+<!-- .slide: data-transition="slide none" data-background-transition="slide none" data-background-color="white" -->
+![value over time and work](assets/0_value_axes.jpg)
+
+
+<!-- .slide: data-transition="none" data-background-transition="none" data-background-color="white" -->
+![fantasy of 'progress'](assets/1_fantasy_value.jpg)
+
+
+<!-- .slide: data-transition="none" data-background-transition="none" data-background-color="white" -->
+![big bang delivery of value at the end](assets/2_big_bang_value.jpg)
+
+
+<!-- .slide: data-transition="none" data-background-transition="none" data-background-color="white" -->
+![break delivery up into smaller increments](assets/3_incremental_value.jpg)
+
+
+<!-- .slide: data-transition="none" data-background-transition="none" data-background-color="white" -->
+![sequence the work to deliver the most value first](assets/4_sequenced_value.jpg)
+
+
+<!-- .slide: data-transition="none" data-background-transition="none" data-background-color="white" -->
+![iterate, learn, and deliver more value than planned](assets/5_iterative_value.jpg)
+
+
+
 ## Take-Aways
 
 

@@ -3,17 +3,16 @@
 
 We've all had some experience with Scrum
 
-I don't know that I've ever seen a team follow it to the letter.
+Note: I don't know that I've ever seen a team follow it to the letter.
 
 
 Scrum is a lightweight framework.
 
+It is intentionally incomplete.
+
 The whole thing is short and [available online](https://scrumguides.org/scrum-guide.html).
 
-
-It's not the only way to be Agile and there are many beneficial ways to adapt or modify it.
-
-The majority of the modifications I've seen have been detrimental and have been premature optimizations.
+Note: It's not the only way to be Agile and there are many beneficial ways to adapt or modify it. The majority of the modifications I've seen have been detrimental and have been premature optimizations.
 
 
 What matters the most?
@@ -25,7 +24,9 @@ What matters the most?
 
 Scrum includes a set of roles, artifacts, and events.
 
-You can schedule the events, name some artifacts, and give people titles that match the roles, and still get zero benefit.
+No guarantee of benefit.
+
+Note: You can schedule the events, name some artifacts, and give people titles that match the roles, and still get zero benefit.
 
 
 Scrum requires a self-managing team, defined as:
@@ -33,9 +34,11 @@ Scrum requires a self-managing team, defined as:
 > The team is responsible for executing the tasks **and** monitoring and managing process and progress.
 
 
-Self-management entails freedom *and* responsibility.
+Freedom *and* responsibility.
 
-Self-management requires a certain mindset among the team and the organization around the team.
+Mindset of the organization and the team.
+
+Note: Self-management entails freedom *and* responsibility. This requires a certain mindset on the team and in the organization around the team.
 
 
 <div style="text-align: left; margin: auto; width: 60%;">

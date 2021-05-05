@@ -194,7 +194,7 @@ Scrum is founded on empiricism. The guide calls out the limits of forecasting:
 
 
 <!-- .slide: data-background-image="https://sep.yimg.com/ca/I/tavernpuzzles_2272_7242125" data-background-size="contain" data-background-color="white" -->
-Note: this puzzle is not even complex, but it contains unknowns even though fully inspectible. Your estimate is likely wildly inaccurate until you've actually solved it. I can remove the U-shaped shuttle in a little under a minute, but it took me many hours over several months to solve it the first time.
+Note: ![tavern puzzle](https://sep.yimg.com/ca/I/tavernpuzzles_2272_7242125) this puzzle is not even complex, but it contains unknowns even though fully inspectible. Your estimate is likely wildly inaccurate until you've actually solved it. I can remove the U-shaped shuttle in a little under a minute, but it took me many hours over several months to solve it the first time.
 
 
 There are useful forecasting techniques that are based in historical data, such as burn-up charts, cumulative flow diagrams, and Monte Carlo simulations.
@@ -230,7 +230,7 @@ Transaction costs:
 
 
 <!-- .slide: data-background-image="https://i.stack.imgur.com/j5rF8.jpg" data-background-size="contain" data-background-color="white" -->
-Note: It is human nature to notice the transaction costs because they are immediate: we see and feel them in the moment. The holding costs are removed from the event. Lean and just-in-time manufacturing were competitive advantages because they reduced holding costs. Not shown here, holding costs can actually jump at various points as you cross threshholds, such as food spoilage, needing another warehouse, etc.
+Note: ![transaction and total cost graph](https://i.stack.imgur.com/j5rF8.jpg) It is human nature to notice the transaction costs because they are immediate: we see and feel them in the moment. The holding costs are removed from the event. Lean and just-in-time manufacturing were competitive advantages because they reduced holding costs. Not shown here, holding costs can actually jump at various points as you cross threshholds, such as food spoilage, needing another warehouse, etc.
 
 
 Small batches of work is one of the key insights of Agile software development and is the result of many scars.
@@ -308,6 +308,17 @@ The Daily Scrum is for the team to adjust the plan and their activity to better 
 How do you feed a family? How do you balance buying groceries, cooking, eating, cleaning up, and doing dishes?
 
 The answer is highly dependent on the context and the self-managing team is expected to work together to figure it out.
+
+
+<div style="display: grid;
+grid-template-columns: repeat(2, 1fr);
+grid-template-rows: repeat(2, 1fr);
+grid-column-gap: 0px;
+grid-row-gap: 0px;
+text-align: left;">
+<div><strong>Product Owner</strong></div><div><strong>Developers</strong></div>
+<div>Product Backlog<br />Sprint Goal</div><div>Sprint Backlog<br />Product Increment</div>
+</div>
 
 
 

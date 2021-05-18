@@ -42,7 +42,7 @@ This is where it gets hard.
 
 This might do what is needed:
 ```
-bdiff = (due - start).divmod(7).reduce { |x,y| x*5+y }
+bdiff = (d - s).divmod(7).reduce { |x,y| x*5+y }
 ```
 
 But we can't tell what it's doing, much less whether it's doing it right.
@@ -53,7 +53,9 @@ This does the same thing, but I'd bet you have a much better guess as to what it
 CALENDAR_WEEK = 7
 BUSINESS_WEEK = 5
 calendar_days = (due_date - start_date)
-business_days = calendar_days.divmod(CALENDAR_WEEK).reduce { |weeks, days| weeks * BUSINESS_WEEK + days }
+business_days = calendar_days.divmod(CALENDAR_WEEK).reduce { |weeks, days|
+  weeks * BUSINESS_WEEK + days
+}
 ```
 
 

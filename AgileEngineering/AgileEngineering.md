@@ -1,5 +1,6 @@
 # Agile Engineering
 
+
 ## Goal
 
 Working software
@@ -88,6 +89,7 @@ Shared understanding
 
 Developer welfare
 - Sustainable pace – avoid exceeding the 40+ hour work week and crunch periods
+
 
 
 ## TDD

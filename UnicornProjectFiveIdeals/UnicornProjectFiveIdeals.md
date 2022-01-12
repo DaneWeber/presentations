@@ -13,7 +13,7 @@ Taylor
 
 
 
-## 5) 🔮 Customer Focus
+## 🔮 Customer Focus
 
 
 <img src="https://www.thesun.co.uk/wp-content/uploads/2018/08/NINTCHDBPICT000429853769.jpg" alt="ramp and stairs" height="532" />
@@ -22,13 +22,16 @@ Note:
 Are we really solving our customers' problems?
 
 
-- Go learn what real users/customers/stakeholders need.
+### 5) 🔮 Customer Focus
+
+- Go learn what real customers/stakeholders need.
+- Learn, communicate, and challenge the _why_.
 - Prioritize core over context, which means doing the things that provide the real value.
-- This isn’t just one specialist’s job: we each need to understand the “why” of what we are doing so that we can make good trade-offs.
+- This isn’t just a specialist’s job: we each need to understand the _why_ of what we are doing so that we can make good trade-offs.
 
 
 
-## 4) ⛑ Psychological Safety
+## ⛑ Psychological Safety
 
 
 ### Korean Air Flight 801<br />(Airplane Crash)
@@ -43,11 +46,13 @@ Note:
 - The first officer had the ability to take over the controls and abort the landing, but allowed the captain to continue flying, even during the final six seconds.
 
 
+### 4) ⛑ Psychological Safety
+
+- This is the biggest predictor of an engineering team’s success at Google.
 - Take risks without feeling insecure or embarrassed.
 - Say, “I don’t know.” -- Continuously learning.
 - New ideas are welcomed.
 - Failure is done in the open, examined blamelessly, and leads to growth.
-- This is the biggest predictor of a team’s success.
 
 
 

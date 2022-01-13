@@ -110,8 +110,28 @@ Due to technical debt
 - Might need a “feature freeze.”
 
 
+
 ## 🎯 Focus, Flow, and Joy
 
+
+“In product development, our greatest waste is not unproductive engineers, but work products sitting idle in process queues.”
+
+~ Donald G. Reinertsen,<br />_The Principles of Product Development Flow: Second Generation Lean Product Development_
+
+
+![Simple value stream map from https://www.ibm.com/garage/method/practices/discover/practice_value_stream_mapping](https://www.ibm.com/cloud/architecture/images/practices/simple-value-stream-map.png)
+
+Note:
+- When you map out the development process, you find that the vast majority of the cycle time is made of delays.
+- This is fractal: as you dig down you find many tiny delays within what is an overall value-adding activity, such as the time it takes to rebuild the code or the time spent on a dead-end.
+
+
+![Complex process diagram from https://www.process.st/business-process-modeling/](https://www.process.st/wp-content/uploads/2016/08/154146e.jpg)
+
+Note:
+- At Freddie Mac, it was amazing how difficult it was for developers to do their job.
+- The multiple layers of hierarchy and planning and meetings consumed a huge amount of time.
+- Even getting to the point of writing a line of code involved multiple approvals and jumping through special VPN connections to use a janky VM for editing code.
 
 
 ### 2) 🎯 Focus, Flow, and Joy

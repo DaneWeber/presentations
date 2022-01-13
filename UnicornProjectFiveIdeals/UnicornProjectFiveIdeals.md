@@ -16,6 +16,11 @@ Taylor
 ## 🔮 Customer Focus
 
 
+“There is nothing so useless as doing efficiently that which should not be done at all.”
+
+~ Peter F. Drucker
+
+
 <img src="https://www.thesun.co.uk/wp-content/uploads/2018/08/NINTCHDBPICT000429853769.jpg" alt="ramp and stairs" height="532" />
 
 Note:
@@ -32,6 +37,11 @@ Are we really solving our customers' problems?
 
 
 ## ⛑ Psychological Safety
+
+
+> Of the five key dynamics of effective teams that the researchers identified, psychological safety was by far the most important.
+
+Google's [re:Work](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/)
 
 
 ### Korean Air Flight 801<br />(Airplane Crash)
@@ -56,16 +66,55 @@ Note:
 
 
 
-## 3) 🔪 Improvement of Daily Work
+## 🔪 Improvement of Daily Work
 
+
+<div style="font-size: 50%; padding: 0 15%">“There cannot be a more important thing for an engineer, for a product team, than to work on systems that drive our productivity.”</div>
+
+“So I would, any day of the week, trade off features for our own productivity.”
+
+<div style="font-size: 50%; padding: 0 15%">“I want our best engineers to work on our engineering systems, so that we can later on come back and build all of the new concepts we want.”</div>
+
+~ Satya Nadella, CEO, Microsoft
+
+
+### Andon Cord
+
+![https://www.shmula.com/about-peter-abilla/what-is-andon-in-the-toyota-production-system/](https://www.shmula.com/wp-content/uploads/2014/11/andon-cord-example-in-manufacturing.jpg)
+
+Note:
+- 1980's NUMMI story: Toyota turning GM's worst workforce around to produce cars with the fewest defects and considerable cost savings.
+- Old rule: never stop the line. It cost the company $15k per minute when the line was stopped. People would fall into a pit or have a heart attack and the line would keep running; the people had to wait.
+- Stop the line and fix a problem. ~1000 per shift; ~10% stop the line more than 30 seconds; ~1/month stop the line for over an hour ($1 million).
+
+
+### Near Death Experiences
+
+Due to technical debt
+
+- Ebay (1999)
+- Microsoft (2002)
+- Google (2005)
+- Amazon (2004)
+- Twitter (2008)
+- LinkedIn (2009)
+- Etsy (2009)
+
+
+### 3) 🔪 Improvement of Daily Work
+
+- Improving how we work over doing the work.
 - Stop the production line and make things better.
-- It is more important to improve how we work now than just get work done.
 - Improve as individual people; improve relationships; improve processes; improve tools; improve technology.
-- Pay down technical debt by investing in technical excellence.
+- Reduce technical impediments and risks by investing in technical excellence.
+- Might need a “feature freeze.”
+
+
+## 🎯 Focus, Flow, and Joy
 
 
 
-## 2) 🎯 Focus, Flow, and Joy
+### 2) 🎯 Focus, Flow, and Joy
 
 - Work within the problem-space, rather than with tangential matters that get in the way.
 - Rapidly go from idea to a change in production.
@@ -74,11 +123,31 @@ Note:
 
 
 
-## 1) 🦠 Locality and Simplicity
+## 🦠 Locality and Simplicity
 
-- Does it take 50 teams across five continents and 15 systems to coordinate to make a small change?
+
+“Order can emerge from the bottom up, as opposed to being directed, with a plan, from the top down.”
+
+~ General Stanley McChrystal, U.S. Army, Retired,<br />_Team of Teams_
+
+
+### Team of Teams
+
+![Gen. Stanley A. McChrystal (center) speaks with Afghan National Army Lt. Aminullah Sadat (left) at Patrol Base Tapa Paraang. Resolute Support Media. https://thekojonnamdishow.org/shows/2015-08-11/general-stanley-mcchrystal](https://s8297.pcdn.co/wp-content/uploads/2015/08/4216882594_35bf4069b6_o-1024x683.jpg)
+
+Note:
+- Joint Special Forces Task Force in Iraq in 2004 combating Al Qaeda Iraq.
+- The task force had the best of everything, but they were losing to far smaller opponent that was nimble.
+- Operations and Intelligence teams had no direct contact and information flowed through the hierarchy on a need-to-know basis.
+- The solution involved "shared consciousness" and "empowered execution" where information flowed freely and action did not wait on the commander's approval.
+- Pushed decision-making down to the very edges.
+
+
+### 1) 🦠 Locality and Simplicity
+
 - Congruent architecture and organization that minimizes hand-offs, bottlenecks, and coordination.
-- Also applies to code organization and data movement.
+- Empower the doers to act directly based on shared purpose and understanding.
+- Applies to organizational structure, code organization, and data movement.
 - Reduce complexity to reduce risk and waste.
 
 
@@ -95,7 +164,7 @@ DevOps is
 > Better value.
 > Sooner, Safer, Happier.
 
---Jon Smart
+~ Jon Smart
 
 
 ### Five Ideals

@@ -79,12 +79,17 @@ Are we really solving our customers' problems?
 
 Google's [re:Work](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/)
 
+Note:
+- This is the biggest predictor of an engineering team’s success at Google.
+
 
 ### Korean Air Flight 801<br />(Airplane Crash)
 
 ![Korean Air Flight 801 crash in Guam from https://en.wikipedia.org/wiki/Korean_Air_Flight_801](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Korean_Airlines_flight_801_crash_site.jpg/640px-Korean_Airlines_flight_801_crash_site.jpg)
 
 Note:
+- Tragedy caused by an error on the part of the captain. The black-box recording showed that the flight crew were aware of his mistake but were too afraid or deferential to challenge him or take over control.
+
 - Tragedy; 6 August 1997; 229 deaths; As always, there are many factors, including fatigue, training, outdated maps, and more.
 - The flight crew suggested to the captain that he was making a mistake with his approach. They did not directly warn him.
 - The first officer and flight engineer were required to challenge the captain if concerned, but did not, even though they were concerned.
@@ -94,7 +99,6 @@ Note:
 
 ### 4) ⛑ Psychological Safety
 
-- This is the biggest predictor of an engineering team’s success at Google.
 - Take risks without feeling insecure or embarrassed.
 - Say, “I don’t know.” -- Continuously learning.
 - New ideas are welcomed.
@@ -114,16 +118,6 @@ Note:
 ~ Satya Nadella, CEO, Microsoft
 
 
-### Andon Cord
-
-![https://www.shmula.com/about-peter-abilla/what-is-andon-in-the-toyota-production-system/](https://www.shmula.com/wp-content/uploads/2014/11/andon-cord-example-in-manufacturing.jpg)
-
-Note:
-- 1980's NUMMI story: Toyota turning GM's worst workforce around to produce cars with the fewest defects and considerable cost savings.
-- Old rule: never stop the line. It cost the company $15k per minute when the line was stopped. People would fall into a pit or have a heart attack and the line would keep running; the people had to wait.
-- Stop the line and fix a problem. ~1000 per shift; ~10% stop the line more than 30 seconds; ~1/month stop the line for over an hour ($1 million).
-
-
 ### Near Death Experiences
 
 Due to technical debt
@@ -137,9 +131,22 @@ Due to technical debt
 - Etsy (2009)
 
 
+### Andon Cord
+
+![https://www.shmula.com/about-peter-abilla/what-is-andon-in-the-toyota-production-system/](https://www.shmula.com/wp-content/uploads/2014/11/andon-cord-example-in-manufacturing.jpg)
+
+Note:
+- Toyota's legendary productivity, quality, and profitability is in part due to a culture where workers stop the assembly line to fix and improve, even though this costs over $15k per minute.
+- There's a great story about this from Toyota taking over a failed GM factory in the 1980's.
+
+- 1980's NUMMI story: Toyota turning GM's worst workforce around to produce cars with the fewest defects and considerable cost savings.
+- Old rule: never stop the line. It cost the company $15k per minute when the line was stopped. People would fall into a pit or have a heart attack and the line would keep running; the people had to wait.
+- Stop the line and fix a problem. ~1000 per shift; ~10% stop the line more than 30 seconds; ~1/month stop the line for over an hour ($1 million).
+
+
 ### 3) 🔪 Improvement of Daily Work
 
-- Improving how we work over doing the work.
+- Improving how we work is more important than just doing the work.
 - Stop the production line and make things better.
 - Improve as individual people; improve relationships; improve processes; improve tools; improve technology.
 - Reduce technical impediments and risks by investing in technical excellence.
@@ -162,14 +169,6 @@ Note:
 - This is fractal: as you dig down you find many tiny delays within what is an overall value-adding activity, such as the time it takes to rebuild the code or the time spent on a dead-end.
 
 
-![Complex process diagram from https://www.process.st/business-process-modeling/](https://www.process.st/wp-content/uploads/2016/08/154146e.jpg)
-
-Note:
-- At Freddie Mac, it was amazing how difficult it was for developers to do their job.
-- The multiple layers of hierarchy and planning and meetings consumed a huge amount of time.
-- Even getting to the point of writing a line of code involved multiple approvals and jumping through special VPN connections to use a janky VM for editing code.
-
-
 ### 2) 🎯 Focus, Flow, and Joy
 
 - Work within the problem-space, rather than with tangential matters that get in the way.
@@ -186,10 +185,19 @@ Note:
 
 ~ General Stanley McChrystal, U.S. Army, Retired,<br />_Team of Teams_
 
+Note:
+- Great story about learning how to fight the war in Iraq.
+
+
+![Complex process diagram from https://www.process.st/business-process-modeling/](https://www.process.st/wp-content/uploads/2016/08/154146e.jpg)
+
+Note:
+- Process won't save you. It is often liable to slow you down and make poorly-informed decisions.
+
 
 ### 1) 🦠 Locality and Simplicity
 
-- Congruent architecture and organization that minimizes hand-offs, bottlenecks, and coordination.
+- Minimize hand-offs, bottlenecks, and coordination with congruent architecture and organization.
 - Empower the doers to act directly based on shared purpose and understanding.
 - Applies to organizational structure, code organization, and data movement.
 - Reduce complexity to reduce risk and waste.
@@ -203,7 +211,7 @@ Gene Kim's _Unicorn Project_
 
 ![Unicorn Project book cover](https://m.media-amazon.com/images/I/51jkkeU8HvL.jpg)
 
-
+Note:
 DevOps is
 > Better value.
 > Sooner, Safer, Happier.
@@ -213,13 +221,13 @@ DevOps is
 
 ### Five Ideals
 
-🔬 Lenses for focusing on different aspects of the work system.
-
-They apply to various levels: micro to macro. 🔭
-
-
 1. 🦠 [Locality and Simplicity](../LocalityAndSimplicity/LocalityAndSimplicity.html#/2)
 2. 🎯 [Focus, Flow, and Joy](../FocusFlowAndJoy/FocusFlowAndJoy.html#/2)
 3. 🔪 [Improvement of Daily Work](../ImprovementOfDailyWork/ImprovementOfDailyWork.html#/2)
 4. ⛑ [Psychological Safety](../PsychologicalSafety/PsychologicalSafety.html#/2)
 5. 🔮 [Customer Focus](../CustomerFocus/CustomerFocus.html#/2)
+
+Note:
+🔬 Lenses for focusing on different aspects of the work system.
+
+They apply to various levels: micro to macro. 🔭

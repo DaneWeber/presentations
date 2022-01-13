@@ -1,4 +1,6 @@
-# Unicorn Project Five Ideals
+# Five Ideals of DevOps
+
+From Gene Kim's _The Unicorn Project_
 
 
 
@@ -15,9 +17,8 @@ Note:
 ![How Scientific Management is Applied, via Google Books from https://philadelphiaencyclopedia.org/archive/scientific-management/](https://philadelphiaencyclopedia.org/wp-content/uploads/2014/12/Time-manager-with-stopwatch-resize--575x567.png)
 
 Note:
-- Taylor started in a steel mill that relied on the individual expertise and decision-making of craftsmen.
-- The workers each had their own way of doing the job. Taylor timed them and found that some methods were more productive and efficient than others.
-- He introduced the idea that managers should do the thinking to find the best way to perform a job and the workers should focus solely laboring as instructed. In this way every worker would perform at the maximum level of productivity.
+- Taylor started in a steel mill. He timed workers and instructed and paid workers to use the methods that were the most productive and efficient.
+- He introduced the idea that managers should do the thinking to find the best way to perform a job and the workers should focus solely laboring as instructed.
 
 
 ✅ Positive legacy
@@ -25,6 +26,9 @@ Note:
 - Experimenting and learning better ways to work.
 - Investing in training.
 - Aligning incentives and sharing profits with workers.
+
+Note:
+There are positive and negative aspects to the legacy of scientific management.
 
 
 ❌ Negative legacy
@@ -36,6 +40,12 @@ Note:
 
 Note:
 Many modern management practices unwittingly trace their origins to Taylor's Scientific Management.
+
+
+
+The **Five Ideals of DevOps** are traits observed in high-performing software development organizations.
+
+🔮⛑🔪🎯🦠
 
 
 

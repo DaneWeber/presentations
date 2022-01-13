@@ -187,18 +187,6 @@ Note:
 ~ General Stanley McChrystal, U.S. Army, Retired,<br />_Team of Teams_
 
 
-### Team of Teams
-
-![Gen. Stanley A. McChrystal (center) speaks with Afghan National Army Lt. Aminullah Sadat (left) at Patrol Base Tapa Paraang. Resolute Support Media. https://thekojonnamdishow.org/shows/2015-08-11/general-stanley-mcchrystal](https://s8297.pcdn.co/wp-content/uploads/2015/08/4216882594_35bf4069b6_o-1024x683.jpg)
-
-Note:
-- Joint Special Forces Task Force in Iraq in 2004 combating Al Qaeda Iraq.
-- The task force had the best of everything, but they were losing to far smaller opponent that was nimble.
-- Operations and Intelligence teams had no direct contact and information flowed through the hierarchy on a need-to-know basis.
-- The solution involved "shared consciousness" and "empowered execution" where information flowed freely and action did not wait on the commander's approval.
-- Pushed decision-making down to the very edges.
-
-
 ### 1) 🦠 Locality and Simplicity
 
 - Congruent architecture and organization that minimizes hand-offs, bottlenecks, and coordination.

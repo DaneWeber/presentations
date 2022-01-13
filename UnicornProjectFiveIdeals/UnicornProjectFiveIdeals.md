@@ -2,14 +2,40 @@
 
 
 
-## Taylorism
+## Taylor's Scientific Management
 
 
-Taylor
+![Wikimedia Commons from https://philadelphiaencyclopedia.org/archive/scientific-management/](https://philadelphiaencyclopedia.org/wp-content/uploads/2014/12/Frederick-Winslow-Taylor.jpg)
+
+Note:
+- Frederick Winslow Taylor started "scientific management" in the 1880s
+- This management approach has been highly influential throughout American corporations.
 
 
-- Right on learning the best way.
-- Wrong on shutting off workers' brains.
+![How Scientific Management is Applied, via Google Books from https://philadelphiaencyclopedia.org/archive/scientific-management/](https://philadelphiaencyclopedia.org/wp-content/uploads/2014/12/Time-manager-with-stopwatch-resize--575x567.png)
+
+Note:
+- Taylor started in a steel mill that relied on the individual expertise and decision-making of craftsmen.
+- The workers each had their own way of doing the job. Taylor timed them and found that some methods were more productive and efficient than others.
+- He introduced the idea that managers should do the thinking to find the best way to perform a job and the workers should focus solely laboring as instructed. In this way every worker would perform at the maximum level of productivity.
+
+
+✅ Positive legacy
+
+- Experimenting and learning better ways to work.
+- Investing in training.
+- Aligning incentives and sharing profits with workers.
+
+
+❌ Negative legacy
+
+- Shutting off workers' brains.
+- Micromanagement.
+- Centralizing decision-making.
+- Disempowering the doers.
+
+Note:
+Many modern management practices unwittingly trace their origins to Taylor's Scientific Management.
 
 
 

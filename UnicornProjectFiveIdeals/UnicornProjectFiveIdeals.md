@@ -60,7 +60,8 @@ The **Five Ideals of DevOps** are traits observed in high-performing software de
 <img src="https://www.thesun.co.uk/wp-content/uploads/2018/08/NINTCHDBPICT000429853769.jpg" alt="ramp and stairs" height="532" />
 
 Note:
-Are we really solving our customers' problems?
+- Are we really solving our customers' problems?
+- Is this door now wheelchair-accessible? No.
 
 
 ### 5) 🔮 Customer Focus
@@ -69,6 +70,9 @@ Are we really solving our customers' problems?
 - Learn, communicate, and challenge the _why_.
 - Prioritize core over context, which means doing the things that provide the real value.
 - This isn’t just a specialist’s job: we each need to understand the _why_ of what we are doing so that we can make good trade-offs.
+
+Note:
+Everyone should learn what our customers really need.
 
 
 
@@ -88,7 +92,7 @@ Note:
 ![Korean Air Flight 801 crash in Guam from https://en.wikipedia.org/wiki/Korean_Air_Flight_801](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Korean_Airlines_flight_801_crash_site.jpg/640px-Korean_Airlines_flight_801_crash_site.jpg)
 
 Note:
-- Tragedy caused by an error on the part of the captain. The black-box recording showed that the flight crew were aware of his mistake but were too afraid or deferential to challenge him or take over control.
+- Tragedy caused by an error on the part of the captain. The black-box recording showed that the flight crew were aware of his mistake and could have saved everyone, but were too afraid or deferential to challenge him or take over control.
 
 - Tragedy; 6 August 1997; 229 deaths; As always, there are many factors, including fatigue, training, outdated maps, and more.
 - The flight crew suggested to the captain that he was making a mistake with his approach. They did not directly warn him.
@@ -99,6 +103,7 @@ Note:
 
 ### 4) ⛑ Psychological Safety
 
+- Challenge authority.
 - Take risks without feeling insecure or embarrassed.
 - Say, “I don’t know.” -- Continuously learning.
 - New ideas are welcomed.
@@ -151,6 +156,9 @@ Note:
 - Improve as individual people; improve relationships; improve processes; improve tools; improve technology.
 - Reduce technical impediments and risks by investing in technical excellence.
 - Might need a “feature freeze.”
+
+Note:
+Invest in improvements now, not later.
 
 
 

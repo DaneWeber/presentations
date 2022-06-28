@@ -57,11 +57,59 @@ The **Five Ideals of DevOps** are traits observed in high-performing software de
 ~ Peter F. Drucker
 
 
+### Alignment of Work with Purpose
+
+- Accomplish the mission
+  - ↖By doing X
+    - ↖By doing Y
+      - ↖By doing Z
+        - ↖By writing this line of code
+
+
 <img src="https://www.thesun.co.uk/wp-content/uploads/2018/08/NINTCHDBPICT000429853769.jpg" alt="ramp and stairs" height="532" />
 
 Note:
 - Are we really solving our customers' problems?
 - Is this door now wheelchair-accessible? No.
+
+
+<div style="display: flex"><div style="flex: 1; font-size: 80%">
+Acceptance Criteria:
+
+- Ramp has 5 degree incline.
+- Ramp is 36 inches wide.
+- Ramp rises to height of the base of the door.
+- Five steps from floor to base of the door.
+- Each step has no more than a 7.2 inches rise.
+- Each step is at least 10 inches deep.
+- Each step is 36 inches wide.
+</div><div style="flex: 1">
+<img src="https://www.thesun.co.uk/wp-content/uploads/2018/08/NINTCHDBPICT000429853769.jpg" alt="ramp and stairs" height="532" />
+</div></div>
+
+Note:
+These acceptance criteria might seem to ensure we'll get a good solution, but they're all satisfied by this inaccessible thing.
+
+
+### User Story
+
+As a [stakeholder]<br />
+I want [capability]<br />
+So that [the purpose]<br />
+
+Note:
+- User stories are just a reminder to consider "who" is affected and "why" this thing is worthwhile.
+- The important thing is communicating why, not the format.
+
+
+### [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
+
+When a measure becomes a target, it ceases to be a good measure.
+
+~ [Marilyn Strathern](https://archive.org/details/ImprovingRatingsAuditInTheBritishUniversitySystem)
+
+
+<a href="https://sketchplanations.com/goodharts-law"><img height="528" alt="[Sketchplanation of Goodhart's Law at https://sketchplanations.com/goodharts-law" src="https://images.prismic.io/sketchplanations/6336f4c3-4c89-41f6-998f-ac595fb33a66_167369765942.jpg?auto=format&ixlib=react-9.0.2&w=1246" /></a>
 
 
 ### 5) 🔮 Customer Focus
@@ -101,12 +149,56 @@ Note:
 - The first officer had the ability to take over the controls and abort the landing, but allowed the captain to continue flying, even during the final six seconds.
 
 
+### ⛑ Safety Culture ⛑
+
+Don't be afraid to:
+
+- Admit your limitations and mistakes.
+- Speak up when you notice something.
+- Challenge others, including managers, experts, and other senior personnel.
+
+Note:
+The term "safety culture" came from an analysis of the Chernobyl disaster.
+
+
+### Fully Engaged Brains
+
+<ul>
+<li>⛏️ Digging a ditch with shovels: we need your muscles. 💪</li>
+<li class="fragment">⌨ Data entry: we need your eyes or ears and your fingers. 🖐</li>
+<li class="fragment">👩‍💻 Software development: we need your brains. 🧠</li>
+</ul>
+
+
+In software development, what if we have to do the same thing again?
+
+<p class="fragment">Copy Paste 📋</p>
+<p class="fragment">⚙ We automate routine work.</p>
+<p class="fragment">We are engaged in creative problem-solving.</p>
+
+
+You can still help ⛏ dig a ditch while you're zoned out and letting your mind wander. 🦄
+
+<p class="fragment">You might be able to continue ⌨ data entry while thinking about other things. 🚀</p>
+
+<p class="fragment">👩‍💻 Writing specs, coding a solution, reading error logs, and helping with nearly any system development activity requires engaging your brain. 🧐</p>
+
+
+Psychological safety is critical in order to contribute effectively to creative problem-solving.
+
+Note:
+People must be
+- mentally engaged
+- motivated
+- safe to provide their insights, suggestions, and ideas
+
+
 ### 4) ⛑ Psychological Safety
 
 - Challenge authority.
 - Take risks without feeling insecure or embarrassed.
 - Say, “I don’t know.” -- Continuously learning.
-- New ideas are welcomed.
+- Welcome new ideas.
 - Failure is done in the open, examined blamelessly, and leads to growth.
 
 
@@ -123,22 +215,9 @@ Note:
 ~ Satya Nadella, CEO, Microsoft
 
 
-### Near Death Experiences
-
-Due to technical debt
-
-- Ebay (1999)
-- Microsoft (2002)
-- Google (2005)
-- Amazon (2004)
-- Twitter (2008)
-- LinkedIn (2009)
-- Etsy (2009)
-
-
 ### Andon Cord
 
-![https://www.shmula.com/about-peter-abilla/what-is-andon-in-the-toyota-production-system/](https://www.shmula.com/wp-content/uploads/2014/11/andon-cord-example-in-manufacturing.jpg)
+![https://www.shmula.com/about-peter-abilla/what-is-andon-in-the-toyota-production-system/](cache/andon-cord-example-in-manufacturing.jpg)
 
 Note:
 - Toyota's legendary productivity, quality, and profitability is in part due to a culture where workers stop the assembly line to fix and improve, even though this costs over $15k per minute.
@@ -149,13 +228,39 @@ Note:
 - Stop the line and fix a problem. ~1000 per shift; ~10% stop the line more than 30 seconds; ~1/month stop the line for over an hour ($1 million).
 
 
+### Retrospectives
+
+Inspect and adapt _everything_.
+
+Note:
+- As a Scrum Master or Agile Coach, Retrospectives were the most important activity to me.
+- If you're unfamiliar, these meetings can take many different shapes. There are cool sites like Retromat and books devoted retrospectives. The essential idea is to examine how things have gone, learn from that, and come up with actions for improvement.
+
+
+### Experimentation
+
+Taylorism's "Scientific Management" succeeded because its core insight was experimentation: try different ways and learn which is better.
+
+
+![https://cxl.com/blog/local-maximum/](https://cxl.com/wp-content/uploads/2015/09/locmax-1.png)
+
+Note:
+Making changes you're sure will succeed will probably help you climb to the local maximum. It might be more of a leap to achieve an even better design. I'm not just talking about a block of code or website, but also teamwork approaches, HR policies, org structure, etc.
+
+
+![https://management30.com/practice/celebration-grids/](https://1qjpt15fhlq3xjfpm2utibj1-wpengine.netdna-ssl.com/wp-content/uploads/2015/05/celebration-grid-completed.jpg)
+
+Note:
+- The diagonal divide is between a "success" where the intended outcome occurred, and "failure" where it did not.
+- If we only do the things we're nearly guaranteed to succeed, then we will learn very little.
+
+
 ### 3) 🔪 Improvement of Daily Work
 
 - Improving how we work is more important than just doing the work.
 - Stop the production line and make things better.
 - Improve as individual people; improve relationships; improve processes; improve tools; improve technology.
 - Reduce technical impediments and risks by investing in technical excellence.
-- Might need a “feature freeze.”
 
 Note:
 Invest in improvements now, not later.
@@ -177,12 +282,110 @@ Note:
 - This is fractal: as you dig down you find many tiny delays within what is an overall value-adding activity, such as the time it takes to rebuild the code or the time spent on a dead-end.
 
 
+![from page 65 of "The Bottleneck Rules" by Clarke Ching](cache/The-Bottleneck-Rules-Work-Boards.png)
+
+Note:
+- from page 65 of "The Bottleneck Rules" by Clarke Ching
+- "The testers can't keep up with the rest of the team."
+- Everybody is working as fast and efficiently as possible.
+- Items are sitting on the testing board for ages before being tested. When they are, they've gone stale, developers have forgotten what was involved, and they ask the testers a bunch of questions about the defects.
+- The solution ended up involved slowing down everyone else to help the testers with the environments, answering their questions, and addressing defects immediately.
+
+
+### Lean + Agile + DevOps
+
+Note:
+- Value stream flow rather than individual productivity.
+- Small batches rapidly iterated upon.
+- Frequent integration, testing, and deployment.
+
+
+### Lead & Cycle Time
+
+<p style="border: solid DarkGray; background-color: SteelBlue; width: 100%">Lead Time</p>
+
+Normal lead time: the time between requesting a change and knowing that it is working correctly and being used.
+
+
+<p style="border: solid DarkGray; background-color: SteelBlue; width: 100%">Lead Time</p>
+
+<div style="display: flex; background-color: SteelBlue; width: 100%; font-size: 2vw">
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: MediumTurquoise; width 20%">Design & Definition</div>
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DarkTurquoise; width 20%">Development & Integration</div>
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DeepSkyBlue; width 20%">Build, Test, & Deploy</div>
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DodgerBlue; width 20%">Observed in Production</div>
+</div>
+
+The lead time is composed of the cycle time for various steps in the flow.
+
+
+There are many ways to reduce the cycle time for the various steps while maintaining or increasing quality and safety.
+
+<div style="display: flex; background-color: SteelBlue; width: 100%; font-size: 2vw">
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: MediumTurquoise; width 20%">Design & Definition</div>
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DarkTurquoise; width 20%">Development & Integration</div>
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DeepSkyBlue; width 20%">Build, Test, & Deploy</div>
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DodgerBlue; width 20%">Observed in Production</div></div>
+<div style="display: flex; background-color: SteelBlue; width: 100%; font-size: 1vw">
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: MediumTurquoise; width 20%">
+
+- Three Amigos definition
+- Business working with development
+- User Stories and Acceptance Criteria
+- Specification by Example
+
+</div><div style="flex: 1 1 0px; border: solid DarkGray; background-color: DarkTurquoise; width 20%">
+
+- Pair-programming & Mob-programming
+- Clean code without repetition
+- Test-first
+- Low-latency, high-relevance tests
+- De-coupled services
+- Trunk-based development
+- Continuous integration
+
+</div><div style="flex: 1 1 0px; border: solid DarkGray; background-color: DeepSkyBlue; width 20%">
+
+- CI/CD pipeline
+- Automated build
+- Automated test suites
+- Automated acceptance tests
+- Infrastructure as Code
+- Automated, containerized deployment
+- Blue/green deployments
+
+</div><div style="flex: 1 1 0px; border: solid DarkGray; background-color: DodgerBlue; width 20%">
+
+- Smoke tests
+- Logging
+- Monitoring
+- Alerting
+- Reporting
+- A/B testing
+
+</div></div>
+
+
+### Developer Experience
+
+Optimize for the time from start to confidently making meaningful changes.
+
+Note:
+- This is a big contributor to my joy as a developer and helps me focus.
+- While much of this is most helpful to someone joining a project, it also helps those already familiar by reducing their mental load.
+- Hardware and tools
+- Local setup
+- Reading and understanding the code
+- Observing system behavior
+
+
 ### 2) 🎯 Focus, Flow, and Joy
 
 - Work within the problem-space, rather than with tangential matters that get in the way.
 - Rapidly go from idea to a change in production.
 - Have a great time doing so.
-- It helps to automate routine activities and get rapid feedback on work.
+- Automate routine activities.
+- Get rapid feedback on work.
 
 
 
@@ -192,25 +395,71 @@ Note:
 - Scaling manifesto. First two principles: don't scale.
 - Conway's Law
 
+
 “Order can emerge from the bottom up, as opposed to being directed, with a plan, from the top down.”
 
 ~ General Stanley McChrystal, U.S. Army, Retired,<br />_Team of Teams_
 
 Note:
 - Great story about learning how to fight the war in Iraq.
+- While the US military had grown toward strict hierarchy and siloing of information, that was disastrous for the US response to Al Qaeda in Iraq.
+- If even the US military is learning to trust its people, we probably should too.
+
 
 ![Duplo structure with figure from https://www.core77.com/posts/108544/Why-Less-is-More-in-Industrial-Design-is-Hard-Were-Cognitively-Biased-to-Add-Not-Subtract](https://s3files.core77.com/blog/images/1181422_81_108544_rMbGOjRiE.jpg)
 
 Note:
-
 - When asked to make the roof plate stable, most people think to add more supports, and only choose to remove the lone support when reminded that subtraction is an option.
 - Human nature tends toward addition rather than subtraction, for many good reaons.
 - This generally leads to increasing complexity and bureaucracy over time and especially as an organization or codebase grows.
 
-![Complex process diagram from https://www.process.st/business-process-modeling/](https://www.process.st/wp-content/uploads/2016/08/154146e.jpg)
+
+### Conway's Law
+
+> Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.
+
+~Melvin E. Conway
+
+Ref: [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_law) & [Mel Conway's site](http://melconway.com/Home/Conways_Law.html)
 
 Note:
-- Process won't save you. It is often liable to slow you down and make poorly-informed decisions.
+Move toward an organizational shape and software architecture that best aligns with the mission and serves your customers and stakeholders.
+
+
+### Hackman's Law
+
+> The larger a group, the more process problems members encounter in carrying out their collective work… Worse, the vulnerability of a group to such difficulties increases sharply as size increases.
+
+~ _The Psychology of Leadership: New Perspectives and Research_ [p. 131](https://books.google.co.in/books?id=6Sh5AgAAQBAJ&pg=PA131&lpg=PA131&dq=%22The+larger+a+group,+the+more+process+problems+members+encounter+in+carrying+out+their+collective+work%22&source=bl&ots=QU0HJyKXQQ&sig=XmRwVfYHLVOah3mr69vhozxBVVQ&hl=en&sa=X&ei=XeUiVNTpIoqryASM2IHACQ&redir_esc=y)
+
+
+### [Diseconomies of Scale](https://en.wikipedia.org/wiki/Diseconomies_of_scale)
+
+![Communication channels growth from https://resources.scrumalliance.org/Article/doubling-down-on-scrum-fundamentals-helps-remote-teams-thrive](cache/communication_channels.png)
+
+
+Avoid scaling if possible. See the first two principles of the [Manifesto for Scaling Agility](https://scalingmanifesto.org/):
+
+1. If you can achieve your goals with a single team, <em style="color: yellow">do&nbsp;not&nbsp;scale</em>. Employ the minimum number of people required to meet your strategic outcomes.
+2. If you have a single team and it cannot deliver effectively using Agile principles and practices, <em style="color: yellow">do&nbsp;not&nbsp;scale</em>. Succeed with a single team first.
+
+
+## Reduce complexity to reduce risk and waste
+
+
+### Value Delivery
+
+1. Teams—Ideally a single team can deliver business value by itself, avoiding hand-offs, bottlenecks, and coordination overhead. <span style="color: grey">(cross-functional feature teams…)</span>
+2. Code—Ideally the change can be made in a single place, avoiding repetition, dependencies, and unfamiliar code. <span style="color: grey">(DRY, decoupled, well-architected code…)</span>
+
+
+### Operations and Maintenance
+
+1. Teams—Ideally a team owns a service and can rewrite it on their own authority, avoiding committees and campaigning. <span style="color: grey">(internal APIs, microservices…)</span>
+2. Code—Ideally there is a single version of the code running everywhere, avoiding merge conflicts, incompatibilities, and environment-specific issues. <span style="color: grey">(continuous integration, trunk-based development, continuous delivery/deployment, etc.)</span>
+
+
+<a href="https://microservices.io/patterns/decomposition/service-per-team.html">![Service per team from https://microservices.io/patterns/decomposition/service-per-team.html](https://microservices.io/i/ServicePerTeam.png)</a>
 
 
 ### 1) 🦠 Locality and Simplicity

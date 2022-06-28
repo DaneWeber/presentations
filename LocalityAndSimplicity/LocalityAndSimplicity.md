@@ -53,7 +53,7 @@ Can two engineers on different teams talk to each other?
 Or do they need to raise an issue several levels up the hierarchy?
 
 
-!(https://medium.com/@beaugordon/key-takeaways-from-team-of-teams-by-general-stanley-mcchrystal-eac0b37520b9)[https://miro.medium.com/max/2100/1*9GrFoVey2ay9xQrNJZmAQw.png]
+![https://medium.com/@beaugordon/key-takeaways-from-team-of-teams-by-general-stanley-mcchrystal-eac0b37520b9](https://miro.medium.com/max/2100/1*9GrFoVey2ay9xQrNJZmAQw.png)
 
 
 

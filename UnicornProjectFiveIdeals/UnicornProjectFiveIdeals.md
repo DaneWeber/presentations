@@ -188,6 +188,9 @@ Note:
 
 ## 🦠 Locality and Simplicity
 
+Note:
+- Scaling manifesto. First two principles: don't scale.
+- Conway's Law
 
 “Order can emerge from the bottom up, as opposed to being directed, with a plan, from the top down.”
 
@@ -196,6 +199,13 @@ Note:
 Note:
 - Great story about learning how to fight the war in Iraq.
 
+![Duplo structure with figure from https://www.core77.com/posts/108544/Why-Less-is-More-in-Industrial-Design-is-Hard-Were-Cognitively-Biased-to-Add-Not-Subtract](https://s3files.core77.com/blog/images/1181422_81_108544_rMbGOjRiE.jpg)
+
+Note:
+
+- When asked to make the roof plate stable, most people think to add more supports, and only choose to remove the lone support when reminded that subtraction is an option.
+- Human nature tends toward addition rather than subtraction, for many good reaons.
+- This generally leads to increasing complexity and bureaucracy over time and especially as an organization or codebase grows.
 
 ![Complex process diagram from https://www.process.st/business-process-modeling/](https://www.process.st/wp-content/uploads/2016/08/154146e.jpg)
 

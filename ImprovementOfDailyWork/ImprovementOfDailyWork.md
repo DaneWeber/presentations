@@ -86,7 +86,7 @@ _Technical debt_ is worse than _financial debt_.
 It is _compounding risk_.
 
 
-![https://deviq.com/technical-debt/](https://deviq.com/wp-content/uploads/TechnicalDebtQuadrantColors.png)
+![https://deviq.com/technical-debt/](cache/TechnicalDebtQuadrantColors.png)
 
 
 ![x](https://i.redd.it/0y77ubcpqft41.png)

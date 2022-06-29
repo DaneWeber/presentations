@@ -1,10 +1,117 @@
 # Five Ideals of DevOps
 
+
 From Gene Kim's _The Unicorn Project_
+
+![Unicorn Project book cover](https://m.media-amazon.com/images/I/51jkkeU8HvL.jpg)
+
+
+
+## DevOps
+
+Note:
+Before we start, what is DevOps?
+
+
+<div style="display: flex"><div style="flex: 1">
+
+![AWS DevOps Certified Engineer Professional](cache/AWS-Certified_Devops-Engineer_Professional_badge_512x512.png)
+
+</div><div style="flex: 1" class="fragment">
+
+[The ability to automate the testing and deployment of AWS infrastructure and applications.](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
+
+<span style="font-size: 400%" class="fragment">⁉️</span>
+</div></div>
+
+Note:
+To a lot of folks now, DevOps is just about cloud-hosting and deployment automation.
+
+
+<div style="display: flex"><div style="flex: 1">
+
+Original Dev & Ops anti&#8209;pattern:
+
+Anti-Type A
+
+</div><div style="flex: 1; background-color: white">
+
+![Anti-Type A DevOps topology](cache/anti-type-a.png)
+
+</div></div>
+
+Note:
+DevOps was a reaction to the Dev & Ops silos where developers focused on making changes that worked on their machines and Ops was focused on preventing changes from affecting the running system. Failures led to finger-pointing and blaming the others.
+
+
+<div style="display: flex"><div style="flex: 1">
+
+Main DevOps pattern:
+
+Type 1
+
+[DevOps Topologies](https://web.devopstopologies.com/)
+
+</div><div style="flex: 1; background-color: white">
+
+![Type 1 DevOps topology](cache/type-1.png)
+
+</div></div>
+
+Note:
+- The idea behind the name "DevOps" was to remove the boundary between the two disciplines and encourage the groups to collaborate toward a shared purpose.
+- This wasn't just about Dev & Ops, but naming is hard.
+- For example, security was part of the conversation from the beginning, but nowadays "DevSecOps" is trendy to indicate the importance of security.
+- There are many other variations on the name, but the idea was always to break down silos and the "DevOps" name is a little unfortunate.
+
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(2, 1fr); "><div style="grid-area: 1 / 1 / 2 / 2">
+
+![Keep CALMS](cache/keep_calms.png)
+
+</div><div style="grid-area: 1 / 2 / 2 / 3">
+
+![DevOps loop from https://www.dynatrace.com/news/blog/what-is-devops/](cache/DevOpsLoop.png)
+
+</div><div style="grid-area: 2 / 1 / 3 / 3">
+
+![Three Ways of DevOps from https://tisgoud.nl/2020/02/config-management-camp-2020-day-2/](cache/three-ways-of-devops.jpg)
+
+</div></div>
+
+Note:
+DevOps folks have been trying to distill down what is involved in successful organizations. Each of these graphics could have their own presentation.
+
+
+DevOps is
+> Better value.
+> Sooner, Safer, Happier.
+
+~ Jon Smart
+
+Note:
+I really like this distillation of what DevOps is about.
+
+
+### Five Ideals
+
+1. 🦠 Locality and Simplicity
+2. 🎯 Focus, Flow, and Joy
+3. 🔪 Improvement of Daily Work
+4. ⛑ Psychological Safety
+5. 🔮 Customer Focus
+
+Note:
+- This is Gene Kim's consolidation of the ideals that effective organizations strive for.
+- I really like these as lenses for focusing on different aspects of the work system.
+- 🔬 They apply to various levels: micro to macro. 🔭
+- **These are presented as a response to what has come before: the default American corporation.**
 
 
 
 ## Taylor's Scientific Management
+
+Note: Taylorism is often referenced as the evil we enlightened folks are trying to battle.
 
 
 ![Wikimedia Commons from https://philadelphiaencyclopedia.org/archive/scientific-management/](https://philadelphiaencyclopedia.org/wp-content/uploads/2014/12/Frederick-Winslow-Taylor.jpg)
@@ -17,8 +124,9 @@ Note:
 ![How Scientific Management is Applied, via Google Books from https://philadelphiaencyclopedia.org/archive/scientific-management/](https://philadelphiaencyclopedia.org/wp-content/uploads/2014/12/Time-manager-with-stopwatch-resize--575x567.png)
 
 Note:
-- Taylor started in a steel mill. He timed workers and instructed and paid workers to use the methods that were the most productive and efficient.
-- He introduced the idea that managers should do the thinking to find the best way to perform a job and the workers should focus solely laboring as instructed.
+- Taylor started in a steel mill.
+- He timed workers and instructed and paid workers to use the methods that were the most productive and efficient.
+- He introduced the idea that managers should do the thinking to find the best way to perform a job and the workers should focus solely on laboring as instructed.
 
 
 ✅ Positive legacy
@@ -52,7 +160,7 @@ The **Five Ideals of DevOps** are traits observed in high-performing software de
 ## 🔮 Customer Focus
 
 
-“There is nothing so useless as doing efficiently that which should not be done at all.”
+There is nothing so useless as doing efficiently that which should not be done at all.
 
 ~ Peter F. Drucker
 
@@ -65,10 +173,14 @@ The **Five Ideals of DevOps** are traits observed in high-performing software de
       - ↖By doing Z
         - ↖By writing this line of code
 
+Note:
+Ideally, we understand the connection between our work and how it makes someone's life better.
+
 
 <img src="https://www.thesun.co.uk/wp-content/uploads/2018/08/NINTCHDBPICT000429853769.jpg" alt="ramp and stairs" height="532" />
 
 Note:
+- This work might have been performed efficiently, but it was a waste.
 - Are we really solving our customers' problems?
 - Is this door now wheelchair-accessible? No.
 
@@ -100,6 +212,7 @@ So that [the purpose]<br />
 Note:
 - User stories are just a reminder to consider "who" is affected and "why" this thing is worthwhile.
 - The important thing is communicating why, not the format.
+- Ideally the builders understand the purpose so that they can better push back and propose alternatives.
 
 
 ### [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
@@ -107,6 +220,9 @@ Note:
 When a measure becomes a target, it ceases to be a good measure.
 
 ~ [Marilyn Strathern](https://archive.org/details/ImprovingRatingsAuditInTheBritishUniversitySystem)
+
+Note:
+- Related to this, metrics are often insufficient and can even be counter-productive.
 
 
 <a href="https://sketchplanations.com/goodharts-law"><img height="528" alt="[Sketchplanation of Goodhart's Law at https://sketchplanations.com/goodharts-law" src="https://images.prismic.io/sketchplanations/6336f4c3-4c89-41f6-998f-ac595fb33a66_167369765942.jpg?auto=format&ixlib=react-9.0.2&w=1246" /></a>
@@ -120,16 +236,16 @@ When a measure becomes a target, it ceases to be a good measure.
 - This isn’t just a specialist’s job: we each need to understand the _why_ of what we are doing so that we can make good trade-offs.
 
 Note:
-Everyone should learn what our customers really need.
+- Advice for achieving this ideal.
 
 
 
 ## ⛑ Psychological Safety
 
 
-> Of the five key dynamics of effective teams that the researchers identified, psychological safety was by far the most important.
+Of the five key dynamics of effective teams that the researchers identified, psychological safety was by far the most important.
 
-Google's [re:Work](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/)
+~ Google's [re:Work](https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/foster-psychological-safety/)
 
 Note:
 - This is the biggest predictor of an engineering team’s success at Google.
@@ -140,9 +256,10 @@ Note:
 ![Korean Air Flight 801 crash in Guam from https://en.wikipedia.org/wiki/Korean_Air_Flight_801](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Korean_Airlines_flight_801_crash_site.jpg/640px-Korean_Airlines_flight_801_crash_site.jpg)
 
 Note:
-- Tragedy caused by an error on the part of the captain. The black-box recording showed that the flight crew were aware of his mistake and could have saved everyone, but were too afraid or deferential to challenge him or take over control.
-
+- First, some history.
 - Tragedy; 6 August 1997; 229 deaths; As always, there are many factors, including fatigue, training, outdated maps, and more.
+- Caused by an error on the part of the captain.
+- The black-box recording showed that the flight crew were aware of his mistake and could have saved everyone, but were too afraid or deferential to challenge him or take over control.
 - The flight crew suggested to the captain that he was making a mistake with his approach. They did not directly warn him.
 - The first officer and flight engineer were required to challenge the captain if concerned, but did not, even though they were concerned.
 - The crew finally objected six seconds before the crash.
@@ -158,59 +275,63 @@ Don't be afraid to:
 - Challenge others, including managers, experts, and other senior personnel.
 
 Note:
-The term "safety culture" came from an analysis of the Chernobyl disaster.
+- The term "safety culture" came from an analysis of the Chernobyl disaster.
+- It's important in high-stakes industries like nuclear power, oil drilling, airlines, shipping, spaceflight, etc.
+- The motivation is to prevent disasters such as meltdowns, oil spills, crashes, etc.
+- Software development is generally not at the same stakes.
 
 
-### Fully Engaged Brains
+### Safe to Innovate 💡
 
-<ul>
-<li>⛏️ Digging a ditch with shovels: we need your muscles. 💪</li>
-<li class="fragment">⌨ Data entry: we need your eyes or ears and your fingers. 🖐</li>
-<li class="fragment">👩‍💻 Software development: we need your brains. 🧠</li>
-</ul>
-
-
-In software development, what if we have to do the same thing again?
-
-<p class="fragment">Copy Paste 📋</p>
-<p class="fragment">⚙ We automate routine work.</p>
-<p class="fragment">We are engaged in creative problem-solving.</p>
-
-
-You can still help ⛏ dig a ditch while you're zoned out and letting your mind wander. 🦄
-
-<p class="fragment">You might be able to continue ⌨ data entry while thinking about other things. 🚀</p>
-
-<p class="fragment">👩‍💻 Writing specs, coding a solution, reading error logs, and helping with nearly any system development activity requires engaging your brain. 🧐</p>
-
-
-Psychological safety is critical in order to contribute effectively to creative problem-solving.
+> [Psychological safety](https://en.wikipedia.org/wiki/Psychological_safety) is being able to show and employ one's self without fear of negative consequences of self-image, status, or career.
 
 Note:
-People must be
-- mentally engaged
-- motivated
-- safe to provide their insights, suggestions, and ideas
+Google studied their teams to find what ingredients led to effectiveness and high-performing teams. They found five main factors, one of which was psychological safety.
+
+
+> Taking a risk around your team members seems simple. But remember the last time you were working on a project. Did you feel like you could ask what the goal was without the risk of sounding like you’re the only one out of the loop? Or did you opt for continuing without clarifying anything, in order to avoid being perceived as someone who is unaware?
+
+
+>Turns out, we’re all reluctant to engage in behaviors that could negatively influence how others perceive our competence, awareness, and positivity.
+
+
+[Benefits of Psychological Safety:](https://en.wikipedia.org/wiki/Psychological_safety#Benefits)
+
+- Improves likelihood that an attempted process innovation will be successful.
+- Increases amount members learn from mistakes.
+- Boosts employee engagement.
+- Improves team innovation.
+
+
+Advice from Google for achieving psychological safety:
+
+- Frame the work as a learning problem, not an execution problem.
+- Acknowledge your own fallibility.
+- Model curiosity and ask lots of questions.
 
 
 ### 4) ⛑ Psychological Safety
 
+- Welcome new ideas.
 - Challenge authority.
+- Be vulnerable.
 - Take risks without feeling insecure or embarrassed.
 - Say, “I don’t know.” -- Continuously learning.
-- Welcome new ideas.
 - Failure is done in the open, examined blamelessly, and leads to growth.
+
+Note:
+What psychological safety looks like and ideally what our work environment is like.
 
 
 
 ## 🔪 Improvement of Daily Work
 
 
-<div style="font-size: 50%; padding: 0 15%">“There cannot be a more important thing for an engineer, for a product team, than to work on systems that drive our productivity.”</div>
+<div style="font-size: 50%; padding: 0 15%">There cannot be a more important thing for an engineer, for a product team, than to work on systems that drive our productivity.</div>
 
-“So I would, any day of the week, trade off features for our own productivity.”
+So I would, any day of the week, trade off features for our own productivity.
 
-<div style="font-size: 50%; padding: 0 15%">“I want our best engineers to work on our engineering systems, so that we can later on come back and build all of the new concepts we want.”</div>
+<div style="font-size: 50%; padding: 0 15%">I want our best engineers to work on our engineering systems, so that we can later on come back and build all of the new concepts we want.</div>
 
 ~ Satya Nadella, CEO, Microsoft
 
@@ -232,9 +353,11 @@ Note:
 
 Inspect and adapt _everything_.
 
+<span class="fragment">❤️</span>
+
 Note:
 - As a Scrum Master or Agile Coach, Retrospectives were the most important activity to me.
-- If you're unfamiliar, these meetings can take many different shapes. There are cool sites like Retromat and books devoted retrospectives. The essential idea is to examine how things have gone, learn from that, and come up with actions for improvement.
+- If you're unfamiliar, these meetings can take many different shapes. There are cool sites like Retromat and books devoted to retrospectives. The essential idea is to examine how things have gone, learn from that, and come up with actions for improvement.
 
 
 ### Experimentation
@@ -260,17 +383,17 @@ Note:
 - Improving how we work is more important than just doing the work.
 - Stop the production line and make things better.
 - Improve as individual people; improve relationships; improve processes; improve tools; improve technology.
-- Reduce technical impediments and risks by investing in technical excellence.
+- Reduce technical impediments and risks (tech debt) by investing in technical excellence.
 
 Note:
-Invest in improvements now, not later.
+Ideally we invest in improvements now so that they pay off not later.
 
 
 
 ## 🎯 Focus, Flow, and Joy
 
 
-“In product development, our greatest waste is not unproductive engineers, but work products sitting idle in process queues.”
+In product development, our greatest waste is not unproductive engineers, but work products sitting idle in process queues.
 
 ~ Donald G. Reinertsen,<br />_The Principles of Product Development Flow: Second Generation Lean Product Development_
 
@@ -294,10 +417,16 @@ Note:
 
 ### Lean + Agile + DevOps
 
+➡️ Flow ➡️
+
+- Frequent
+- Small batches
+- Quickly
+
 Note:
-- Value stream flow rather than individual productivity.
-- Small batches rapidly iterated upon.
 - Frequent integration, testing, and deployment.
+- Small batches rapidly iterated upon.
+- Value stream flow rather than resource utilization.
 
 
 ### Lead & Cycle Time
@@ -318,23 +447,29 @@ Normal lead time: the time between requesting a change and knowing that it is wo
 
 The lead time is composed of the cycle time for various steps in the flow.
 
-
+Note:
 There are many ways to reduce the cycle time for the various steps while maintaining or increasing quality and safety.
+
 
 <div style="display: flex; background-color: SteelBlue; width: 100%; font-size: 2vw">
 <div style="flex: 1 1 0px; border: solid DarkGray; background-color: MediumTurquoise; width 20%">Design & Definition</div>
-<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DarkTurquoise; width 20%">Development & Integration</div>
-<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DeepSkyBlue; width 20%">Build, Test, & Deploy</div>
-<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DodgerBlue; width 20%">Observed in Production</div></div>
-<div style="display: flex; background-color: SteelBlue; width: 100%; font-size: 1vw">
-<div style="flex: 1 1 0px; border: solid DarkGray; background-color: MediumTurquoise; width 20%">
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DarkTurquoise; width 20%"></div>
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DeepSkyBlue; width 20%"></div>
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DodgerBlue; width 20%"></div>
+</div>
 
 - Three Amigos definition
 - Business working with development
 - User Stories and Acceptance Criteria
 - Specification by Example
 
-</div><div style="flex: 1 1 0px; border: solid DarkGray; background-color: DarkTurquoise; width 20%">
+
+<div style="display: flex; background-color: SteelBlue; width: 100%; font-size: 2vw">
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: MediumTurquoise; width 20%"></div>
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DarkTurquoise; width 20%">Development & Integration</div>
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DeepSkyBlue; width 20%"></div>
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DodgerBlue; width 20%"></div>
+</div>
 
 - Pair-programming & Mob-programming
 - Clean code without repetition
@@ -344,7 +479,13 @@ There are many ways to reduce the cycle time for the various steps while maintai
 - Trunk-based development
 - Continuous integration
 
-</div><div style="flex: 1 1 0px; border: solid DarkGray; background-color: DeepSkyBlue; width 20%">
+
+<div style="display: flex; background-color: SteelBlue; width: 100%; font-size: 2vw">
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: MediumTurquoise; width 20%"></div>
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DarkTurquoise; width 20%"></div>
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DeepSkyBlue; width 20%">Build, Test, & Deploy</div>
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DodgerBlue; width 20%"></div>
+</div>
 
 - CI/CD pipeline
 - Automated build
@@ -354,7 +495,13 @@ There are many ways to reduce the cycle time for the various steps while maintai
 - Automated, containerized deployment
 - Blue/green deployments
 
-</div><div style="flex: 1 1 0px; border: solid DarkGray; background-color: DodgerBlue; width 20%">
+
+<div style="display: flex; background-color: SteelBlue; width: 100%; font-size: 2vw">
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: MediumTurquoise; width 20%"></div>
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DarkTurquoise; width 20%"></div>
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DeepSkyBlue; width 20%"></div>
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DodgerBlue; width 20%">Observed in Production</div>
+</div>
 
 - Smoke tests
 - Logging
@@ -362,8 +509,6 @@ There are many ways to reduce the cycle time for the various steps while maintai
 - Alerting
 - Reporting
 - A/B testing
-
-</div></div>
 
 
 ### Developer Experience
@@ -373,10 +518,7 @@ Optimize for the time from start to confidently making meaningful changes.
 Note:
 - This is a big contributor to my joy as a developer and helps me focus.
 - While much of this is most helpful to someone joining a project, it also helps those already familiar by reducing their mental load.
-- Hardware and tools
-- Local setup
-- Reading and understanding the code
-- Observing system behavior
+- The ideal is instantaneous.
 
 
 ### 2) 🎯 Focus, Flow, and Joy
@@ -391,12 +533,8 @@ Note:
 
 ## 🦠 Locality and Simplicity
 
-Note:
-- Scaling manifesto. First two principles: don't scale.
-- Conway's Law
 
-
-“Order can emerge from the bottom up, as opposed to being directed, with a plan, from the top down.”
+Order can emerge from the bottom up, as opposed to being directed, with a plan, from the top down.
 
 ~ General Stanley McChrystal, U.S. Army, Retired,<br />_Team of Teams_
 
@@ -406,24 +544,30 @@ Note:
 - If even the US military is learning to trust its people, we probably should too.
 
 
+### Locality
+
+(decoupled, disentangled, independent, etc.)
+
+In software engineering, two components are **connascent** if a change in one would require the other to be modified in order to maintain the overall correctness of the system.
+
+Note:
+> Locality relates to the degree of which a development team can make local code changes in a location as opposed to many places, without impacting various teams and other locations. If a team needs to schedule a deployment and it requires 40 to 50 other teams to work with them into the schedule, nothing will ever get done. And if a team delivering on a single feature has to coordinate with 2 or many other development teams, it only creates delays and challenges for all of these teams. That’s the notion of locality.
+
+
+### Simplicity
+
+the art of maximising the amount of work not done
+
+Note:
+From the Agile Manifesto
+
+
 ![Duplo structure with figure from https://www.core77.com/posts/108544/Why-Less-is-More-in-Industrial-Design-is-Hard-Were-Cognitively-Biased-to-Add-Not-Subtract](https://s3files.core77.com/blog/images/1181422_81_108544_rMbGOjRiE.jpg)
 
 Note:
 - When asked to make the roof plate stable, most people think to add more supports, and only choose to remove the lone support when reminded that subtraction is an option.
-- Human nature tends toward addition rather than subtraction, for many good reaons.
+- Human nature tends toward addition rather than subtraction, for many good reasons.
 - This generally leads to increasing complexity and bureaucracy over time and especially as an organization or codebase grows.
-
-
-### Conway's Law
-
-> Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.
-
-~Melvin E. Conway
-
-Ref: [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_law) & [Mel Conway's site](http://melconway.com/Home/Conways_Law.html)
-
-Note:
-Move toward an organizational shape and software architecture that best aligns with the mission and serves your customers and stakeholders.
 
 
 ### Hackman's Law
@@ -438,13 +582,45 @@ Move toward an organizational shape and software architecture that best aligns w
 ![Communication channels growth from https://resources.scrumalliance.org/Article/doubling-down-on-scrum-fundamentals-helps-remote-teams-thrive](cache/communication_channels.png)
 
 
-Avoid scaling if possible. See the first two principles of the [Manifesto for Scaling Agility](https://scalingmanifesto.org/):
+Avoid scaling.
+
+First two principles of the [Manifesto&nbsp;for&nbsp;Scaling&nbsp;Agility](https://scalingmanifesto.org/):
+
+<div style="font-size: 80%">
 
 1. If you can achieve your goals with a single team, <em style="color: yellow">do&nbsp;not&nbsp;scale</em>. Employ the minimum number of people required to meet your strategic outcomes.
 2. If you have a single team and it cannot deliver effectively using Agile principles and practices, <em style="color: yellow">do&nbsp;not&nbsp;scale</em>. Succeed with a single team first.
 
+</div>
 
-## Reduce complexity to reduce risk and waste
+
+complexity
+
+⬇️
+
+risk + waste
+
+Note:
+- Reduce complexity to reduce risk and waste.
+- The ideal is to be as simple and local as feasible.
+
+
+### Conway's Law
+
+> Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure.
+
+~Melvin E. Conway
+
+Ref: [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_law) & [Mel Conway's site](http://melconway.com/Home/Conways_Law.html)
+
+Note:
+Move toward an organizational shape and software architecture that best aligns with the mission and serves your customers and stakeholders.
+
+
+<a href="https://microservices.io/patterns/decomposition/service-per-team.html">![Service per team from https://microservices.io/patterns/decomposition/service-per-team.html](https://microservices.io/i/ServicePerTeam.png)</a>
+
+Note:
+As I understand the origin and value of microservices, it is as a way to structure teams and their code to accomplish their work simply and locally.
 
 
 ### Value Delivery
@@ -459,9 +635,6 @@ Avoid scaling if possible. See the first two principles of the [Manifesto for Sc
 2. Code—Ideally there is a single version of the code running everywhere, avoiding merge conflicts, incompatibilities, and environment-specific issues. <span style="color: grey">(continuous integration, trunk-based development, continuous delivery/deployment, etc.)</span>
 
 
-<a href="https://microservices.io/patterns/decomposition/service-per-team.html">![Service per team from https://microservices.io/patterns/decomposition/service-per-team.html](https://microservices.io/i/ServicePerTeam.png)</a>
-
-
 ### 1) 🦠 Locality and Simplicity
 
 - Minimize hand-offs, bottlenecks, and coordination with congruent architecture and organization.
@@ -474,18 +647,6 @@ Avoid scaling if possible. See the first two principles of the [Manifesto for Sc
 ## Five Ideals of DevOps
 
 
-Gene Kim's _Unicorn Project_
-
-![Unicorn Project book cover](https://m.media-amazon.com/images/I/51jkkeU8HvL.jpg)
-
-Note:
-DevOps is
-> Better value.
-> Sooner, Safer, Happier.
-
-~ Jon Smart
-
-
 ### Five Ideals
 
 1. 🦠 [Locality and Simplicity](../LocalityAndSimplicity/LocalityAndSimplicity.html#/2)
@@ -495,6 +656,16 @@ DevOps is
 5. 🔮 [Customer Focus](../CustomerFocus/CustomerFocus.html#/2)
 
 Note:
-🔬 Lenses for focusing on different aspects of the work system.
+- While there are plenty of other things I care about in organizations, these five ideals strike me as a great set.
+- Could these inform "the Substantial way"?
 
-They apply to various levels: micro to macro. 🔭
+
+Gene Kim's _Unicorn Project_
+
+![Unicorn Project book cover](https://m.media-amazon.com/images/I/51jkkeU8HvL.jpg)
+
+Note:
+DevOps is
+> Better value.
+> Sooner, Safer, Happier.
+~ Jon Smart

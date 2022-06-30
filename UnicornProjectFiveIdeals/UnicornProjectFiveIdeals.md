@@ -96,7 +96,7 @@ I really like this distillation of what DevOps is about.
 ### Five Ideals
 
 1. 🦠 Locality and Simplicity
-2. 🎯 Focus, Flow, and Joy
+2. 💧 Focus, Flow, and Joy
 3. 🔪 Improvement of Daily Work
 4. ⛑ Psychological Safety
 5. 🔮 Customer Focus
@@ -107,6 +107,32 @@ Note:
 - 🔬 They apply to various levels: micro to macro. 🔭
 - **These are presented as a response to what has come before: the default American corporation.**
 
+
+
+## Not Ideal
+
+
+Big financial institution
+
+<div style="display: flex"><div style="flex: 1; font-size: 80%">
+
+1. <span class="fragment strike" data-fragment-index="1">🦠 Locality and Simplicity</span>
+2. <span class="fragment strike" data-fragment-index="3">💧 Focus, Flow, and Joy</span>
+3. <span class="fragment strike" data-fragment-index="5">🔪 Improvement of Daily Work</span>
+4. <span class="fragment strike" data-fragment-index="7">⛑ Psychological Safety</span>
+5. <span class="fragment strike" data-fragment-index="9">🔮 Customer Focus</span>
+
+</div><div style="flex: 1; font-size: 50%">
+
+<ol>
+<li class="fragment" data-fragment-index="2">🧶 Many teams; many systems; 30+ had to be coordinated to implement a change to the duration of a loan-type.</li>
+<li class="fragment" data-fragment-index="4">🐘 Every release was big and resulted in fire-fighting, urgent bugs, and emergency deployments.</li>
+<li class="fragment" data-fragment-index="6">🔥 There was explicitly no time to address tech debt because there were too many fires.</li>
+<li class="fragment" data-fragment-index="8">🤫 Decisions were often made based on what would get the least attention from superiors.</li>
+<li class="fragment" data-fragment-index="10">🙈 Dev teams were implementing farmed-out requirements with nearly no context.</li>
+</ol>
+
+</div></div>
 
 
 ## Taylor's Scientific Management
@@ -153,7 +179,7 @@ Many modern management practices unwittingly trace their origins to Taylor's Sci
 
 The **Five Ideals of DevOps** are traits observed in high-performing software development organizations.
 
-🔮⛑🔪🎯🦠
+🔮⛑🔪💧🦠
 
 
 
@@ -410,7 +436,7 @@ Ideally we invest in improvements now so that they pay off not later.
 
 
 
-## 🎯 Focus, Flow, and Joy
+## 💧 Focus, Flow, and Joy
 
 
 In product development, our greatest waste is not unproductive engineers, but work products sitting idle in process queues.
@@ -547,7 +573,7 @@ Note:
 - The ideal is instantaneous.
 
 
-### 2) 🎯 Focus, Flow, and Joy
+### 2) 💧 Focus, Flow, and Joy
 
 - Work within the problem-space, rather than with tangential matters that get in the way.
 - Rapidly go from idea to a change in production.
@@ -682,7 +708,7 @@ As I understand the origin and value of microservices, it is as a way to structu
 ### Five Ideals
 
 1. 🦠 [Locality and Simplicity](../LocalityAndSimplicity/LocalityAndSimplicity.html#/2)
-2. 🎯 [Focus, Flow, and Joy](../FocusFlowAndJoy/FocusFlowAndJoy.html#/2)
+2. 💧 [Focus, Flow, and Joy](../FocusFlowAndJoy/FocusFlowAndJoy.html#/2)
 3. 🔪 [Improvement of Daily Work](../ImprovementOfDailyWork/ImprovementOfDailyWork.html#/2)
 4. ⛑ [Psychological Safety](../PsychologicalSafety/PsychologicalSafety.html#/2)
 5. 🔮 [Customer Focus](../CustomerFocus/CustomerFocus.html#/2)

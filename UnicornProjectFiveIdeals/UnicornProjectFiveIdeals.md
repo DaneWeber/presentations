@@ -165,6 +165,12 @@ There is nothing so useless as doing efficiently that which should not be done a
 ~ Peter F. Drucker
 
 
+Dev 🟡⇒ ⇐🔵 Ops
+
+Note:
+Stereotypically, Developers want to introduce new features and Operators want to keep the system stable. Customers want both of these things (and more), so focusing on the customers helps unite the efforts.
+
+
 ### Alignment of Work with Purpose
 
 - Accomplish the mission
@@ -249,6 +255,12 @@ Of the five key dynamics of effective teams that the researchers identified, psy
 
 Note:
 - This is the biggest predictor of an engineering team’s success at Google.
+
+
+Dev 🟡⇒ ⇐🔵 Ops
+
+Note:
+Being on a team naturally tends toward loyalty to the team and hostility to those outside of the team. Stereotypically, Dev and Ops blame each other for failed deployments and refuse to admit fault. Psychological safety is important for their effective collaboration, but also for trying new ways of working.
 
 
 ### Korean Air Flight 801<br />(Airplane Crash)
@@ -336,6 +348,14 @@ So I would, any day of the week, trade off features for our own productivity.
 ~ Satya Nadella, CEO, Microsoft
 
 
+Dev 🟡⇒ ⇐🔵 Ops
+
+Note:
+- The goal of DevOps is better "Better value. Sooner, Safer, Happier."
+- There isn't "one true way" of developing, deploying, and operating, so you have to try things out and experiment with better solutions.
+- DevOps is specifically challenging "the way it's always been done," and this ideal speaks directly to that.
+
+
 ### Andon Cord
 
 ![https://www.shmula.com/about-peter-abilla/what-is-andon-in-the-toyota-production-system/](cache/andon-cord-example-in-manufacturing.jpg)
@@ -396,6 +416,12 @@ Ideally we invest in improvements now so that they pay off not later.
 In product development, our greatest waste is not unproductive engineers, but work products sitting idle in process queues.
 
 ~ Donald G. Reinertsen,<br />_The Principles of Product Development Flow: Second Generation Lean Product Development_
+
+
+Dev 🟡⇒ ⇐🔵 Ops
+
+Note:
+The 💧 flow of value is perhaps the most obvious ideal of DevOps with code changes rapidly passing through CI and CD to get out to production.
 
 
 ![Simple value stream map from https://www.ibm.com/garage/method/practices/discover/practice_value_stream_mapping](https://www.ibm.com/cloud/architecture/images/practices/simple-value-stream-map.png)
@@ -542,6 +568,12 @@ Note:
 - Great story about learning how to fight the war in Iraq.
 - While the US military had grown toward strict hierarchy and siloing of information, that was disastrous for the US response to Al Qaeda in Iraq.
 - If even the US military is learning to trust its people, we probably should too.
+
+
+Dev 🟡⇒ ⇐🔵 Ops
+
+Note:
+The bad old way of doing things was to minimize deployments, which led to huge changesets, which is very risky, which leads to complex and bureaucratic phase-gates, sign-offs, and go/no-go meetings. The DevOps thing is aimed as simplifying and letting a small set of people accomplish meaningful things.
 
 
 ### Locality

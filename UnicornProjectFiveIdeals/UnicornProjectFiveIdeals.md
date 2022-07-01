@@ -142,6 +142,7 @@ Note:
 <li class="fragment" data-fragment-index="10">🙈 Dev teams were implementing farmed-out requirements with nearly no context.
 
 
+
 ## Taylor's Scientific Management
 
 Note:
@@ -310,7 +311,7 @@ Note:
 - Caused by an error on the part of the captain.
 - The black-box recording showed that the flight crew were aware of his mistake and could have saved everyone, but were too afraid or deferential to challenge him or take over control.
 - The flight crew suggested to the captain that he was making a mistake with his approach. They did not directly warn him.
-- The first officer and flight engineer were required to challenge the captain if concerned, but did not, even though they were concerned.
+- The first officer and flight engineer were required by policy to challenge the captain if concerned, but did not, even though they were concerned.
 - The crew finally objected six seconds before the crash.
 - The first officer had the ability to take over the controls and abort the landing, but allowed the captain to continue flying, even during the final six seconds.
 
@@ -332,24 +333,22 @@ Note:
 
 ### Safe to Innovate 💡
 
+Note:
+If you can only speak up when you're 100% sure, we're going to miss out on a lot of great ideas.
+
+
 > [Psychological safety](https://en.wikipedia.org/wiki/Psychological_safety) is being able to show and employ one's self without fear of negative consequences of self-image, status, or career.
 
 Note:
 Google studied their teams to find what ingredients led to effectiveness and high-performing teams. They found five main factors, one of which was psychological safety.
 
 
-> Taking a risk around your team members seems simple. But remember the last time you were working on a project. Did you feel like you could ask what the goal was without the risk of sounding like you’re the only one out of the loop? Or did you opt for continuing without clarifying anything, in order to avoid being perceived as someone who is unaware?
+Google's [re:Work](https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/)
+
+> Taking a risk around your team members seems simple. But remember the last time you were working on a project. Did you feel like you could ask what the goal was without the risk of sounding like you’re the only one out of the loop?
 
 
->Turns out, we’re all reluctant to engage in behaviors that could negatively influence how others perceive our competence, awareness, and positivity.
-
-
-[Benefits of Psychological Safety:](https://en.wikipedia.org/wiki/Psychological_safety#Benefits)
-
-- Improves likelihood that an attempted process innovation will be successful.
-- Increases amount members learn from mistakes.
-- Boosts employee engagement.
-- Improves team innovation.
+> Or did you opt for continuing without clarifying anything, in order to avoid being perceived as someone who is unaware? Turns out, we’re all reluctant to engage in behaviors that could negatively influence how others perceive our competence, awareness, and positivity.
 
 
 Advice from Google for achieving psychological safety:
@@ -357,6 +356,11 @@ Advice from Google for achieving psychological safety:
 - Frame the work as a learning problem, not an execution problem.
 - Acknowledge your own fallibility.
 - Model curiosity and ask lots of questions.
+
+
+no disagreement ≠ safety
+
+<span class="fragment">safety ⇒ constructive disagreement</span>
 
 
 ### 4) ⛑ Psychological Safety

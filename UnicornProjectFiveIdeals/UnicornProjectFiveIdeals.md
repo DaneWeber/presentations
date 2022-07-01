@@ -134,10 +134,19 @@ Big financial institution
 
 </div></div>
 
+Note:
+<li class="fragment" data-fragment-index="2">🧶 Many teams; many systems; 30+ had to be coordinated to implement a change to the duration of a loan-type.
+<li class="fragment" data-fragment-index="4">🐘 Every release was big and resulted in fire-fighting, urgent bugs, and emergency deployments.
+<li class="fragment" data-fragment-index="6">🔥 There was explicitly no time to address tech debt because there were too many fires.
+<li class="fragment" data-fragment-index="8">🤫 Decisions were often made based on what would get the least attention from superiors.
+<li class="fragment" data-fragment-index="10">🙈 Dev teams were implementing farmed-out requirements with nearly no context.
+
 
 ## Taylor's Scientific Management
 
-Note: Taylorism is often referenced as the evil we enlightened folks are trying to battle.
+Note:
+- While the dysfunctions in organizations often have many contributing factors, Taylorism underlies many of the ideals that these organizations are striving toward.
+- Taylorism is often referenced as the evil we enlightened folks are trying to battle.
 
 
 ![Wikimedia Commons from https://philadelphiaencyclopedia.org/archive/scientific-management/](https://philadelphiaencyclopedia.org/wp-content/uploads/2014/12/Frederick-Winslow-Taylor.jpg)
@@ -151,7 +160,9 @@ Note:
 
 Note:
 - Taylor started in a steel mill.
-- He timed workers and instructed and paid workers to use the methods that were the most productive and efficient.
+- He timed workers in order to determine the quickest way to perform each task.
+- He then instructed workers on the quickest and most productive way.
+- He also paid workers extra to use the methods he prescribed.
 - He introduced the idea that managers should do the thinking to find the best way to perform a job and the workers should focus solely on laboring as instructed.
 
 

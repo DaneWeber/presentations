@@ -48,3 +48,6 @@
 
 [Engineering Team Vision](https://daneweber.github.io/presentations/EngineeringTeamVision/EngineeringTeamVision.html)
 
+
+[Small Batches](https://daneweber.github.io/presentations/SmallBatches/SmallBatches.html)
+

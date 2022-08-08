@@ -51,3 +51,6 @@
 
 [Small Batches](https://daneweber.github.io/presentations/SmallBatches/SmallBatches.html)
 
+
+[Ensemble Programming](https://daneweber.github.io/presentations/EnsembleProgramming/EnsembleProgramming.html)
+

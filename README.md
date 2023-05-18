@@ -51,3 +51,6 @@
 
 [Small Batches](https://daneweber.github.io/presentations/SmallBatches/SmallBatches.html)
 
+
+[The Undercover Scrum Master Returns](https://daneweber.github.io/presentations/TheUndercoverScrumMasterReturns/TheUndercoverScrumMasterReturns.html)
+

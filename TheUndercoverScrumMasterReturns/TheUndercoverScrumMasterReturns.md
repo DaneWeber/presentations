@@ -121,6 +121,8 @@ Note: 0:28 - 0:31
 
 ACTIVITY: riddle (8 letters; like chat, cat, at, a)
 
+Answer is starting, staring, string, sting, sing, sin, in, i
+
 TODO
 
 

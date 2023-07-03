@@ -9,24 +9,71 @@ Note: TODO
 Note: 0:00 Intro & Assumptions
 
 
-Dane's undercover mission
+### Dane's undercover mission
 
 Note: TODO
 
 
-Assuming: Agile manifesto
+#### Previous Experience
+
+- Philosophy & Clinical Psychology
+- Business Analysis, Support, Account Ownership
+- Product Owner & Scrum Master
+- Agile Coach
 
 Note: TODO
+The leadup to my undercover mission. Narrate.
+Psychology -> Custom Software world -> Discovered Scrum and Agile -> wanted to coach on development practices
 
 
-Humanity and being humane
+#### The Mission
+
+🟥E-Verify⬜
+
+🐳 Big Sillies
+🦊 Faux Pas
+👾 Bits, Please!
+
+Note:
+- Worked with a high-performing set of teams
+- where we were able to have fun, name our teams
+- We experimented and looked for ways to improve
+- The project was characterized by egalitarian, joyful, empowered, and helpful people
+- Was really surprised by what I learned from the experience
+
+
+#### The Return
+
+- Technical Agile Coach
+- Engineering Manager
+- Software Developer (again)
+
+Note:
+Since then I've sought out opportunities to participate in sofware development from micro to macro, writing code to organizational design.
+Unfortunately, most jobs and roles are designed to box you in, so I keep looking for roles that allow me to develop my technical skills while also having the opportunity to improve the work environment.
+
+
+### Baseline Assumptions
+
+
+#### Agile Manifesto
+
+Agility > ~Efficiency~
 
 Note: TODO
+While I'm more than happy to discuss the Agile Manfesto, I'm going to speak as though we're all already on-board with it.
 
 
-Sustainable pace
+#### Humanity and being humane
 
 Note: TODO
+I want the workplace to be humane. I'm not interested in helping anyone exploit workers.
+
+
+#### Sustainable pace
+
+Note: TODO
+Same deal, but here I'll speak to this later on. I'm personally biased in favor of a reasonable work-week approached thoughtfully. I believe that's also how to develop the best software, but I'm definitely biased in favor.
 
 
 
@@ -38,16 +85,23 @@ Note: 0:06 Crossing the Technical Divide
 You don't need to spend two years programming.
 
 Note: TODO
+If you don't consider yourself technical, I want to encourage you to bravely work with your colleagues regardless of expertise. I certainly gained valuable insight and a lot of confidence by engaging in software development myself, but in retrospect I don't believe it was necessary.
 
 
-Collegiality > Empathy > Curiosity > Advocacy > Challenge
+### Keys
+
+Collegiality -> Empathy -> Curiosity -> Advocacy -> Challenge
 
 Note: TODO
+Here's my bottom-line for this presention.
+When approaching your technical colleagues, I'm hoping you can develop these traits and skills.
+You could add "technical" to each of these terms if you like.
 
 
 ## Collegiality
 
 Note: 0:08 Collegiality
+By this I mean that you should treat software developers and other folks engaged in technical jobs as your peers.
 
 
 Programmers are architects, not crane operators
@@ -58,6 +112,7 @@ Note: TODO
 Muggles vs Wizards (Technical Mysticism)
 
 Note: TODO
+(Story of being treated like a "developer" in my first month.)
 
 
 Naming is hard, but words matter

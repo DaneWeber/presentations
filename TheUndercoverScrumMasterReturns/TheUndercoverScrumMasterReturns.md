@@ -200,14 +200,13 @@ ACTIVITY: riddle (8 letters; like chat, cat, at, a)
 
 Answer is starting, staring, string, sting, sing, sin, in, i
 
+Note:
 TODO
-
 
 
 Thinking vs. typing
 
 Note: 0:31 Thinking vs. typing
-
 TODO
 
 
@@ -283,6 +282,83 @@ Note:
 https://en.wiktionary.org/wiki/advocacy
 
 
+Do more, faster
+
+Note:
+- Story of not having time to "do it right" because the sprint was almost over.
+
+
+### Draw attention to quality, not just feature delivery
+
+
+More, faster metrics:
+
+- Velocity
+- Cycle Time
+- Deadlines
+
+Note:
+These certainly aren't perfect, but they definitely draw attention to getting things done.
+
+
+Morale metrics:
+
+- Niko niko
+- Employee Net Promoter Score (NPS)
+- Engagement and enablement surveys
+
+Note:
+Also far from perfect, and they can be meaningless or abused, but they draw attention to the work environment.
+
+
+Code quality metrics:
+
+- Count of TODO comments in the code
+- Code smells
+- Test coverage
+
+Note:
+- These are each terrible metrics that invite gaming the system to make the metrics look good.
+- Just like the other kinds of metrics, they're much better as a tool for the team to use rather than for management.
+- BUT, the presence of one of these metrics brings attention to investing in code quality.
+- It also gives the people working on the code an easy way to tie their code quality investments to a metric others ostensibly care about.
+
+
+Dane's advice:
+
+> Balance out metrics that focus on "more, faster!" with ones that focus on morale and on code quality.
+
+
+Software is weird.
+
+1. The code is great.
+2. Everything else changes.
+3. The code is unchanged.
+4. The code is now broken or useless.
+
+Code doesn't rot or wear out like physical objects. So how does this happen?
+
+Note:
+- Story about (USCSF) great, well-written code from three years ago.
+- Used the then-current versions of frameworks and libraries.
+- App available in the Play Store.
+- Unchanged, the app fell behind the requirements and was delisted.
+- Upgrading took many weeks of a team to fully upgrade and relist.
+- There wasn't anything wrong three years ago.
+- What went wrong was that the world changed and the app was left standing still.
+
+
+Red queen problem
+
+> Now, here, you see, it takes all the running you can do, to keep in the same place.
+
+-- Lewis Carroll, _Through the Looking-Glass_
+
+Note:
+en.wikipedia.org/wiki/Red_Queen_hypothesis
+
+
+
 The "home" metaphor for a codebase
 
 Note: TODO
@@ -292,11 +368,11 @@ Note: TODO
 Investment in maintenance, remodeling, and more
 
 Note: TODO
-
-
-Draw attention to quality, not just feature delivery
-
-Note: TODO
+* Red Queen -- at that moment in time, everything was in good shape.
+  * Sin
+* TCO (Total Cost of Ownership)
+* Slides with story of rebuild
+* Slides with proposed stable team maintaining and extending
 
 
 Testing (so many kinds!)
@@ -307,6 +383,9 @@ Note: TODO
 Automation for team happiness
 
 Note: TODO
+"Developer Experience"
+Simplicity, Flow
+
 
 
 ACTIVITY: brief discussions in groups of 3 or 4 about who currently advocates - for improving technical practices, quality, and automation on your team.

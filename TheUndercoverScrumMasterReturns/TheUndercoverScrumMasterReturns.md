@@ -101,18 +101,28 @@ You could add "technical" to each of these terms if you like.
 ## Collegiality
 
 Note: 0:08 Collegiality
+
+
+collegiality
+
+1. working with colleagues in an effective and cooperative manner
+2. power and authority that is shared among peers
+
+Note:
 By this I mean that you should treat software developers and other folks engaged in technical jobs as your peers.
-
-
-Programmers are architects, not crane operators
-
-Note: TODO
+https://en.wiktionary.org/wiki/collegiality
 
 
 Muggles vs Wizards (Technical Mysticism)
 
 Note: TODO
 (Story of being treated like a "developer" in my first month.)
+
+
+Programmers are architects, not crane operators
+
+Note: TODO
+Conversely, countless times I've been asked
 
 
 Naming is hard, but words matter
@@ -123,11 +133,14 @@ Note: TODO
 Equality & Mutual Respect
 
 Note: TODO
+Proposal: treat your technical colleagues as equals and with respect.
 
 
 Caring about the same thing: racing team
 
 Note: TODO
+* If you consider a professional racing team, you'll see that the driver and the pit crew are all working toward the same goal.
+* They're all professionals, and they all care about the same thing.
 
 
 ACTIVITY:
@@ -137,7 +150,6 @@ write out one thing you can change that you've done in the past to reinforce the
 Leave it for me at the end of the talk.
 
 Note: 0:18
-
 TODO
 
 
@@ -147,9 +159,19 @@ TODO
 Note: 0:20 Empathy
 
 
+empathy
+
+1. Identification with or understanding of the thoughts, feelings, or emotional state of another person.
+2. Capacity to understand another person's point of view or the result of such understanding.
+
+Note:
+https://en.wiktionary.org/wiki/empathy
+
+
 Understanding the programmers
 
 Note: TODO
+Story: as a scrum master I assumed the best of the members of my team, but I had a hard time understanding some of their preferences and behaviors. Why weren't they more excited about digging into our process and improving how we worked together? They seemed to want to just get on with the work.
 
 
 Cognitive load and all the tech required
@@ -200,9 +222,18 @@ Note: TODO
 Note: 0:34 Curiosity
 
 
+curiosity
+
+1. the tendency to ask and learn about things by asking questions, investigating, or exploring.
+
+Note:
+https://en.wiktionary.org/wiki/curiosity
+
+
 Don't be afraid
 
 Note: TODO
+If you're involved in running a restaurant, you don't have to be a chef to be curious about the food, the techniques, the equipment, etc.
 
 
 Look at the code and ask about it
@@ -243,9 +274,19 @@ Note: TODO
 Note: 0:46 Advocacy
 
 
+advocacy
+
+1. The act of arguing in favour of, or supporting someone or something.
+2. The practice of supporting someone to make their voice heard.
+
+Note:
+https://en.wiktionary.org/wiki/advocacy
+
+
 The "home" metaphor for a codebase
 
 Note: TODO
+"All models are wrong, but some are useful"
 
 
 Investment in maintenance, remodeling, and more
@@ -280,6 +321,15 @@ TODO
 ## Challenge
 
 Note: 1:00 Challenge
+
+
+challenge
+
+1. x
+2. x
+
+Note:
+https://en.wiktionary.org/wiki/challenge
 
 
 If it hurts, do it more frequently; move toward "continuous"

@@ -1,3 +1,6 @@
+[core]
+	autocrlf = false
+
 # Images
 *.gif             binary
 *.jpeg            binary

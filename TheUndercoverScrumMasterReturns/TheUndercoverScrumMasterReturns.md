@@ -436,6 +436,9 @@ Take your place in the mob
 Note: TODO
 
 
+<img src="assets/kids_ensemble_programming.jpg" alt="kids ensemble programming Super Mario Maker" width="70%" />
+
+
 Social skills are key: software projects are people projects.
 
 Note: TODO

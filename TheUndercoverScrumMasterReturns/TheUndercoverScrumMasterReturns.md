@@ -1,7 +1,14 @@
+<!-- .slide: data-background-image="cache/Agile2023-first-slide.jpg" data-background-size="contain" data-background-color="white" -->
+
+
+<!-- .slide: data-background-image="cache/Agile2023-talk-title-slide.jpg" data-background-size="contain" data-background-color="white" -->
+
+
+
 # The Undercover Scrum Master Returns
 
 Note: TODO
-
+To generate the PDF, open the presentation in Chrome, appending `?print-pdf` to the URL, and then print to PDF. Make sure to include background graphics.
 
 
 ## Intro & Assumptions
@@ -447,3 +454,7 @@ Note: TODO
 Social skills are key: software projects are people projects.
 
 Note: TODO
+
+
+
+<!-- .slide: data-background-image="cache/Agile2023-last-slide.jpg" data-background-size="contain" data-background-color="white" -->

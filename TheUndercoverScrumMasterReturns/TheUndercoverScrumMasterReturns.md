@@ -431,6 +431,11 @@ Pair program, regardless of the terms
 Note: TODO
 
 
+Buddy System
+
+![Caution, buddy system is required for entry (from https://www.accuform.com/safety-sign/MCSP612)](cache/buddy-system-required-entry-osha-caution-safety-sign-mcsp612.webp)
+
+
 Take your place in the mob
 
 Note: TODO

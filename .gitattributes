@@ -1,10 +1,7 @@
-[core]
-	autocrlf = false
-
 # Images
-*.gif             binary
-*.jpeg            binary
-*.jpg             binary
-*.png             binary
-*.svg             binary
-*.webp            binary
+*.gif binary
+*.jpeg binary
+*.jpg binary
+*.png binary
+*.svg binary
+*.webp binary

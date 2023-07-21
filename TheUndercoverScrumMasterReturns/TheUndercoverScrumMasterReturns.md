@@ -186,65 +186,64 @@ Cognitive load and all the tech required
 Note: TODO
 
 
-<!-- .slide: data-background-image="assets/cg-f-18.jpg" data-background-size="contain" data-background-color="white" -->
+<!-- .slide: data-background-image="assets/cg-f-18.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-17.jpg" data-background-size="contain" data-background-color="white" -->
+<!-- .slide: data-background-image="assets/cg-f-17.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-16.jpg" data-background-size="contain" data-background-color="white" -->
+<!-- .slide: data-background-image="assets/cg-f-16.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-15.jpg" data-background-size="contain" data-background-color="white" -->
+<!-- .slide: data-background-image="assets/cg-f-15.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-14.jpg" data-background-size="contain" data-background-color="white" -->
+<!-- .slide: data-background-image="assets/cg-f-14.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-13.jpg" data-background-size="contain" data-background-color="white" -->
+<!-- .slide: data-background-image="assets/cg-f-13.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-12.jpg" data-background-size="contain" data-background-color="white" -->
+<!-- .slide: data-background-image="assets/cg-f-12.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-11.jpg" data-background-size="contain" data-background-color="white" -->
+<!-- .slide: data-background-image="assets/cg-f-11.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-10.jpg" data-background-size="contain" data-background-color="white" -->
+<!-- .slide: data-background-image="assets/cg-f-10.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-09.jpg" data-background-size="contain" data-background-color="white" -->
+<!-- .slide: data-background-image="assets/cg-f-09.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-08.jpg" data-background-size="contain" data-background-color="white" -->
+<!-- .slide: data-background-image="assets/cg-f-08.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-07.jpg" data-background-size="contain" data-background-color="white" -->
+<!-- .slide: data-background-image="assets/cg-f-07.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-06.jpg" data-background-size="contain" data-background-color="white" -->
+<!-- .slide: data-background-image="assets/cg-f-06.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-05.jpg" data-background-size="contain" data-background-color="white" -->
+<!-- .slide: data-background-image="assets/cg-f-05.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-04.jpg" data-background-size="contain" data-background-color="white" -->
+<!-- .slide: data-background-image="assets/cg-f-04.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-03.jpg" data-background-size="contain" data-background-color="white" -->
+<!-- .slide: data-background-image="assets/cg-f-03.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-02.jpg" data-background-size="contain" data-background-color="white" -->
+<!-- .slide: data-background-image="assets/cg-f-02.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-01.jpg" data-background-size="contain" data-background-color="white" -->
+<!-- .slide: data-background-image="assets/cg-f-01.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-00.jpg" data-background-size="contain" data-background-color="white" -->
+<!-- .slide: data-background-image="assets/cg-f-00.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-000-reverse.jpg" data-background-size="contain" data-background-color="white" -->
-
+<!-- .slide: data-background-image="assets/cg-f-000-reverse.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
 The joy of code

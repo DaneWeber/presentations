@@ -187,21 +187,27 @@ Note: TODO
 
 
 <!-- .slide: data-background-image="assets/cg-f-18.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+Note: In order just to get the code onto my machine, I had to learn to navigate...
 
 
 <!-- .slide: data-background-image="assets/cg-f-17.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+Note: Before trying to change the code I had to get it running on my laptop, but to do that I needed to set up and use...
 
 
 <!-- .slide: data-background-image="assets/cg-f-16.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+Note: I also have to run databases
 
 
 <!-- .slide: data-background-image="assets/cg-f-15.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+Note: That's all just to run the existing code. To actually do any work I need to understand the languages and frameworks used, including...
 
 
 <!-- .slide: data-background-image="assets/cg-f-14.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+Note: As a responsible developer, I also need to understand the tests and linters, which are written in...
 
 
 <!-- .slide: data-background-image="assets/cg-f-13.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+Note: The code doesn't just run on my laptop, though, so I need use tools to interact with the various systems that build and run the code, including...
 
 
 <!-- .slide: data-background-image="assets/cg-f-12.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->

@@ -186,70 +186,77 @@ Cognitive load and all the tech required
 Note: TODO
 
 
-<!-- .slide: data-background-image="assets/cg-f-18.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+<!-- .slide: data-background-image="assets/cog/cg-f-18.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 Note: In order just to get the code onto my machine, I had to learn to navigate...
 
 
-<!-- .slide: data-background-image="assets/cg-f-17.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+<!-- .slide: data-background-image="assets/cog/cg-f-17.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 Note: Before trying to change the code I had to get it running on my laptop, but to do that I needed to set up and use...
 
 
-<!-- .slide: data-background-image="assets/cg-f-16.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+<!-- .slide: data-background-image="assets/cog/cg-f-16.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 Note: I also have to run databases
 
 
-<!-- .slide: data-background-image="assets/cg-f-15.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+<!-- .slide: data-background-image="assets/cog/cg-f-15.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 Note: That's all just to run the existing code. To actually do any work I need to understand the languages and frameworks used, including...
 
 
-<!-- .slide: data-background-image="assets/cg-f-14.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+<!-- .slide: data-background-image="assets/cog/cg-f-14.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 Note: As a responsible developer, I also need to understand the tests and linters, which are written in...
 
 
-<!-- .slide: data-background-image="assets/cg-f-13.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+<!-- .slide: data-background-image="assets/cog/cg-f-13.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 Note: The code doesn't just run on my laptop, though, so I need use tools to interact with the various systems that build and run the code, including...
 
 
-<!-- .slide: data-background-image="assets/cg-f-12.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+<!-- .slide: data-background-image="assets/cog/cg-f-12b.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+Note: We've also got the
 
 
-<!-- .slide: data-background-image="assets/cg-f-11.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+<!-- .slide: data-background-image="assets/cog/cg-f-12a.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-10.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+<!-- .slide: data-background-image="assets/cog/cg-f-12.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-09.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+<!-- .slide: data-background-image="assets/cog/cg-f-11.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-08.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+<!-- .slide: data-background-image="assets/cog/cg-f-10.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-07.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+<!-- .slide: data-background-image="assets/cog/cg-f-09.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-06.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+<!-- .slide: data-background-image="assets/cog/cg-f-08.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-05.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+<!-- .slide: data-background-image="assets/cog/cg-f-07.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-04.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+<!-- .slide: data-background-image="assets/cog/cg-f-06.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-03.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+<!-- .slide: data-background-image="assets/cog/cg-f-05.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-02.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+<!-- .slide: data-background-image="assets/cog/cg-f-04.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-01.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+<!-- .slide: data-background-image="assets/cog/cg-f-03.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-00.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+<!-- .slide: data-background-image="assets/cog/cg-f-02.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
-<!-- .slide: data-background-image="assets/cg-f-000-reverse.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+<!-- .slide: data-background-image="assets/cog/cg-f-01.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+
+<!-- .slide: data-background-image="assets/cog/cg-f-00.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+
+<!-- .slide: data-background-image="assets/cog/cg-f-000-reverse.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
 The joy of code
@@ -268,13 +275,8 @@ For example:
 * a
 
 Note: 0:28 - 0:31
-
 ACTIVITY: riddle (8 letters; like chat, cat, at, a)
-
 Answer is starting, staring, string, sting, sing, sin, in, i
-
-Note:
-TODO
 
 
 Thinking vs. typing
@@ -397,6 +399,9 @@ Note:
 - It also gives the people working on the code an easy way to tie their code quality investments to a metric others ostensibly care about.
 
 
+<!-- .slide: data-background-image="assets/technical-metrics.png" data-background-size="contain" data-background-color="white" -->
+
+
 Dane's advice:
 
 > Balance out metrics that focus on "more, faster!" with ones that focus on morale and on code quality.
@@ -421,15 +426,19 @@ Note:
 - What went wrong was that the world changed and the app was left standing still.
 
 
-Red queen problem
+<!-- .slide: data-background-image="cache/Alice_queen2.jpg" data-background-size="contain" data-background-color="white" data-background-opacity="1" -->
+
+
+<!-- .slide: data-background-image="cache/Alice_queen2.jpg" data-background-size="contain" data-background-color="white" data-background-opacity="0.2" -->
+
+## Red queen problem
 
 > Now, here, you see, it takes all the running you can do, to keep in the same place.
 
--- Lewis Carroll, _Through the Looking-Glass_
+—Lewis Carroll, _Through the Looking-Glass_
 
 Note:
 en.wikipedia.org/wiki/Red_Queen_hypothesis
-
 
 
 The "home" metaphor for a codebase

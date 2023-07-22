@@ -357,10 +357,75 @@ Note:
 https://en.wiktionary.org/wiki/advocacy
 
 
-Do more, faster
+### Do more, faster
 
 Note:
 - Story of not having time to "do it right" because the sprint was almost over.
+
+
+### The Modernization Story
+
+<!-- .slide: data-background-image="assets/agile/agile-04.png" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+
+<!-- .slide: data-background-image="assets/agile/agile-04.png" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+
+<!-- .slide: data-background-image="assets/agile/agile-03.png" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+
+<!-- .slide: data-background-image="assets/agile/agile-02.png" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+
+<!-- .slide: data-background-image="assets/agile/agile-01.png" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+
+<!-- .slide: data-background-image="assets/agile/agile-00.png" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+
+<!-- .slide: data-background-image="assets/mod/mod-14.png" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+
+<!-- .slide: data-background-image="assets/mod/mod-13.png" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+
+<!-- .slide: data-background-image="assets/mod/mod-12.png" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+
+<!-- .slide: data-background-image="assets/mod/mod-11.png" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+
+<!-- .slide: data-background-image="assets/mod/mod-10.png" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+
+<!-- .slide: data-background-image="assets/mod/mod-09.png" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+
+<!-- .slide: data-background-image="assets/mod/mod-08.png" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+
+<!-- .slide: data-background-image="assets/mod/mod-07.png" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+
+<!-- .slide: data-background-image="assets/mod/mod-06.png" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+
+<!-- .slide: data-background-image="assets/mod/mod-05.png" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+
+<!-- .slide: data-background-image="assets/mod/mod-04.png" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+
+<!-- .slide: data-background-image="assets/mod/mod-03.png" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+
+<!-- .slide: data-background-image="assets/mod/mod-02.png" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+
+<!-- .slide: data-background-image="assets/mod/mod-01.png" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+
+<!-- .slide: data-background-image="assets/mod/mod-00.png" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
 ### Draw attention to quality, not just feature delivery

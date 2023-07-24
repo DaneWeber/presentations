@@ -342,6 +342,95 @@ Learn to draw the architecture
 Note: TODO
 
 
+<!-- .slide: data-background-image="assets/chart/sys-14.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+Note:
+- x
+
+
+<!-- .slide: data-background-image="assets/chart/sys-13.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+Note:
+- x
+
+
+<!-- .slide: data-background-image="assets/chart/sys-12.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+Note:
+- x
+
+
+<!-- .slide: data-background-image="assets/chart/sys-11.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+Note:
+- x
+
+
+<!-- .slide: data-background-image="assets/chart/sys-010.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+Note:
+- x
+
+
+<!-- .slide: data-background-image="assets/chart/sys-09.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+Note:
+- x
+
+
+<!-- .slide: data-background-image="assets/chart/sys-08.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+Note:
+- x
+
+
+<!-- .slide: data-background-image="assets/chart/sys-07.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+Note:
+- x
+
+
+<!-- .slide: data-background-image="assets/chart/sys-06.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+Note:
+- x
+
+
+<!-- .slide: data-background-image="assets/chart/sys-05.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+Note:
+- x
+
+
+<!-- .slide: data-background-image="assets/chart/sys-04.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+Note:
+- x
+
+
+<!-- .slide: data-background-image="assets/chart/sys-03.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+Note:
+- x
+
+
+<!-- .slide: data-background-image="assets/chart/sys-02.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+Note:
+- x
+
+
+<!-- .slide: data-background-image="assets/chart/sys-01.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+Note:
+- x
+
+
+<!-- .slide: data-background-image="assets/chart/sys-00.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+Note:
+- x
+
 
 ## Advocacy
 

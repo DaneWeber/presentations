@@ -287,6 +287,18 @@ Note: 0:31 Thinking vs. typing
 TODO
 
 
+<!-- .slide: data-background-image="assets/patience-puzzle-together.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+Note:
+- x
+
+
+<!-- .slide: data-background-image="assets/patience-puzzle-apart.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+Note:
+- x
+
+
 Feedback loops
 
 Note: TODO

@@ -143,6 +143,8 @@ Note: TODO
 Proposal: treat your technical colleagues as equals and with respect.
 
 
+<!-- .slide: data-background-image="assets/f1-painting.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
 Caring about the same thing: racing team
 
 Note: TODO

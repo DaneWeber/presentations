@@ -287,13 +287,13 @@ Note: 0:31 Thinking vs. typing
 TODO
 
 
-<!-- .slide: data-background-image="assets/patience-puzzle-together.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+<!-- .slide: data-background-image="assets/patience-puzzle-together_s.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 Note:
 - x
 
 
-<!-- .slide: data-background-image="assets/patience-puzzle-apart.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+<!-- .slide: data-background-image="assets/patience-puzzle-apart_s.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 Note:
 - x
@@ -647,7 +647,7 @@ Note:
 * We need ethernet in the walls
 
 Note:
-
+Maintenance isn't about replacing broken parts, but bringing the house "up to date."
 
 
 Investment in maintenance, remodeling, and more
@@ -672,13 +672,10 @@ Note: TODO
 Simplicity, Flow
 
 
-
 ACTIVITY: brief discussions in groups of 3 or 4 about who currently advocates - for improving technical practices, quality, and automation on your team.
 
 Note: 0:56 - 1:00
 ACTIVITY: brief discussions in groups of 3 or 4 about who currently advocates - for improving technical practices, quality, and automation on your team.
-
-TODO
 
 
 

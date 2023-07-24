@@ -504,12 +504,47 @@ Note:
 
 Note:
 en.wikipedia.org/wiki/Red_Queen_hypothesis
+- There's a hypothesis in biology that species must continue to adapt, along the lines of the running Red Queen, in order to maintain their place.
+- An herbivore species eating a given plant will be displaced when that plant species develops a toxin unless it develops a tolerance or the ability to eat another kind of plant.
+- It isn't that the herbivores wore out or went backwards, it's that their environment changed.
 
 
-The "home" metaphor for a codebase
+<!-- .slide: data-background-image="cache/Alice_queen2.jpg" data-background-size="contain" data-background-color="white" data-background-opacity="0.2" -->
 
-Note: TODO
-"All models are wrong, but some are useful"
+* Build on the shoulders of giants
+* They move and change
+* Your system needs to keep up too
+
+Note:
+- Software developers can create amazing, highly capable systems in record time by building on the shoulders of giants (languages, frameworks, libraries, etc.)
+- A lot of the software that I've worked on is valuable precisely because it communicates with networked systems and runs on multiple platforms.
+- The other systems are changing, the network is changing, and the libraries and languages are changing.
+
+
+> All models are wrong, but some are useful
+
+
+<span style="font-size: 500%">🏡</span>
+
+* Repair
+* Maintain
+* Remodel
+
+Note:
+- The "home" metaphor for a codebase.
+- Take care of it.
+- You might have to demolish and rebuild, but generally only if you've seriously neglected it.
+- Software development is NOT like carpentry, plumbing, etc., though. Those have relatively predictable costs
+
+
+<span style="font-size: 500%">🏡 + 👑</span>
+
+* The power company is changing voltage
+* Septic has a new hookup system
+* We need ethernet in the walls
+
+Note:
+
 
 
 Investment in maintenance, remodeling, and more

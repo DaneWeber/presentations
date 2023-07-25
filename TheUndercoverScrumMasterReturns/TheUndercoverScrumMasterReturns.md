@@ -7,57 +7,67 @@
 
 # The Undercover Scrum Master Returns
 
-Note: TODO
+Note:
 To generate the PDF, open the presentation in Chrome, appending `?print-pdf` to the URL, and then print to PDF. Make sure to include background graphics.
 
 
-## Intro & Assumptions
+## Dane's undercover mission
 
-Note: 0:00 Intro & Assumptions
-
-
-### Dane's undercover mission
-
-Note: TODO
+Note:
+My path has been a bit unusual, which is why I'm up here to share my story with you.
 
 
-#### Previous Experience
+### Prior Operations
 
-- Philosophy & Clinical Psychology
-- Business Analysis, Support, Account Ownership
-- Product Owner & Scrum Master
-- Agile Coach
+<ul>
+<li class="fragment">Philosophy & Clinical Psychology</li>
+<li class="fragment">Business Analysis, Support, Account Ownership</li>
+<li class="fragment">Product Owner & Scrum Master</li>
+<li class="fragment">Agile Coach</li>
+</ul>
 
-Note: TODO
+<p class="fragment">Also self-taught coding for fun</p>
+
+Note:
 The leadup to my undercover mission. Narrate.
+Sunk cost fallacy.
 Psychology -> Custom Software world -> Discovered Scrum and Agile -> wanted to coach on development practices
 
 
-#### The Mission
+### The Mission
 
-🟥E-Verify⬜
+<p class="fragment">🇺🇸 <strong>E-Verify</strong></p>
 
-🐳 Big Sillies
-🦊 Faux Pas
-👾 Bits, Please!
+<p class="fragment">✨ LeSS</p>
+
+<p class="fragment">
+🐳 Big Sillies 🦊 Faux Pas 👾 Bits, Please!
+</p>
+
+<p class="fragment">👨‍💻 Full-Time Developer on Scrum Team</p>
 
 Note:
 - Worked with a high-performing set of teams
+- in a culture bubble
 - where we were able to have fun, name our teams
 - We experimented and looked for ways to improve
 - The project was characterized by egalitarian, joyful, empowered, and helpful people
 - Was really surprised by what I learned from the experience
 
 
-#### The Return
+### The Return
 
-- Technical Agile Coach
-- Engineering Manager
-- Software Developer (again)
+<ul>
+<li class="fragment">Technical Agile Coach</li>
+<li class="fragment">Engineering Manager</li>
+<li class="fragment">Software Developer <span class="fragment">(again)</span></li>
+<li class="fragment">Director of Development<span class="fragment">?</span></li>
+</ul>
 
 Note:
 Since then I've sought out opportunities to participate in sofware development from micro to macro, writing code to organizational design.
 Unfortunately, most jobs and roles are designed to box you in, so I keep looking for roles that allow me to develop my technical skills while also having the opportunity to improve the work environment.
+Curiously, every hybrid role I've had has this gravity toward the non-technical side of the role.
 
 
 ### Baseline Assumptions
@@ -65,44 +75,76 @@ Unfortunately, most jobs and roles are designed to box you in, so I keep looking
 
 #### Agile Manifesto
 
-Agility > ~Efficiency~
+<p class="fragment">Agility > Efficiency</p>
 
-Note: TODO
-While I'm more than happy to discuss the Agile Manfesto, I'm going to speak as though we're all already on-board with it.
+Note:
+- While I'm more than happy to discuss the Agile Manfesto, I'm going to speak as though we're all already on-board with it.
+- Agility is about being able to respond to change, which is more important than being efficient at doing the wrong thing.
 
 
 #### Humanity and being humane
 
-Note: TODO
+<p class="fragment">People First</p>
+
+Note:
 I want the workplace to be humane. I'm not interested in helping anyone exploit workers.
 
 
 #### Sustainable pace
 
-Note: TODO
+<p class="fragment">Long-term thinking</p>
+
+Note:
 Same deal, but here I'll speak to this later on. I'm personally biased in favor of a reasonable work-week approached thoughtfully. I believe that's also how to develop the best software, but I'm definitely biased in favor.
 
 
 
 ## Crossing the Technical Divide
 
-Note: 0:06 Crossing the Technical Divide
+Note:
+0:06
 
 
-You don't need to spend two years programming.
+Is development experience required to coach developers?
 
-Note: TODO
-If you don't consider yourself technical, I want to encourage you to bravely work with your colleagues regardless of expertise. I certainly gained valuable insight and a lot of confidence by engaging in software development myself, but in retrospect I don't believe it was necessary.
+<p class="fragment">No</p>
+
+Note:
+- After my undercover mission, when I shared my experience, I was asked if I thought it was necessary to have development experience in order to be an effective coach.
+- If you don't consider yourself technical, I want to encourage you to bravely work with your colleagues regardless of expertise.
+- I certainly gained valuable insight and a lot of confidence by engaging in software development myself, but in retrospect I don't believe it was necessary.
+
+
+Do you need to be a surgeon to work in a hospital?
+
+<p class="fragment">No</p>
+
+
+How about to coach surgeons?
+
+Note:
+- I certainly seems to me that there are people who could really help to improve surgeries without being surgeons themselves.
+- Creating checklists and ensuring they are followed has been a huge imporvement to surgery and surgical outcomes.
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3279961/
+- Now, if someone wants to impose checklists on surgeons without being willing to participate in a surgery, I'd raise my eyebrow.
+- And if they want to do so and refuse to even observe a surgery, I'd be even more skeptical.
 
 
 ### Keys
 
-Collegiality -> Empathy -> Curiosity -> Advocacy -> Challenge
+<ol>
+<li class="fragment">Collegiality</li>
+<li class="fragment">Empathy</li>
+<li class="fragment">Curiosity</li>
+<li class="fragment">Advocacy</li>
+<li class="fragment">Challenge</li>
+</ol>
 
 Note: TODO
 Here's my bottom-line for this presention.
 When approaching your technical colleagues, I'm hoping you can develop these traits and skills.
 You could add "technical" to each of these terms if you like.
+
 
 
 ## Collegiality
@@ -705,6 +747,10 @@ Note: TODO
 
 Code is for people; is it readable?
 
+> Programs must be written for people to read, and only incidentally for machines to execute.
+
+—Harold Abelson, Gerald Jay Sussman, and Julie Sussman, _Structure and Interpretation of Computer Programs_
+
 Note: TODO
 
 
@@ -727,6 +773,10 @@ Note: TODO
 
 
 Social skills are key: software projects are people projects.
+
+> No matter how it looks at first, it's always a people problem.
+
+—Gerald M. Weinberg, _Quality Software Management: Systems Thinking_
 
 Note: TODO
 

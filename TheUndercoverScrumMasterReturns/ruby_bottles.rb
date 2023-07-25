@@ -1,8 +1,7 @@
 class Bottles
   def verse(number)
     return zero_bottles_verse if number == 0
-    return one_bottle_verse if number == 1
-    return two_bottles_verse if number == 2
+    return one_bottles_verse if number == 1
 
     "#{number} bottles of beer on the wall, " +
     "#{number} bottles of beer.\n" +
@@ -20,16 +19,9 @@ class Bottles
 
   private
 
-  def two_bottles_verse
-    "2 bottles of beer on the wall, " +
-    "2 bottles of beer.\n" +
-    "Take one down and pass it around, " +
-    "1 bottle of beer on the wall.\n"
-  end
-
-  def one_bottle_verse
-    "1 bottle of beer on the wall, " +
-    "1 bottle of beer.\n" +
+  def one_bottles_verse
+    "1 bottles of beer on the wall, " +
+    "1 bottles of beer.\n" +
     "Take it down and pass it around, " +
     "no more bottles of beer on the wall.\n"
   end

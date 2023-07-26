@@ -36,7 +36,7 @@ Psychology -> Custom Software world -> Discovered Scrum and Agile -> wanted to c
 
 ### The Mission
 
-<p class="fragment">🇺🇸 <strong>E-Verify</strong></p>
+<p class="fragment">🏛️ <strong>E-Verify</strong></p>
 
 <p class="fragment">✨ LeSS</p>
 
@@ -174,34 +174,51 @@ Note: TODO
 Conversely, countless times I've been asked
 
 
-Naming is hard, but words matter
+> There are 2 hard problems in computer science: cache invalidation, naming things, and off-by-1 errors.
 
-Note: TODO
+—Leon Bambrick
+
+Note:
+- https://twitter.com/secretGeek/status/7269997868
+- https://martinfowler.com/bliki/TwoHardThings.html
+
+
+Naming is hard. Words matter
+
+Note:
+- Naming things in code is hard. We actually have discussions about this.
+- Presentation by Mike Judge.
+- Arlo Belshee's "Naming as a Process" https://www.digdeeproots.com/articles/naming-process/
+- The names used for our roles matter too.
+- Do we hold meetings for "developers-only"?
+- I give in to a lot of easy terms, but I try to be careful how I speak.
 
 
 Equality & Mutual Respect
 
-Note: TODO
+Note:
 Proposal: treat your technical colleagues as equals and with respect.
-
-
-<!-- .slide: data-background-image="assets/f1-painting.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-
-Caring about the same thing: racing team
-
-Note: TODO
-* If you consider a professional racing team, you'll see that the driver and the pit crew are all working toward the same goal.
-* They're all professionals, and they all care about the same thing.
+This is really what I'm getting after here.
 
 
 ACTIVITY:
 
-write out one thing you can change that you've done in the past to reinforce the technical divide.
+Write out one thing you can change that you've done in the past to reinforce the technical divide.
 
 Leave it for me at the end of the talk.
 
-Note: 0:18
-TODO
+Note:
+0:18
+
+
+Dig deeper:
+
+<ul>
+<li class="fragment">Diversity, Equity, and Inclusion</li>
+<li class="fragment">Psychological Safety <span class="fragment">(5 Ideals of DevOps)</span></li>
+<li class="fragment">Clean Language</li>
+<li class="fragment">Nonviolent Communication</li>
+</ul>
 
 
 
@@ -227,7 +244,8 @@ Story: as a scrum master I assumed the best of the members of my team, but I had
 
 Cognitive load and all the tech required
 
-Note: TODO
+Note:
+As soon as I showed up to code, I was hit with this tremendous cognitive load. I just wasn't expecting it.
 
 
 <!-- .slide: data-background-image="assets/cog/cg-f-18.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
@@ -255,22 +273,27 @@ Note: The code doesn't just run on my laptop, though, so I need use tools to int
 
 
 <!-- .slide: data-background-image="assets/cog/cg-f-12b.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-Note: We've also got the
+Note: We've also got the logging and monitoring systems...
 
 
 <!-- .slide: data-background-image="assets/cog/cg-f-12a.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+Note: There are other assorted technologies that come up on occasion, including...
 
 
 <!-- .slide: data-background-image="assets/cog/cg-f-12.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+Note: (breathe) and...
 
 
 <!-- .slide: data-background-image="assets/cog/cg-f-11.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+Note: Not to mention our communication tools.
 
 
 <!-- .slide: data-background-image="assets/cog/cg-f-10.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+Note: That's just the languages and tools.
 
 
 <!-- .slide: data-background-image="assets/cog/cg-f-09.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+Note: Even more important, I need to understand
 
 
 <!-- .slide: data-background-image="assets/cog/cg-f-08.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
@@ -289,6 +312,7 @@ Note: We've also got the
 
 
 <!-- .slide: data-background-image="assets/cog/cg-f-03.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+Note: And on top of all of that, I'm trying to pay attention to
 
 
 <!-- .slide: data-background-image="assets/cog/cg-f-02.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
@@ -298,52 +322,119 @@ Note: We've also got the
 
 
 <!-- .slide: data-background-image="assets/cog/cg-f-00.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+Note: I had a little bit of an idea that all of this was going on. But when I went to do it myself, my perspective switched.
 
 
 <!-- .slide: data-background-image="assets/cog/cg-f-000-reverse.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+Note: Navigating the code and tools were at the forefront of my mind, and the stuff I cared so much about as a Scrum Master faded into the background.
 
 
 The joy of code
 
-Note: TODO
+<div class="r-stack">
+<div class="fragment fade-in-then-out">❌⚪⚪⚪⚪</div>
+<div class="fragment fade-in-then-out">✅⚪⚪⚪⚪</div>
+<div class="fragment fade-in-then-out">✅❌⚪⚪⚪</div>
+<div class="fragment fade-in-then-out">✅✅⚪⚪⚪</div>
+<div class="fragment fade-in-then-out">✅✅❌⚪⚪</div>
+<div class="fragment fade-in-then-out">✅✅✅⚪⚪</div>
+<div class="fragment fade-in-then-out">✅✅✅❌⚪</div>
+<div class="fragment fade-in-then-out">✅✅✅✅⚪</div>
+<div class="fragment fade-in-then-out">✅✅✅✅❌</div>
+<div class="fragment fade-in-then-out">✅✅✅✅✅</div>
+</div>
+
+Note:
+- On the other hand, there's a lot of pleasure to be found in writing code for many, including myself.
+- If you enjoy solving puzzles you probably have a sense of the satisfaction that comes from getting code to work.
+
+
+Thinking vs. typing
+
+<div style="display: grid; grid-template-columns: 1fr 1fr">
+<div class="fragment" data-fragment-index="2"><img src="cache/diff-big.png" /></div>
+<div class="fragment" data-fragment-index="3">~3 minutes</div>
+<div class="fragment" data-fragment-index="0"><img src="cache/diff-some.png" /></div>
+<div class="fragment" data-fragment-index="1">~3 hours</div>
+<div class="fragment"><img src="cache/diff-one.png" /></div>
+<div class="fragment">~3 days</div>
+</div>
+
+Note:
+0:31 Thinking vs. typing
+- At a typing speed of 200 characters per minute, and a maximum line length of 80 characters, those 62 new lines should have taken me a maximum of 24 minutes, but definitely less since some of the lines are very short.
 
 
 ACTIVITY:
 
-Create the longest word you can, such that you can repeatedly remove a single letter and still have an English word.
+Find an 8-letter word, such that you can repeatedly remove a single letter and still have an English word.
 
-For example:
+4-letter word example:
 * chat
 * cat
 * at
 * a
 
-Note: 0:28 - 0:31
-ACTIVITY: riddle (8 letters; like chat, cat, at, a)
-Answer is starting, staring, string, sting, sing, sin, in, i
+Note:
+- HOW LONG WILL THIS TAKE?
+- Too bad, you've only got 2 minutes, which is plenty of time to write out 36 characters.
+- ACTIVITY: riddle (8 letters; like chat, cat, at, a)
+- Answer is starting, staring, string, sting, sing, sin, in, i
 
 
-Thinking vs. typing
-
-Note: 0:31 Thinking vs. typing
-TODO
+Estimates are horrific for puzzle-solving
 
 
 <!-- .slide: data-background-image="assets/patience-puzzle-together_s.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 Note:
-- x
+- This is the existing state of the puzzle.
 
 
 <!-- .slide: data-background-image="assets/patience-puzzle-apart_s.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 Note:
-- x
+- This is the state we'd like to achieve.
+- These are _incredibly_ clear requirements.
+- Please to not bend or damage the pieces at all.
+- Also, we need these exact pieces. Don't go buy new ones.
+- Please tell me how long it will take you to complete this task.
+- Silent writing: what's your estimate?
 
 
 Feedback loops
 
-Note: TODO
+<div class="r-stack">
+<div class="fragment fade-in-then-out">❌⚪⚪⚪⚪</div>
+<div class="fragment fade-in-then-out">⏳⚪⚪⚪⚪</div>
+<div class="fragment fade-in-then-out">❌⚪⚪⚪⚪</div>
+<div class="fragment fade-in-then-out">⏳⚪⚪⚪⚪</div>
+<div class="fragment fade-in-then-out">✅⚪⚪⚪⚪</div>
+<div class="fragment fade-in-then-out">✅❌⚪⚪⚪</div>
+<div class="fragment fade-in-then-out">✅⏳⚪⚪⚪</div>
+<div class="fragment fade-in-then-out">✅✅⚪⚪⚪</div>
+<div class="fragment fade-in-then-out">⚫⚫⚫⚫⚫</div>
+<div class="fragment fade-in-then-out">⏳⏳⏳⏳⏳</div>
+<div class="fragment fade-in-then-out">❌✅❌❌✅</div>
+<div class="fragment fade-in-then-out">⏳⏳⏳⏳⏳</div>
+<div class="fragment fade-in-then-out">✅❌✅✅✅</div>
+<div class="fragment fade-in-then-out">⏳⏳⏳⏳⏳</div>
+<div class="fragment fade-in-then-out">✅✅✅❌✅</div>
+</div>
+
+Note:
+Slow feedback loops let your mind wander and make focus difficult.
+
+
+Dig deeper:
+
+<ul>
+<li class="fragment">Simplicity & Locality (5 Ideals of DevOps)</li>
+<li class="fragment">Automate</li>
+<li class="fragment">Speed up feedback loops</li>
+<li class="fragment">Improve the relevance of feedback loops</li>
+<li class="fragment">Developer Experience (DX)</li>
+</ul>
 
 
 
@@ -362,25 +453,29 @@ https://en.wiktionary.org/wiki/curiosity
 
 Don't be afraid
 
-Note: TODO
+Note:
 If you're involved in running a restaurant, you don't have to be a chef to be curious about the food, the techniques, the equipment, etc.
 
 
 Look at the code and ask about it
 
-Note: TODO
+Note:
+If developers are hesitant to show you the code, that strikes me as something worth digging in to. Why?
 
 
 ACTIVITY:
 
 Read some code.
 
-Note: 0:36 - 0:44
-
-ACTIVITY: read tests and sample code that has well-named variables and methods. Discuss at tables to make sense of it. Objective: take a step toward
-overcoming fear.
-
-TODO
+Note:
+0:36 - 0:44
+- Read the first block of section of code.
+- Can you make sense of it? Discuss at your tables.
+- If you're curious about something, let me know and I'll come over.
+- Now, how about that second example?
+- Some code is easier to read, even doing the same thing.
+- On the back of the paper is the output to running some commands.
+- Is there a problem? One bottles? Which code example will be easier to fix?
 
 
 Growth mindset and the cross-bar of the T
@@ -395,7 +490,11 @@ Note: TODO
 
 Learn to draw the architecture
 
-Note: TODO
+Note:
+- Here's a first step I challenge you to do at your work.
+- Learn about your architecture.
+- Don't worry if somebody has a different idea about what "architecture" means.
+- This is about getting a shared understanding.
 
 
 <!-- .slide: data-background-image="assets/chart/sys-14.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
@@ -422,7 +521,7 @@ Note:
 - x
 
 
-<!-- .slide: data-background-image="assets/chart/sys-010.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
+<!-- .slide: data-background-image="assets/chart/sys-10.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 Note:
 - x
@@ -486,6 +585,17 @@ Note:
 
 Note:
 - x
+
+
+Dig deeper:
+
+<ul>
+<li class="fragment">Observe (Gemba Walks)</li>
+<li class="fragment">Figure out enough to write markdown on GitHub</li>
+<li class="fragment">Keep learning</li>
+<li class="fragment">Try to code a little?</li>
+</ul>
+
 
 
 ## Advocacy
@@ -573,6 +683,21 @@ Note:
 <!-- .slide: data-background-image="assets/mod/mod-00.png" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
+instead
+
+<!-- .slide: data-background-image="assets/f1-painting.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" data-background-opacity="1" -->
+
+
+<!-- .slide: data-background-image="assets/f1-painting.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" data-background-opacity="0.2" -->
+
+A racing team Caring about the same thing: racing team
+
+Note:
+* If you consider a professional racing team, you'll see that the driver and the pit crew are all working toward the same goal.
+* They're all professionals, and they all care about the same thing.
+* Not just this race, but all of the races in the season.
+
+
 ### Draw attention to quality, not just feature delivery
 
 
@@ -594,6 +719,9 @@ Morale metrics:
 
 Note:
 Also far from perfect, and they can be meaningless or abused, but they draw attention to the work environment.
+
+
+<!-- .slide: data-background-image="assets/Lego_Niko_Niko.jpg" data-background-size="contain" data-background-color="white" -->
 
 
 Code quality metrics:
@@ -769,7 +897,7 @@ Take your place in the mob
 Note: TODO
 
 
-<img src="assets/kids_ensemble_programming.jpg" alt="kids ensemble programming Super Mario Maker" width="70%" />
+<!-- .slide: data-background-image="assets/kids_ensemble_programming.jpg" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
 Social skills are key: software projects are people projects.
@@ -779,6 +907,28 @@ Social skills are key: software projects are people projects.
 —Gerald M. Weinberg, _Quality Software Management: Systems Thinking_
 
 Note: TODO
+
+
+
+
+<div style="display: grid">
+<div style="grid-column: span 2; padding: 2vh">
+<strong>The Undercover Scrum Master Returns</strong>
+<a style="font-size: 50%" href="https://daneweber.github.io/presentations/TheUndercoverScrumMasterReturns/">https://daneweber.github.io/presentations/TheUndercoverScrumMasterReturns/</a>
+</div>
+<div>
+<ul>
+<li>Collegiality</li>
+<li>Empathy</li>
+<li>Curiosity</li>
+<li>Advocacy</li>
+<li>Challenge</li>
+</ul></div>
+<div>
+Dane Weber
+<a href="http://daneweber.com/">daneweber.com</a>
+</div>
+</div>
 
 
 

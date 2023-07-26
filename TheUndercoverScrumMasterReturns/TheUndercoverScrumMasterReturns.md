@@ -197,7 +197,7 @@ Note:
 - https://martinfowler.com/bliki/TwoHardThings.html
 
 
-Naming is hard. Words matter
+Naming is hard. Words matter.
 
 Note:
 - Naming things in code is hard. We actually have discussions about this.
@@ -739,7 +739,9 @@ Note:
 ### Draw attention to quality, not just feature delivery
 
 
-More, faster metrics:
+<p class="fragment strike">Flow metrics:</p>
+
+<p class="fragment">More, faster metrics:</p>
 
 - Velocity
 - Cycle Time
@@ -747,6 +749,9 @@ More, faster metrics:
 
 Note:
 These certainly aren't perfect, but they definitely draw attention to getting things done.
+
+
+<!-- .slide: data-background-image="assets/metrics.jpg" data-background-color="white" -->
 
 
 Morale metrics:
@@ -759,7 +764,7 @@ Note:
 Also far from perfect, and they can be meaningless or abused, but they draw attention to the work environment.
 
 
-<!-- .slide: data-background-image="assets/Lego_Niko_Niko.jpg" data-background-size="contain" data-background-color="white" -->
+<!-- .slide: data-background-image="assets/Lego_Niko_Niko.jpg" data-background-color="white" -->
 
 
 Code quality metrics:

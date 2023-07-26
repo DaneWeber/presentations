@@ -483,9 +483,27 @@ Growth mindset and the cross-bar of the T
 Note: TODO
 
 
-Layers of an onion: you don't have to be an expert to appreciate and learn about - another layer
+Layers
 
-Note: TODO
+<div style="font-size: 80%">
+
+- . . .
+- Human-Machine Interaction
+- System Behavior
+- Application Code
+- Framework & Dependencies
+- Programming Language
+- Machine Language
+- Instruction Set Architecture
+- Microarchitecture
+- Logic Gates
+- Transistors
+- Physics
+
+</div>
+
+Note:
+Layers of an onion: you don't have to be an expert to appreciate and learn about - another layer
 
 
 Learn to draw the architecture

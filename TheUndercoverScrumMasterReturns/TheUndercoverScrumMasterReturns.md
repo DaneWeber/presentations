@@ -217,9 +217,10 @@ This is really what I'm getting after here.
 
 ACTIVITY:
 
-Write out one thing you can change that you've done in the past to reinforce the technical divide.
-
-Leave it for me at the end of the talk.
+- Two stickies.
+- Leave them on the easel pad on your way out.
+- One thing you've done in the past to reinforce the technical divide.
+- One thing you've done in the past to bridge the technical divide.
 
 Note:
 0:18
@@ -650,12 +651,6 @@ Note:
 https://en.wiktionary.org/wiki/advocacy
 
 
-### Do more, faster
-
-Note:
-- Story of not having time to "do it right" because the sprint was almost over.
-
-
 ### The Modernization Story
 
 <!-- .slide: data-background-image="assets/agile/agile-04.png" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
@@ -723,25 +718,47 @@ Note:
 
 instead
 
-<!-- .slide: data-background-image="assets/f1-painting.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" data-background-opacity="1" -->
+
+> All models are wrong,<br />but some are useful
+
+—George Box
 
 
-<!-- .slide: data-background-image="assets/f1-painting.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" data-background-opacity="0.2" -->
+<span class="fragment" style="font-size: 500%">🏡</span>
 
-A racing team Caring about the same thing: racing team
+<ul>
+<li class="fragment">Repair</li>
+<li class="fragment">Maintain</li>
+<li class="fragment">Remodel</li>
+</ul>
 
 Note:
-* If you consider a professional racing team, you'll see that the driver and the pit crew are all working toward the same goal.
-* They're all professionals, and they all care about the same thing.
-* Not just this race, but all of the races in the season.
+- The "home" metaphor for a codebase.
+- Take care of it.
+- You might have to demolish and rebuild, but generally only if you've seriously neglected it.
+- Software development is NOT like carpentry, plumbing, etc., though. Those have relatively predictable costs
 
 
-### Draw attention to quality, not just feature delivery
+Continuous Modernization<span class="fragment">™️</span>
+
+Note:
+"Continuous" things are still hot, right?
+
+
+Do more, faster
+
+Note:
+- Story of not having time to "do it right" because the sprint was almost over.
+- Product Owner: how soon can I get this?
+- Scrum Master: is there anything blocking you?
+
+
+### Metrics draw attention
 
 
 <p class="fragment strike">Flow metrics:</p>
 
-<p class="fragment">More, faster metrics:</p>
+<p class="fragment">"More, faster" metrics:</p>
 
 - Velocity
 - Cycle Time
@@ -783,19 +800,44 @@ Note:
 <!-- .slide: data-background-image="assets/technical-metrics.png" data-background-size="contain" data-background-color="white" -->
 
 
-Dane's advice:
-
 > Balance out metrics that focus on "more, faster!" with ones that focus on morale and on code quality.
 
+— Dane Weber, this presentation
+
+
+<!-- .slide: data-background-image="assets/f1-painting.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" data-background-opacity="1" -->
+
+Note:
+- Art by Jeanne Weber, 2023
+- A racing team Caring about the same thing: the whole season.
+- Destroying a car to win a single race isn't sustainable.
+- Keeping the car in a showroom in pristine condition doesn't win.
+
+
+<!-- .slide: data-background-image="assets/f1-painting.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" data-background-opacity="0.2" -->
+
+<ul>
+<li class="fragment">Driver</li>
+<li class="fragment">Trainer</li>
+<li class="fragment">Mechanic</li>
+<li class="fragment">Data Analysts</li>
+<li class="fragment">Strategists</li>
+<li class="fragment">Track Team</li>
+<li class="fragment">Designers</li>
+<li class="fragment">Simulation Team</li>
+<li class="fragment">Manufacturing Team</li>
+<li class="fragment"><em>more!</em></li>
+</ul>
+
+Note:
+* If you consider a professional racing team, you'll see that the driver and the pit crew are all working toward the same goal.
+* They're all professionals, and they all care about the same thing.
+* Not just this race, but all of the races in the season.
+
+
+<!-- .slide: data-auto-animate -->
 
 Software is weird.
-
-1. The code is great.
-2. Everything else changes.
-3. The code is unchanged.
-4. The code is now broken or useless.
-
-Code doesn't rot or wear out like physical objects. So how does this happen?
 
 Note:
 - Story about (USCSF) great, well-written code from three years ago.
@@ -805,6 +847,22 @@ Note:
 - Upgrading took many weeks of a team to fully upgrade and relist.
 - There wasn't anything wrong three years ago.
 - What went wrong was that the world changed and the app was left standing still.
+
+
+<!-- .slide: data-auto-animate -->
+
+Software is weird.
+
+<ol>
+<li class="fragment">The code is great.</li>
+<li class="fragment">Everything else changes.</li>
+<li class="fragment">The code is unchanged.</li>
+<li class="fragment">The code is now broken or useless.</li>
+</ol>
+
+Note:
+- Code doesn't rot or wear out like physical objects.
+- So how does this happen?
 
 
 <!-- .slide: data-background-image="cache/Alice_queen2.jpg" data-background-size="contain" data-background-color="white" data-background-opacity="1" -->
@@ -827,9 +885,11 @@ en.wikipedia.org/wiki/Red_Queen_hypothesis
 
 <!-- .slide: data-background-image="cache/Alice_queen2.jpg" data-background-size="contain" data-background-color="white" data-background-opacity="0.2" -->
 
-* Build on the shoulders of giants
-* They move and change
-* Your system needs to keep up too
+<ul>
+<li class="fragment">Build on the shoulders of giants</li>
+<li class="fragment">They move and change</li>
+<li class="fragment">Your system needs to keep up too</li>
+</ul>
 
 Note:
 - Software developers can create amazing, highly capable systems in record time by building on the shoulders of giants (languages, frameworks, libraries, etc.)
@@ -837,58 +897,37 @@ Note:
 - The other systems are changing, the network is changing, and the libraries and languages are changing.
 
 
-> All models are wrong, but some are useful
-
-
-<span style="font-size: 500%">🏡</span>
-
-* Repair
-* Maintain
-* Remodel
-
-Note:
-- The "home" metaphor for a codebase.
-- Take care of it.
-- You might have to demolish and rebuild, but generally only if you've seriously neglected it.
-- Software development is NOT like carpentry, plumbing, etc., though. Those have relatively predictable costs
-
-
 <span style="font-size: 500%">🏡 + 👑</span>
 
-* The power company is changing voltage
-* Septic has a new hookup system
-* We need ethernet in the walls
+<ul>
+<li class="fragment">Sewage has a new pipe size</li>
+<li class="fragment">We need ethernet in the walls</li>
+<li class="fragment">Mobility pods require a landing pad</li>
+</ul>
 
 Note:
-Maintenance isn't about replacing broken parts, but bringing the house "up to date."
+- Maintenance isn't about replacing broken parts, but bringing the house "up to date."
+- TCO (Total Cost of Ownership)
 
 
-Investment in maintenance, remodeling, and more
+ACTIVITY:
 
-Note: TODO
-* Red Queen -- at that moment in time, everything was in good shape.
-  * Sin
-* TCO (Total Cost of Ownership)
-* Slides with story of rebuild
-* Slides with proposed stable team maintaining and extending
+Discussions in groups of 3-4.
 
-
-Testing (so many kinds!)
-
-Note: TODO
-
-
-Automation for team happiness
-
-Note: TODO
-"Developer Experience"
-Simplicity, Flow
-
-
-ACTIVITY: brief discussions in groups of 3 or 4 about who currently advocates - for improving technical practices, quality, and automation on your team.
+Who currently advocates for improving technical practices, quality, and automation on your team?
 
 Note: 0:56 - 1:00
 ACTIVITY: brief discussions in groups of 3 or 4 about who currently advocates - for improving technical practices, quality, and automation on your team.
+
+
+Dig deeper:
+
+<ul>
+<li class="fragment">Testing (so many kinds!)</li>
+<li class="fragment">Automation for team happiness</li>
+<li class="fragment">Focus, Flow, and Joy (5 Ideals of DevOps)</li>
+<li class="fragment">Customer Focus (also 5 Ideals of DevOps)</li>
+</ul>
 
 
 
@@ -899,58 +938,123 @@ Note: 1:00 Challenge
 
 challenge
 
-1. x
-2. x
+1. a dare
+2. a difficult task
 
 Note:
 https://en.wiktionary.org/wiki/challenge
 
 
-If it hurts, do it more frequently; move toward "continuous"
+> No matter how it looks at first, it's always a people problem.
 
-Note: TODO
+—Gerald M. Weinberg, _Quality Software Management: Systems Thinking_
 
-
-TDD, even if you don't do TDD
-
-Note: TODO
+Note:
+I'm always learning and I just heard this quote from Anne-Marie in Monday's keynote.
 
 
-Code is for people; is it readable?
+> Software projects are people projects.
+
+— Dane Weber, this presentation
+
+
+Take your place in the mob (ensemble)
+
+Note:
+- https://events.agilealliance.org/Agile2023/speaker/731171/nazee-hajebi
+- Nazee Hajebi led a session on Tuesday titled "Facilitating Mob Programming as a Less Technical Coach"
+
+
+<!-- .slide: data-background-image="assets/kids_ensemble_programming.jpg" data-background-color="white" data-transition="none" data-background-transition="none" -->
+
+Note:
+- Hunter Industries story
+- There are some great practices around mob-programming
+- Fundamentally, though, it's this: everybody works together on the same thing at the same time.
+
+
+<p class="fragment strike">Pair programming</p>
+<p class="fragment">Pairing</p>
+
+Note:
+- It's a skill.
+- If it's not working, that's probably about the human dynamic.
+- But I also think it's valuable to try pairing on non-code tasks.
+- Story: Pairing with designers on myUSCIS.
+
 
 > Programs must be written for people to read, and only incidentally for machines to execute.
 
 —Harold Abelson, Gerald Jay Sussman, and Julie Sussman, _Structure and Interpretation of Computer Programs_
 
-Note: TODO
+
+Code is for people.
+
+<p class="fragment">Is it readable?</p>
+
+Note:
+- I'm challenging you to be willing to look at your team's code with them.
+- If they perform code reviews, ask to join in.
+- Are you _sure_ everyone on the team understands the code? Or are others making the same assumption you are?
 
 
-Pair program, regardless of the terms
+Developer Experience (DX)
 
-Note: TODO
-
-
-Buddy System
-
-![Caution, buddy system is required for entry (from https://www.accuform.com/safety-sign/MCSP612)](cache/buddy-system-required-entry-osha-caution-safety-sign-mcsp612.webp)
+Note:
+- I already mentioned this, but y'all know about reducing batch size and reducing cycle time.
+- You can apply that to the work of coding at the level of making changes and seeing test results.
+- Anchore story.
 
 
-Take your place in the mob
+Who are the tests for?
 
-Note: TODO
+<ul>
+<li class="fragment">The team?</li>
+<li class="fragment">The customer?</li>
+<li class="fragment">Someone else?</li>
+<li class="fragment">Are they providing confidence?</li>
+<li class="fragment">Are they providing critique and insight?</li>
+</ul>
+
+Note:
+- Agile Testing Quadrants
 
 
-<!-- .slide: data-background-image="assets/kids_ensemble_programming.jpg" data-background-color="white" data-transition="none" data-background-transition="none" -->
+Tests are not an end in themselves.
 
 
-Social skills are key: software projects are people projects.
+Bonus:
 
-> No matter how it looks at first, it's always a people problem.
+```
+Given I am
+```
 
-—Gerald M. Weinberg, _Quality Software Management: Systems Thinking_
+Note:
+- Gherkin is a language for non-coders to code tests.
 
-Note: TODO
 
+Dig deeper:
+
+<ul>
+<li class="fragment">Improvement of Daily Work (5 Ideals of DevOps)</li>
+<li class="fragment">Agile Testing Quadrants</li>
+<li class="fragment">Mobbing, mobbing, mobbing!</li>
+<li class="fragment">FAST Agile</li>
+</ul>
+
+
+ACTIVITY:
+
+Please challenge me.
+
+<p class="fragment">In addition to the conference's feedback form, please write one each:</p>
+
+<ul>
+<li class="fragment">Something you thought really mattered. (plus)</li>
+<li class="fragment">A way you think I could improve this. (delta)</li>
+</ul>
+
+<p class="fragment">📥 Please leave these on the other easel.</p>
 
 
 
@@ -968,8 +1072,12 @@ Note: TODO
 <li>Challenge</li>
 </ul></div>
 <div>
-Dane Weber
+<strong>Dane Weber</strong>
 <a href="http://daneweber.com/">daneweber.com</a>
+
+📥 On your way out:
+- Plus and Delta
+- Technical divide examples from earlier.
 </div>
 </div>
 

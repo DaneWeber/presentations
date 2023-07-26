@@ -1026,7 +1026,10 @@ Tests are not an end in themselves.
 Bonus:
 
 ```
-Given I am
+Given I am presenting with reveal.js
+And my deck has more slides remaining
+When I press the spacebar
+Then the next slide is shown
 ```
 
 Note:

@@ -162,16 +162,30 @@ By this I mean that you should treat software developers and other folks engaged
 https://en.wiktionary.org/wiki/collegiality
 
 
-Muggles vs Wizards (Technical Mysticism)
+<img src="assets/muggle.jpg" class="fragment" />
+<span style="vertical-align: 5em" class="fragment">➡️</span>
+<img src="assets/wizard.jpg" class="fragment" />
 
-Note: TODO
+Note:
+Muggles vs Wizards (Technical Mysticism)
 (Story of being treated like a "developer" in my first month.)
 
 
-Programmers are architects, not crane operators
+<p class="fragment strike">
+Technical Mysticism
+</p>
 
-Note: TODO
-Conversely, countless times I've been asked
+
+<img src="assets/blueprint.jpg" width="40%" class="fragment" />
+<img src="assets/crane.jpg" width="40%" />
+
+
+People who code are like
+<p class="fragment strike">Crane Operators</p>
+<p class="fragment">Architects</p>
+
+Note:
+Conversely, many times I've been treated as "just a worker," especially when discussing how many developers are needed and whether we can outsource and find cheaper labor.
 
 
 > There are 2 hard problems in computer science: cache invalidation, naming things, and off-by-1 errors.
@@ -467,6 +481,11 @@ ACTIVITY:
 
 Read some code.
 
+<p class="fragment">Compare with the second version.</p>
+<p class="fragment">Check out the output.</p>
+<p class="fragment">Spot the bug.</p>
+<p class="fragment">Which version of the code would be easier to change?</p>
+
 Note:
 0:36 - 0:44
 - Read the first block of section of code.
@@ -478,9 +497,10 @@ Note:
 - Is there a problem? One bottles? Which code example will be easier to fix?
 
 
-Growth mindset and the cross-bar of the T
+<!-- .slide: data-background-image="assets/t-shape.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
-Note: TODO
+Note:
+Growth mindset and the cross-bar of the T
 
 
 Layers

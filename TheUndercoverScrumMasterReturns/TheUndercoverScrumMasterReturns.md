@@ -30,8 +30,6 @@ My path has been a bit unusual, which is why I'm up here to share my story with 
 <li class="fragment">Agile Coach</li>
 </ul>
 
-<p class="fragment">Also self-taught coding for fun</p>
-
 Note:
 The leadup to my undercover mission. Narrate.
 Sunk cost fallacy.

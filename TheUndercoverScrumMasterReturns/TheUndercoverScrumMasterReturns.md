@@ -200,7 +200,7 @@ Note:
 - https://martinfowler.com/bliki/TwoHardThings.html
 
 
-Naming is hard. Words matter.
+### Naming is hard. Words matter.
 
 Note:
 - Naming things in code is hard. We actually have discussions about this.
@@ -218,7 +218,7 @@ Proposal: treat your technical colleagues as equals and with respect.
 This is really what I'm getting after here.
 
 
-ACTIVITY:
+### ACTIVITY
 
 - Two stickies.
 - Leave them on the easel pad on your way out.
@@ -347,7 +347,7 @@ Note: I had a little bit of an idea that all of this was going on. But when I we
 Note: Navigating the code and tools were at the forefront of my mind, and the stuff I cared so much about as a Scrum Master faded into the background.
 
 
-The joy of code
+### The joy of code
 
 <div class="r-stack">
 <div class="fragment fade-in-then-out">❌⚪⚪⚪⚪</div>
@@ -367,7 +367,7 @@ Note:
 - If you enjoy solving puzzles you probably have a sense of the satisfaction that comes from getting code to work.
 
 
-Thinking vs. typing
+### Thinking vs. typing
 
 <div style="display: grid; grid-template-columns: 1fr 1fr">
 <div class="fragment" data-fragment-index="2"><img src="cache/diff-big.png" /></div>
@@ -383,7 +383,7 @@ Note:
 - At a typing speed of 200 characters per minute, and a maximum line length of 80 characters, those 62 new lines should have taken me a maximum of 24 minutes, but definitely less since some of the lines are very short.
 
 
-ACTIVITY:
+### ACTIVITY
 
 Find an 8-letter word, such that you can repeatedly remove a single letter and still have an English word.
 
@@ -400,7 +400,16 @@ Note:
 - Answer is starting, staring, string, sting, sing, sin, in, i
 
 
-Estimates are horrific for puzzle-solving
+Answer:
+
+* starting
+* staring
+* string
+* sting
+* sing
+* sin
+* in
+* i
 
 
 <!-- .slide: data-background-image="assets/patience-puzzle-together_s.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
@@ -420,7 +429,10 @@ Note:
 - Silent writing: what's your estimate?
 
 
-Feedback loops
+Estimates are horrific for puzzle-solving
+
+
+### Feedback loops
 
 <div class="r-stack">
 <div class="fragment fade-in-then-out">❌⚪⚪⚪⚪</div>
@@ -481,7 +493,7 @@ Note:
 If developers are hesitant to show you the code, that strikes me as something worth digging in to. Why?
 
 
-ACTIVITY:
+### ACTIVITY
 
 Read some code.
 
@@ -718,6 +730,9 @@ https://en.wiktionary.org/wiki/advocacy
 
 <!-- .slide: data-background-image="assets/mod/mod-00.png" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
+Note:
+Dirty secret: the modernization was rushed too. Congratulations! We've built another legacy system!
+
 
 instead
 
@@ -913,7 +928,7 @@ Note:
 - TCO (Total Cost of Ownership)
 
 
-ACTIVITY:
+### ACTIVITY
 
 Discussions in groups of 3-4.
 
@@ -1049,7 +1064,7 @@ Dig deeper:
 </ul>
 
 
-ACTIVITY:
+###
 
 Please challenge me.
 

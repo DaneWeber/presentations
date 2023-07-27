@@ -1,5 +1,9 @@
 <!-- .slide: data-background-image="cache/Agile2023-first-slide.jpg" data-background-size="contain" data-background-color="white" -->
 
+Note:
+To generate the PDF, open the presentation in Chrome, appending `?print-pdf` to the URL, and then print to PDF. Make sure to include background graphics.
+
+
 
 <!-- .slide: data-background-image="cache/Agile2023-talk-title-slide.jpg" data-background-size="contain" data-background-color="white" -->
 
@@ -8,7 +12,7 @@
 # The Undercover Scrum Master Returns
 
 Note:
-To generate the PDF, open the presentation in Chrome, appending `?print-pdf` to the URL, and then print to PDF. Make sure to include background graphics.
+Welcome. I will be speaking today about my experience as a Scrum Master and Agile Coach who went undercover as a developer.
 
 
 ## Dane's undercover mission
@@ -61,7 +65,6 @@ Note:
 <li class="fragment">Technical Agile Coach</li>
 <li class="fragment">Engineering Manager</li>
 <li class="fragment">Software Developer <span class="fragment">(again)</span></li>
-<li class="fragment">Director of Development<span class="fragment">?</span></li>
 </ul>
 
 Note:

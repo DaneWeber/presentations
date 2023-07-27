@@ -125,9 +125,9 @@ How about to coach surgeons?
 Note:
 - I certainly seems to me that there are people who could really help to improve surgeries without being surgeons themselves.
 - Creating checklists and ensuring they are followed has been a huge imporvement to surgery and surgical outcomes.
-- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3279961/
 - Now, if someone wants to impose checklists on surgeons without being willing to participate in a surgery, I'd raise my eyebrow.
 - And if they want to do so and refuse to even observe a surgery, I'd be even more skeptical.
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3279961/
 
 
 ### Keys
@@ -140,7 +140,7 @@ Note:
 <li class="fragment">Challenge</li>
 </ol>
 
-Note: TODO
+Note:
 Here's my bottom-line for this presention.
 When approaching your technical colleagues, I'm hoping you can develop these traits and skills.
 You could add "technical" to each of these terms if you like.
@@ -253,7 +253,7 @@ https://en.wiktionary.org/wiki/empathy
 
 Understanding the programmers
 
-Note: TODO
+Note:
 Story: as a scrum master I assumed the best of the members of my team, but I had a hard time understanding some of their preferences and behaviors. Why weren't they more excited about digging into our process and improving how we worked together? They seemed to want to just get on with the work.
 
 
@@ -421,19 +421,19 @@ Feedback loops
 
 <div class="r-stack">
 <div class="fragment fade-in-then-out">❌⚪⚪⚪⚪</div>
-<div class="fragment fade-in-then-out">⏳⚪⚪⚪⚪</div>
+<div class="fragment fade-in-then-out">⏳</div>
 <div class="fragment fade-in-then-out">❌⚪⚪⚪⚪</div>
-<div class="fragment fade-in-then-out">⏳⚪⚪⚪⚪</div>
+<div class="fragment fade-in-then-out">⏳</div>
 <div class="fragment fade-in-then-out">✅⚪⚪⚪⚪</div>
 <div class="fragment fade-in-then-out">✅❌⚪⚪⚪</div>
-<div class="fragment fade-in-then-out">✅⏳⚪⚪⚪</div>
+<div class="fragment fade-in-then-out">⏳</div>
 <div class="fragment fade-in-then-out">✅✅⚪⚪⚪</div>
 <div class="fragment fade-in-then-out">⚫⚫⚫⚫⚫</div>
-<div class="fragment fade-in-then-out">⏳⏳⏳⏳⏳</div>
+<div class="fragment fade-in-then-out">⏳</div>
 <div class="fragment fade-in-then-out">❌✅❌❌✅</div>
-<div class="fragment fade-in-then-out">⏳⏳⏳⏳⏳</div>
+<div class="fragment fade-in-then-out">⏳</div>
 <div class="fragment fade-in-then-out">✅❌✅✅✅</div>
-<div class="fragment fade-in-then-out">⏳⏳⏳⏳⏳</div>
+<div class="fragment fade-in-then-out">⏳</div>
 <div class="fragment fade-in-then-out">✅✅✅❌✅</div>
 </div>
 

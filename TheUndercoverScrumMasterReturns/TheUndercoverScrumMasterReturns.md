@@ -264,77 +264,11 @@ Note:
 As soon as I showed up to code, I was hit with this tremendous cognitive load. I just wasn't expecting it.
 
 
-<!-- .slide: data-background-image="assets/cog/cg-f-18.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-Note: In order just to get the code onto my machine, I had to learn to navigate...
-
-
-<!-- .slide: data-background-image="assets/cog/cg-f-17.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-Note: Before trying to change the code I had to get it running on my laptop, but to do that I needed to set up and use...
-
-
-<!-- .slide: data-background-image="assets/cog/cg-f-16.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-Note: I also have to run databases
-
-
-<!-- .slide: data-background-image="assets/cog/cg-f-15.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-Note: That's all just to run the existing code. To actually do any work I need to understand the languages and frameworks used, including...
-
-
-<!-- .slide: data-background-image="assets/cog/cg-f-14.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-Note: As a responsible developer, I also need to understand the tests and linters, which are written in...
-
-
-<!-- .slide: data-background-image="assets/cog/cg-f-13.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-Note: The code doesn't just run on my laptop, though, so I need use tools to interact with the various systems that build and run the code, including...
-
-
-<!-- .slide: data-background-image="assets/cog/cg-f-12b.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-Note: We've also got the logging and monitoring systems...
-
-
-<!-- .slide: data-background-image="assets/cog/cg-f-12a.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-Note: There are other assorted technologies that come up on occasion, including...
-
-
-<!-- .slide: data-background-image="assets/cog/cg-f-12.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-Note: (breathe) and...
-
-
-<!-- .slide: data-background-image="assets/cog/cg-f-11.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-Note: Not to mention our communication tools.
-
-
 <!-- .slide: data-background-image="assets/cog/cg-f-10.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 Note: That's just the languages and tools.
 
 
-<!-- .slide: data-background-image="assets/cog/cg-f-09.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-Note: Even more important, I need to understand
-
-
-<!-- .slide: data-background-image="assets/cog/cg-f-08.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-
-
-<!-- .slide: data-background-image="assets/cog/cg-f-07.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-
-
-<!-- .slide: data-background-image="assets/cog/cg-f-06.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-
-
-<!-- .slide: data-background-image="assets/cog/cg-f-05.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-
-
 <!-- .slide: data-background-image="assets/cog/cg-f-04.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-
-
-<!-- .slide: data-background-image="assets/cog/cg-f-03.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-Note: And on top of all of that, I'm trying to pay attention to
-
-
-<!-- .slide: data-background-image="assets/cog/cg-f-02.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-
-
-<!-- .slide: data-background-image="assets/cog/cg-f-01.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 
 <!-- .slide: data-background-image="assets/cog/cg-f-00.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
@@ -549,90 +483,6 @@ Note:
 - This is about getting a shared understanding.
 
 
-<!-- .slide: data-background-image="assets/chart/sys-14.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-
-Note:
-- x
-
-
-<!-- .slide: data-background-image="assets/chart/sys-13.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-
-Note:
-- x
-
-
-<!-- .slide: data-background-image="assets/chart/sys-12.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-
-Note:
-- x
-
-
-<!-- .slide: data-background-image="assets/chart/sys-11.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-
-Note:
-- x
-
-
-<!-- .slide: data-background-image="assets/chart/sys-10.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-
-Note:
-- x
-
-
-<!-- .slide: data-background-image="assets/chart/sys-09.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-
-Note:
-- x
-
-
-<!-- .slide: data-background-image="assets/chart/sys-08.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-
-Note:
-- x
-
-
-<!-- .slide: data-background-image="assets/chart/sys-07.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-
-Note:
-- x
-
-
-<!-- .slide: data-background-image="assets/chart/sys-06.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-
-Note:
-- x
-
-
-<!-- .slide: data-background-image="assets/chart/sys-05.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-
-Note:
-- x
-
-
-<!-- .slide: data-background-image="assets/chart/sys-04.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-
-Note:
-- x
-
-
-<!-- .slide: data-background-image="assets/chart/sys-03.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-
-Note:
-- x
-
-
-<!-- .slide: data-background-image="assets/chart/sys-02.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-
-Note:
-- x
-
-
-<!-- .slide: data-background-image="assets/chart/sys-01.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
-
-Note:
-- x
-
-
 <!-- .slide: data-background-image="assets/chart/sys-00.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 Note:
@@ -821,7 +671,7 @@ Note:
 — Dane Weber, this presentation
 
 
-<!-- .slide: data-background-image="assets/f1-painting.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" data-background-opacity="1" -->
+<!-- .slide: data-background-image="assets/f1-painting_150.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" data-background-opacity="1" -->
 
 Note:
 - Art by Jeanne Weber, 2023
@@ -830,7 +680,7 @@ Note:
 - Keeping the car in a showroom in pristine condition doesn't win.
 
 
-<!-- .slide: data-background-image="assets/f1-painting.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" data-background-opacity="0.2" -->
+<!-- .slide: data-background-image="assets/f1-painting_150.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" data-background-opacity="0.2" -->
 
 <ul>
 <li class="fragment">Driver</li>
@@ -881,10 +731,10 @@ Note:
 - So how does this happen?
 
 
-<!-- .slide: data-background-image="cache/Alice_queen2.jpg" data-background-size="contain" data-background-color="white" data-background-opacity="1" -->
+<!-- .slide: data-background-image="cache/Alice_queen3.jpg" data-background-size="contain" data-background-color="white" data-background-opacity="1" -->
 
 
-<!-- .slide: data-background-image="cache/Alice_queen2.jpg" data-background-size="contain" data-background-color="white" data-background-opacity="0.2" -->
+<!-- .slide: data-background-image="cache/Alice_queen3.jpg" data-background-size="contain" data-background-color="white" data-background-opacity="0.2" -->
 
 ## Red queen problem
 

@@ -982,21 +982,12 @@ Dig deeper:
 
 
 
-<div style="display: grid">
-<div style="grid-column: span 2; padding: 2vh">
 <strong>The Undercover Scrum Master Returns</strong>
-<a style="font-size: 50%" href="https://daneweber.github.io/presentations/TheUndercoverScrumMasterReturns/">https://daneweber.github.io/presentations/TheUndercoverScrumMasterReturns/</a>
-</div>
-<div>
+
 <ul>
 <li>Collegiality</li>
 <li>Empathy</li>
 <li>Curiosity</li>
 <li>Advocacy</li>
 <li>Challenge</li>
-</ul></div>
-<div>
-<strong>Dane Weber</strong>
-<a href="http://daneweber.com/">daneweber.com</a>
-</div>
-</div>
+</ul>

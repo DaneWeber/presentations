@@ -1,14 +1,3 @@
-<!-- .slide: data-background-image="cache/Agile2023-first-slide.jpg" data-background-size="contain" data-background-color="white" -->
-
-Note:
-To generate the PDF, open the presentation in Chrome, appending `?print-pdf` to the URL, and then print to PDF. Make sure to include background graphics.
-
-
-
-<!-- .slide: data-background-image="cache/Agile2023-talk-title-slide.jpg" data-background-size="contain" data-background-color="white" -->
-
-
-
 # The Undercover Scrum Master Returns
 
 Note:
@@ -1093,13 +1082,5 @@ Please challenge me.
 <div>
 <strong>Dane Weber</strong>
 <a href="http://daneweber.com/">daneweber.com</a>
-
-📥 On your way out:
-- Plus and Delta
-- Technical divide examples from earlier.
 </div>
 </div>
-
-
-
-<!-- .slide: data-background-image="cache/Agile2023-last-slide.jpg" data-background-size="contain" data-background-color="white" -->

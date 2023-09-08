@@ -205,17 +205,6 @@ Proposal: treat your technical colleagues as equals and with respect.
 This is really what I'm getting after here.
 
 
-### ACTIVITY
-
-- Two stickies.
-- Leave them on the easel pad on your way out.
-- One thing you've done in the past to reinforce the technical divide.
-- One thing you've done in the past to bridge the technical divide.
-
-Note:
-0:18
-
-
 Dig deeper:
 
 <ul>
@@ -370,35 +359,6 @@ Note:
 - At a typing speed of 200 characters per minute, and a maximum line length of 80 characters, those 62 new lines should have taken me a maximum of 24 minutes, but definitely less since some of the lines are very short.
 
 
-### ACTIVITY
-
-Find an 8-letter word, such that you can repeatedly remove a single letter and still have an English word.
-
-4-letter word example:
-* chat
-* cat
-* at
-* a
-
-Note:
-- HOW LONG WILL THIS TAKE?
-- Too bad, you've only got 2 minutes, which is plenty of time to write out 36 characters.
-- ACTIVITY: riddle (8 letters; like chat, cat, at, a)
-- Answer is starting, staring, string, sting, sing, sin, in, i
-
-
-Answer:
-
-* starting
-* staring
-* string
-* sting
-* sing
-* sin
-* in
-* i
-
-
 <!-- .slide: data-background-image="assets/patience-puzzle-together_s.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
 
 Note:
@@ -478,26 +438,6 @@ Look at the code and ask about it
 
 Note:
 If developers are hesitant to show you the code, that strikes me as something worth digging in to. Why?
-
-
-### ACTIVITY
-
-Read some code.
-
-<p class="fragment">Compare with the second version.</p>
-<p class="fragment">Check out the output.</p>
-<p class="fragment">Spot the bug.</p>
-<p class="fragment">Which version of the code would be easier to change?</p>
-
-Note:
-0:36 - 0:44
-- Read the first block of section of code.
-- Can you make sense of it? Discuss at your tables.
-- If you're curious about something, let me know and I'll come over.
-- Now, how about that second example?
-- Some code is easier to read, even doing the same thing.
-- On the back of the paper is the output to running some commands.
-- Is there a problem? One bottles? Which code example will be easier to fix?
 
 
 <!-- .slide: data-background-image="assets/t-shape.jpg" data-background-size="contain" data-background-color="white" data-transition="none" data-background-transition="none" -->
@@ -915,16 +855,6 @@ Note:
 - TCO (Total Cost of Ownership)
 
 
-### ACTIVITY
-
-Discussions in groups of 3-4.
-
-Who currently advocates for improving technical practices, quality, and automation on your team?
-
-Note: 0:56 - 1:00
-ACTIVITY: brief discussions in groups of 3 or 4 about who currently advocates - for improving technical practices, quality, and automation on your team.
-
-
 Dig deeper:
 
 <ul>
@@ -1049,20 +979,6 @@ Dig deeper:
 <li class="fragment">Mobbing, mobbing, mobbing!</li>
 <li class="fragment">FAST Agile</li>
 </ul>
-
-
-### Activity
-
-Please challenge me.
-
-<p class="fragment">In addition to the conference's feedback form, please write one each:</p>
-
-<ul>
-<li class="fragment">Something you thought really mattered. (plus)</li>
-<li class="fragment">A way you think I could improve this. (delta)</li>
-</ul>
-
-<p class="fragment">📥 Please leave these on the other easel.</p>
 
 
 

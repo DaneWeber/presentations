@@ -430,13 +430,13 @@ Note:
 Taylorism's "Scientific Management" succeeded because its core insight was experimentation: try different ways and learn which is better.
 
 
-![https://cxl.com/blog/local-maximum/](https://cxl.com/wp-content/uploads/2015/09/locmax-1.png)
+![https://cxl.com/blog/local-maximum/](cache/locmax-1.png)
 
 Note:
 Making changes you're sure will succeed will probably help you climb to the local maximum. It might be more of a leap to achieve an even better design. I'm not just talking about a block of code or website, but also teamwork approaches, HR policies, org structure, etc.
 
 
-![https://management30.com/practice/celebration-grids/](https://1qjpt15fhlq3xjfpm2utibj1-wpengine.netdna-ssl.com/wp-content/uploads/2015/05/celebration-grid-completed.jpg)
+![https://management30.com/practice/celebration-grids/](cache/celebration-grid-completed.jpg)
 
 Note:
 - The diagonal divide is between a "success" where the intended outcome occurred, and "failure" where it did not.

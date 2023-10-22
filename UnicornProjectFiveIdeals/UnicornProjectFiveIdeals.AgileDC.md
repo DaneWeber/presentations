@@ -123,9 +123,7 @@ Note:
 Note:
 - This is Gene Kim's consolidation of the ideals that effective organizations strive for.
 - I really like these as lenses for focusing on different aspects of the work system.
-- 🔬 They apply to various levels: micro to macro. 🔭
 - **These are presented as a response to what has come before: the default American corporation.**
-
 
 
 ## Not Ideal
@@ -133,7 +131,7 @@ Note:
 
 Big financial institution
 
-<div style="display: flex"><div style="flex: 1; font-size: 80%">
+<div style="display: flex"><div style="flex: 1; font-size: 60%">
 
 1. <span class="fragment strike" data-fragment-index="1">🦠 Locality and Simplicity</span>
 2. <span class="fragment strike" data-fragment-index="3">💧 Focus, Flow, and Joy</span>
@@ -141,24 +139,24 @@ Big financial institution
 4. <span class="fragment strike" data-fragment-index="7">⛑ Psychological Safety</span>
 5. <span class="fragment strike" data-fragment-index="9">🔮 Customer Focus</span>
 
-</div><div style="flex: 1; font-size: 50%">
+</div><div style="flex: 1; font-size: 60%">
 
 <ol>
-<li class="fragment" data-fragment-index="2">🧶 Many teams; many systems; 30+ had to be coordinated to implement a change to the duration of a loan-type.</li>
-<li class="fragment" data-fragment-index="4">🐘 Every release was big and resulted in fire-fighting, urgent bugs, and emergency deployments.</li>
-<li class="fragment" data-fragment-index="6">🔥 There was explicitly no time to address tech debt because there were too many fires.</li>
-<li class="fragment" data-fragment-index="8">🤫 Decisions were often made based on what would get the least attention from superiors.</li>
-<li class="fragment" data-fragment-index="10">🙈 Dev teams were implementing farmed-out requirements with nearly no context.</li>
+<li class="fragment" data-fragment-index="2">🧶 Many teams and systems involved</li>
+<li class="fragment" data-fragment-index="4">🐘 Big risky deployments</li>
+<li class="fragment" data-fragment-index="6">🔥 Too many fires to put out</li>
+<li class="fragment" data-fragment-index="8">🤫 Avoid attention from superiors</li>
+<li class="fragment" data-fragment-index="10">🙈 Implementing farmed-out requirements</li>
 </ol>
 
 </div></div>
 
 Note:
-<li class="fragment" data-fragment-index="2">🧶 Many teams; many systems; 30+ had to be coordinated to implement a change to the duration of a loan-type.
-<li class="fragment" data-fragment-index="4">🐘 Every release was big and resulted in fire-fighting, urgent bugs, and emergency deployments.
-<li class="fragment" data-fragment-index="6">🔥 There was explicitly no time to address tech debt because there were too many fires.
-<li class="fragment" data-fragment-index="8">🤫 Decisions were often made based on what would get the least attention from superiors.
-<li class="fragment" data-fragment-index="10">🙈 Dev teams were implementing farmed-out requirements with nearly no context.
+- 🧶 Many teams; many systems; 30+ had to be coordinated to implement a change to the duration of a loan-type.
+- 🐘 Every release was big and resulted in fire-fighting, urgent bugs, and emergency deployments.
+- 🔥 There was explicitly no time to address tech debt because there were too many fires.
+- 🤫 Decisions were often made based on what would get the least attention from superiors.
+- 🙈 Dev teams were implementing farmed-out requirements with nearly no context.
 
 
 

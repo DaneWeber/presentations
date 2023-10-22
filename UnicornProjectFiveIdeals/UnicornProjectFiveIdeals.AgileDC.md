@@ -1,8 +1,8 @@
-# AgileDC 2023
-
-
-
 # Five Ideals of DevOps
+
+Note:
+- Dane Weber
+- AgileDC on 2023-10-23
 
 
 From Gene Kim's _The Unicorn Project_
@@ -97,6 +97,21 @@ Note:
 I really like this distillation of what DevOps is about.
 
 
+## Ideals<br />🧭
+
+<ul class="fragment" style="list-style-type: none">
+<li>🔭 Organization</li>
+<li>🔎 Team</li>
+<li>🔬 Individual & Machine</li>
+</ul>
+
+Note:
+- As an ideal, I imagine these more like direction.
+- We want to get closer to the ideal.
+- There's no checkmark achieving it and we all know that the situations we're in are less than ideal.
+- Each applies macro and micro
+
+
 ### Five Ideals
 
 1. 🦠 Locality and Simplicity
@@ -122,7 +137,7 @@ Big financial institution
 
 1. <span class="fragment strike" data-fragment-index="1">🦠 Locality and Simplicity</span>
 2. <span class="fragment strike" data-fragment-index="3">💧 Focus, Flow, and Joy</span>
-3. <span class="fragment strike" data-fragment-index="5">🔪 Improvement of Daily Work</span>
+3. <span class="fragment strike" data-fragment-index="5">🔪 Improvement of Daily&nbsp;Work</span>
 4. <span class="fragment strike" data-fragment-index="7">⛑ Psychological Safety</span>
 5. <span class="fragment strike" data-fragment-index="9">🔮 Customer Focus</span>
 
@@ -196,6 +211,18 @@ Many modern management practices unwittingly trace their origins to Taylor's Sci
 The **Five Ideals of DevOps** are traits observed in high-performing software development organizations.
 
 🔮⛑🔪💧🦠
+
+
+1. 🦠 Locality and Simplicity
+2. 💧 Focus, Flow, and Joy
+3. 🔪 Improvement of Daily Work
+4. ⛑ Psychological Safety
+5. 🔮 Customer Focus
+
+Note:
+- Gene Kim gave the five ideals in this order, but I'm going to present them in reverse.
+- These are all in play at once. They're not a progression.
+- In my imagination, though, I see Customer Focus as foundational, and the others building on that.
 
 
 
@@ -333,6 +360,15 @@ Note:
 - It's important in high-stakes industries like nuclear power, oil drilling, airlines, shipping, spaceflight, etc.
 - The motivation is to prevent disasters such as meltdowns, oil spills, crashes, etc.
 - Software development is generally not at the same stakes.
+
+
+### What about software development?
+
+Note:
+- We are social creatures, well-known going back to ancient philosophers.
+- Social rejection is painful in the same way that physical pain is, as shown in [modern brain studies](https://www.apa.org/monitor/2012/04/rejection).
+- The crew of Flight 801 knew they were in danger of dying, but were more afraid of the social consequences of speaking up.
+- If they didn't speak up in that situation, why would you expect a manager or software developer to speak up when they notice a problem?
 
 
 ### Safe to Innovate 💡

@@ -675,18 +675,6 @@ Note:
 ![Communication channels growth from https://resources.scrumalliance.org/Article/doubling-down-on-scrum-fundamentals-helps-remote-teams-thrive](cache/communication_channels.png)
 
 
-Avoid scaling.
-
-First two principles of the [Manifesto&nbsp;for&nbsp;Scaling&nbsp;Agility](https://scalingmanifesto.org/):
-
-<div style="font-size: 80%">
-
-1. If you can achieve your goals with a single team, <em style="color: yellow">do&nbsp;not&nbsp;scale</em>. Employ the minimum number of people required to meet your strategic outcomes.
-2. If you have a single team and it cannot deliver effectively using Agile principles and practices, <em style="color: yellow">do&nbsp;not&nbsp;scale</em>. Succeed with a single team first.
-
-</div>
-
-
 complexity
 
 ⬇️

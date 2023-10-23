@@ -551,62 +551,51 @@ There are many ways to reduce the cycle time for the various steps while maintai
 
 <div style="display: flex; background-color: SteelBlue; width: 100%; font-size: 2vw">
 <div style="flex: 1 1 0px; border: solid DarkGray; background-color: MediumTurquoise; width 20%">Design & Definition</div>
-<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DarkTurquoise; width 20%"></div>
-<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DeepSkyBlue; width 20%"></div>
-<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DodgerBlue; width 20%"></div>
-</div>
-
-- Three Amigos definition
-- Business working with development
-- User Stories and Acceptance Criteria
-- Specification by Example
-
-
-<div style="display: flex; background-color: SteelBlue; width: 100%; font-size: 2vw">
-<div style="flex: 1 1 0px; border: solid DarkGray; background-color: MediumTurquoise; width 20%"></div>
 <div style="flex: 1 1 0px; border: solid DarkGray; background-color: DarkTurquoise; width 20%">Development & Integration</div>
-<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DeepSkyBlue; width 20%"></div>
-<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DodgerBlue; width 20%"></div>
-</div>
-
-- Pair-programming & Mob-programming
-- Clean code without repetition
-- Test-first
-- Low-latency, high-relevance tests
-- De-coupled services
-- Trunk-based development
-- Continuous integration
-
-
-<div style="display: flex; background-color: SteelBlue; width: 100%; font-size: 2vw">
-<div style="flex: 1 1 0px; border: solid DarkGray; background-color: MediumTurquoise; width 20%"></div>
-<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DarkTurquoise; width 20%"></div>
 <div style="flex: 1 1 0px; border: solid DarkGray; background-color: DeepSkyBlue; width 20%">Build, Test, & Deploy</div>
-<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DodgerBlue; width 20%"></div>
-</div>
-
-- CI/CD pipeline
-- Automated build
-- Automated test suites
-- Automated acceptance tests
-- Infrastructure as Code
-- Automated, containerized deployment
-- Blue/green deployments
-
-
-<div style="display: flex; background-color: SteelBlue; width: 100%; font-size: 2vw">
-<div style="flex: 1 1 0px; border: solid DarkGray; background-color: MediumTurquoise; width 20%"></div>
-<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DarkTurquoise; width 20%"></div>
-<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DeepSkyBlue; width 20%"></div>
 <div style="flex: 1 1 0px; border: solid DarkGray; background-color: DodgerBlue; width 20%">Observed in Production</div>
+</div><div style="display: flex; background-color: SteelBlue; width: 100%; font-size: 2vw">
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: MediumTurquoise; width 20%">
+<ul style="font-size: 50%">
+<li>Three Amigos definition</li>
+<li>Business working with development</li>
+<li>User Stories and Acceptance Criteria</li>
+<li>Specification by Example</li>
+</ul>
 </div>
-
-- Smoke tests
-- Logging
-- Monitoring
-- Alerting
-- Reporting
-- A/B testing
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DarkTurquoise; width 20%">
+<ul style="font-size: 50%">
+<li>Pair-programming & Mob-programming</li>
+<li>Clean code without repetition</li>
+<li>Test-first</li>
+<li>Low-latency, high-relevance tests</li>
+<li>De-coupled services</li>
+<li>Trunk-based development</li>
+<li>Continuous integration</li>
+</ul>
+</div>
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DeepSkyBlue; width 20%">
+<ul style="font-size: 50%">
+<li>CI/CD pipeline</li>
+<li>Automated build</li>
+<li>Automated test suites</li>
+<li>Automated acceptance tests</li>
+<li>Infrastructure as Code</li>
+<li>Automated, containerized deployment</li>
+<li>Blue/green deployments</li>
+</ul>
+</div>
+<div style="flex: 1 1 0px; border: solid DarkGray; background-color: DodgerBlue; width 20%">
+<ul style="font-size: 50%">
+<li>Smoke tests</li>
+<li>Logging</li>
+<li>Monitoring</li>
+<li>Alerting</li>
+<li>Reporting</li>
+<li>A/B testing</li>
+</ul>
+</div>
+</div>
 
 
 ### Developer Experience

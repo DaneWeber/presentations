@@ -750,3 +750,11 @@ DevOps is
 > Better value.
 > Sooner, Safer, Happier.
 ~ Jon Smart
+
+
+
+### Dane Weber
+
+LinkedIn: @daneweber
+
+Deck: [https://daneweber.github.io/presentations/](https://daneweber.github.io/presentations/)

@@ -97,6 +97,7 @@ Note:
 I really like this distillation of what DevOps is about.
 
 
+
 ## Ideals<br />🧭
 
 <ul class="fragment" style="list-style-type: none">
@@ -211,11 +212,13 @@ The **Five Ideals of DevOps** are traits observed in high-performing software de
 🔮⛑🔪💧🦠
 
 
-1. 🦠 Locality and Simplicity
-2. 💧 Focus, Flow, and Joy
-3. 🔪 Improvement of Daily Work
-4. ⛑ Psychological Safety
-5. 🔮 Customer Focus
+<ol>
+<li value="5">🔮 Customer Focus</li>
+<li value="4">⛑ Psychological Safety</li>
+<li value="3">🔪 Improvement of Daily Work</li>
+<li value="2">💧 Focus, Flow, and Joy</li>
+<li value="1">🦠 Locality and Simplicity</li>
+</ol>
 
 Note:
 - Gene Kim gave the five ideals in this order, but I'm going to present them in reverse.
@@ -240,11 +243,17 @@ Stereotypically, Developers want to introduce new features and Operators want to
 
 ### Alignment of Work with Purpose
 
-- Accomplish the mission
-  - ↖By doing X
-    - ↖By doing Y
-      - ↖By doing Z
-        - ↖By writing this line of code
+<ul class="fragment" style="list-style-type: none">
+<li>Accomplish the mission</li>
+<ul class="fragment" style="list-style-type: none">
+<li>↖By doing X</li>
+<ul class="fragment" style="list-style-type: none">
+<li>↖By doing Y</li>
+<ul class="fragment" style="list-style-type: none">
+<li>↖By doing Z</li>
+<ul class="fragment" style="list-style-type: none">
+<li>↖By writing this line of code</li>
+</ul></ul></ul></ul></ul>
 
 Note:
 Ideally, we understand the connection between our work and how it makes someone's life better.
@@ -256,31 +265,15 @@ Note:
 - This work might have been performed efficiently, but it was a waste.
 - Are we really solving our customers' problems?
 - Is this door now wheelchair-accessible? No.
+- Understanding "why" could've cleared up misunderstandings with requirements.
 
 
-<div style="display: flex"><div style="flex: 1; font-size: 80%">
-Acceptance Criteria:
-
-- Ramp has 5 degree incline.
-- Ramp is 36 inches wide.
-- Ramp rises to height of the base of the door.
-- Five steps from floor to base of the door.
-- Each step has no more than a 7.2 inches rise.
-- Each step is at least 10 inches deep.
-- Each step is 36 inches wide.
-</div><div style="flex: 1">
-<img src="https://www.thesun.co.uk/wp-content/uploads/2018/08/NINTCHDBPICT000429853769.jpg" alt="ramp and stairs" height="532" />
-</div></div>
-
-Note:
-These acceptance criteria might seem to ensure we'll get a good solution, but they're all satisfied by this inaccessible thing.
-
-
+<!-- .slide: data-transition="slide fade" -->
 ### User Story
 
 As a [stakeholder]<br />
 I want [capability]<br />
-So that [the purpose]<br />
+So that [purpose]<br />
 
 Note:
 - User stories are just a reminder to consider "who" is affected and "why" this thing is worthwhile.
@@ -288,24 +281,24 @@ Note:
 - Ideally the builders understand the purpose so that they can better push back and propose alternatives.
 
 
-### [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law)
+<!-- .slide: data-transition="slide fade" -->
+### Context
 
-When a measure becomes a target, it ceases to be a good measure.
-
-~ [Marilyn Strathern](https://archive.org/details/ImprovingRatingsAuditInTheBritishUniversitySystem)
+stakeholder<br />
+capability<br />
+purpose<br />
 
 Note:
-- Related to this, metrics are often insufficient and can even be counter-productive.
-
-
-<a href="https://sketchplanations.com/goodharts-law"><img height="528" alt="[Sketchplanation of Goodhart's Law at https://sketchplanations.com/goodharts-law" src="https://images.prismic.io/sketchplanations/6336f4c3-4c89-41f6-998f-ac595fb33a66_167369765942.jpg?auto=format&ixlib=react-9.0.2&w=1246" /></a>
+- User stories are just a reminder to consider "who" is affected and "why" this thing is worthwhile.
+- The important thing is communicating why, not the format.
+- Ideally the builders understand the purpose so that they can better push back and propose alternatives.
 
 
 ### 5) 🔮 Customer Focus
 
 - Go learn what real customers/stakeholders need.
 - Learn, communicate, and challenge the _why_.
-- Prioritize core over context, which means doing the things that provide the real value.
+- Metrics won't save you. See [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law).
 - This isn’t just a specialist’s job: we each need to understand the _why_ of what we are doing so that we can make good trade-offs.
 
 Note:

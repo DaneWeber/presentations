@@ -131,4 +131,5 @@ end
 Let's fix up our tests so that they can be re-recorded with `make update_specs`
 
 
-<img width="50%" height="50%" src="https://pics.me.me/a-laptop-but-w-a-vhs-player-shoujocowboy-oor-winvhs-37526951.png"></img>
+<!-- <img width="50%" height="50%" src="https://pics.me.me/a-laptop-but-w-a-vhs-player-shoujocowboy-oor-winvhs-37526951.png"></img> -->
+<img width="50%" height="50%" src="cache/vcr-laptop.webp"></img>

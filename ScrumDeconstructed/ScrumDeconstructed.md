@@ -215,8 +215,8 @@ Scrum is founded on empiricism. The guide calls out the limits of forecasting:
 > In complex environments, what will happen is unknown. Only what has already happened may be used for forward-looking decision making.
 
 
-<!-- .slide: data-background-image="./assets/cached/tavern_puzzle.jpg" data-background-size="contain" data-background-color="white" -->
-Note: ![tavern puzzle](https://tavernpuzzles.store.turbify.net/pz-ptpz.html) this puzzle is not even complex, but it contains unknowns even though fully inspectible. Your estimate is likely wildly inaccurate until you've actually solved it. I can remove the U-shaped shuttle in a little under a minute, but it took me many hours over several months to solve it the first time.
+<!-- .slide: data-background-image="./assets/cached/patience-puzzle-19.jpg" data-background-size="contain" data-background-color="white" -->
+Note: [tavern puzzle](https://tavernpuzzles.store.turbify.net/pz-ptpz.html) this puzzle is not even complex, but it contains unknowns even though fully inspectible. Your estimate is likely wildly inaccurate until you've actually solved it. I can remove the U-shaped shuttle in a little under a minute, but it took me many hours over several months to solve it the first time.
 
 
 There are useful forecasting techniques that are based in historical data, such as burn-up charts, cumulative flow diagrams, and Monte Carlo simulations.
@@ -252,7 +252,7 @@ Transaction costs:
 
 
 <!-- .slide: data-background-image="./assets/cached/economic-batch-size.jpg" data-background-size="contain" data-background-color="white" -->
-Note: ![transaction and total cost graph](https://i.stack.imgur.com/j5rF8.jpg) (see [here](https://ardalis.com/principles-of-product-development-flow-book-review/)) It is human nature to notice the transaction costs because they are immediate: we see and feel them in the moment. The holding costs are removed from the event. Lean and just-in-time manufacturing were competitive advantages because they reduced holding costs. Not shown here, holding costs can actually jump at various points as you cross threshholds, such as food spoilage, needing another warehouse, etc.
+Note: [transaction and total cost graph](https://i.stack.imgur.com/j5rF8.jpg) (see [here](https://ardalis.com/principles-of-product-development-flow-book-review/)) It is human nature to notice the transaction costs because they are immediate: we see and feel them in the moment. The holding costs are removed from the event. Lean and just-in-time manufacturing were competitive advantages because they reduced holding costs. Not shown here, holding costs can actually jump at various points as you cross threshholds, such as food spoilage, needing another warehouse, etc.
 
 
 Small batches of work is one of the key insights of Agile software development and is the result of many scars.

@@ -10,13 +10,13 @@ What we owe the commons, who pays the costs, and why human expertise still decid
 
 Notes: Opening: this is my personal perspective on AI, offered as a starting point. I am asking everyone, and each capability lead in particular, to develop their own.
 
----
+
 
 # Slide 2: Thesis
 
 ## AI is a powerful tool. How we use it is a choice each of us owns.
 
----
+
 
 # Slide 3: The commons
 
@@ -35,7 +35,7 @@ Value is taken from something held in common. The ethical question is what flows
 
 Notes: Note: you dictated "phishing"; I assumed you meant fishing (overfishing of shared fisheries). Swap in any other commons example you prefer, such as grazing land or clean air.
 
----
+
 
 # Slide 4: Negative externalities
 
@@ -58,7 +58,7 @@ Breathe it, and carry the health costs.
 
 The producer enjoys the benefit. The public absorbs the cost.
 
----
+
 
 # Slide 5: The pattern repeats
 
@@ -72,7 +72,7 @@ Writing, art, music, photography, code, and video that human creators made, gath
 ### It creates externalities
 Heat and energy, water for cooling, and eroding trust in what we see and hear. Others carry these costs.
 
----
+
 
 # Slide 6: The costs of AI
 
@@ -91,7 +91,7 @@ Convincing synthetic video and audio make real footage easier to doubt and fakes
 
 Notes: Optional: add a sourced figure on energy or water use relevant to your audience. I have not included statistics because none were provided.
 
----
+
 
 # Slide 7: Our approach
 
@@ -111,13 +111,13 @@ Notes: Optional: add a sourced figure on energy or water use relevant to your au
 
 Notes: These practices are draft suggestions. Tailor them to the commitments you want Accela to make.
 
----
+
 
 # Slide 8: Expertise
 
 ## We may be far more productive. Our expertise is still what we bring to the table.
 
----
+
 
 # Slide 9: Air France 447
 
@@ -131,7 +131,7 @@ On June 1, 2009, an Airbus A330 flying from Rio de Janeiro to Paris crossed the 
 
 Notes: Please verify the details of the AF447 account against the official BEA report before presenting. The point is not that automation is bad, but that people must retain the skill to take over.
 
----
+
 
 # Slide 10: Scrutiny scales with the stakes
 
@@ -147,7 +147,7 @@ Notes: Please verify the details of the AF447 account against the official BEA r
 
 Notes: Replace the medium-stakes example with one from your own work. Each level of stakes calls for more expert judgment about whether the solution is fit for purpose.
 
----
+
 
 # Slide 11: Keeping our skills
 
@@ -164,7 +164,7 @@ Judge AI output against what you know is correct, not against how confident it s
 ### Know when to step in
 Decide up front which parts of a system need a human who can take over.
 
----
+
 
 # Slide 12: Your own perspective
 
@@ -178,7 +178,7 @@ Form your own view on when AI helps your work, when it does not, and why.
 ### Every capability lead
 Define how your capability should use AI. I am not asking you to repeat my message. Write yours.
 
----
+
 
 # Slide 13: What a capability perspective covers
 
@@ -193,7 +193,7 @@ Define how your capability should use AI. I am not asking you to repeat my messa
 
 Notes: Each perspective can serve onboarding, professional development, and guidance for current employees who want to expand their AI proficiency.
 
----
+
 
 # Slide 14: When a client does not allow AI
 
@@ -212,7 +212,7 @@ Collect concrete examples of the value so we can propose approved tooling to the
 
 Notes: Add your own concrete examples for each capability area here.
 
----
+
 
 # Slide 15: Recommending AI tools to clients
 
@@ -227,7 +227,7 @@ Claude Code for our software developers, for [a specific task, such as test gene
 
 Notes: Fill in the brackets with the specifics for each role and engagement.
 
----
+
 
 # Slide 16: Closing
 

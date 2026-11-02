@@ -2,7 +2,7 @@
 
 # Slide 1: Cover
 
-A perspective for the Accela team
+A perspective for the Excella team
 
 # Using AI well, together
 
@@ -109,7 +109,7 @@ Notes: Optional: add a sourced figure on energy or water use relevant to your au
 - Choose efficient, right-sized models for the task
 - Protect trust by verifying what we ship and being open about AI use
 
-Notes: These practices are draft suggestions. Tailor them to the commitments you want Accela to make.
+Notes: These practices are draft suggestions. Tailor them to the commitments you want Excella to make.
 
 
 

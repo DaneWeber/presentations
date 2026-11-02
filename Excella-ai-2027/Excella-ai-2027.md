@@ -8,7 +8,7 @@ A perspective for the Excella team
 
 What we owe the commons, who pays the costs, and why human expertise still decides what is fit for purpose.
 
-Notes: Opening: this is my personal perspective on AI, offered as a starting point. I am asking everyone, and each capability lead in particular, to develop their own.
+Note: Opening: this is my personal perspective on AI, offered as a starting point. I am asking everyone, and each capability lead in particular, to develop their own.
 
 
 
@@ -33,7 +33,7 @@ Companies build products on code they did not write and do not own, and much of 
 ### The common thread
 Value is taken from something held in common. The ethical question is what flows back to it.
 
-Notes: Note: you dictated "phishing"; I assumed you meant fishing (overfishing of shared fisheries). Swap in any other commons example you prefer, such as grazing land or clean air.
+Note: Note: you dictated "phishing"; I assumed you meant fishing (overfishing of shared fisheries). Swap in any other commons example you prefer, such as grazing land or clean air.
 
 
 
@@ -89,7 +89,7 @@ Cooling often depends on local water supplies that residents and farms also rely
 ### Trust
 Convincing synthetic video and audio make real footage easier to doubt and fakes easier to believe.
 
-Notes: Optional: add a sourced figure on energy or water use relevant to your audience. I have not included statistics because none were provided.
+Note: Optional: add a sourced figure on energy or water use relevant to your audience. I have not included statistics because none were provided.
 
 
 
@@ -109,7 +109,7 @@ Notes: Optional: add a sourced figure on energy or water use relevant to your au
 - Choose efficient, right-sized models for the task
 - Protect trust by verifying what we ship and being open about AI use
 
-Notes: These practices are draft suggestions. Tailor them to the commitments you want Excella to make.
+Note: These practices are draft suggestions. Tailor them to the commitments you want Excella to make.
 
 
 
@@ -129,7 +129,7 @@ On June 1, 2009, an Airbus A330 flying from Rio de Janeiro to Paris crossed the 
 
 **The autopilot was not the problem. Pilots must keep the skill to step in when it lets go.**
 
-Notes: Please verify the details of the AF447 account against the official BEA report before presenting. The point is not that automation is bad, but that people must retain the skill to take over.
+Note: Please verify the details of the AF447 account against the official BEA report before presenting. The point is not that automation is bad, but that people must retain the skill to take over.
 
 
 
@@ -145,7 +145,7 @@ Notes: Please verify the details of the AF447 account against the official BEA r
 | Medium | [An internal tool a team relies on] | Code review, tests, and a named owner. |
 | High | A long-standing system that enforces federal law | Expert design review, rigorous testing, and lasting accountability. |
 
-Notes: Replace the medium-stakes example with one from your own work. Each level of stakes calls for more expert judgment about whether the solution is fit for purpose.
+Note: Replace the medium-stakes example with one from your own work. Each level of stakes calls for more expert judgment about whether the solution is fit for purpose.
 
 
 
@@ -191,7 +191,7 @@ Define how your capability should use AI. I am not asking you to repeat my messa
 3. **Skills to keep sharp:** What your members must still do and know well.
 4. **A growth path:** Guidance for developing AI proficiency over time.
 
-Notes: Each perspective can serve onboarding, professional development, and guidance for current employees who want to expand their AI proficiency.
+Note: Each perspective can serve onboarding, professional development, and guidance for current employees who want to expand their AI proficiency.
 
 
 
@@ -210,7 +210,7 @@ Practice on personal projects, public data, and sample problems with no client i
 ### Make the case
 Collect concrete examples of the value so we can propose approved tooling to the client.
 
-Notes: Add your own concrete examples for each capability area here.
+Note: Add your own concrete examples for each capability area here.
 
 
 
@@ -225,7 +225,7 @@ Notes: Add your own concrete examples for each capability area here.
 ### Example
 Claude Code for our software developers, for [a specific task, such as test generation or code review], with [review and access guardrails].
 
-Notes: Fill in the brackets with the specifics for each role and engagement.
+Note: Fill in the brackets with the specifics for each role and engagement.
 
 
 
